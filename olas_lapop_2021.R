@@ -18,8 +18,9 @@ mean(is.na(lapop$uniq_id))
 mean(is.na(lapop$q10newt))
 mean(is.na(lapop$pais))
 
-
-
+ lapop_not_na <- lapop[!is.na(lapop$psc1n),]
+ 
+ 
 
 # year
  # lapop$year_survey <- format(lapop$fecha,"%Y")
@@ -60,9 +61,9 @@ mean(is.na(lapop$pais))
 # be included here: 
      
       
-     lapop$access_water_piped_house <- ifelse(lapop$psc1n ==1, 1,0)      
-     lapop$access_water_piped_plot <- ifelse(lapop$psc1n == 2, 1,0)
-     lapop$water_trucked <- ifelse(lapop$psc1n ==13,1,0)
+      lapop$access_water_piped_house <- ifelse(lapop$psc1n ==1, 1,0)      
+      lapop$access_water_piped_plot <- ifelse(lapop$psc1n == 2, 1,0)
+      lapop$water_trucked <- ifelse(lapop$psc1n ==13,1,0)
       
       # psc1n, psc2n, pipedplot_dw, pipedmain_dw,
       data_on_prem <- select(lapop,access_water_piped_house,access_water_piped_plot, water_trucked)
@@ -80,12 +81,6 @@ mean(is.na(lapop$pais))
       lapop$consume_bottled <- lapop$bottled
       lapop$consume_unimproved <- ifelse(lapop$psc1n %in% c(7,14,15),1,0)
       
-     test <-  lapop[lapop$quintile == "no income data" & lapop$gender == "female" & lapop$iso3 == "PER",]
-      t<- select(test,psc1n, consume_other, water_trucked)
-      
-      
-     # lapop$improved_w_access <-ifelse(is.na(lapop$consume_distr) & is.na(lapop$consume_other), NA, 
-      #                                       ifelse(lapop$consume_distr == 1 | lapop$consume_other == 1,1,0))
 
       improved_w_access <- select(lapop,consume_distr,consume_other)
       improved_w_access$improved<- +(rowSums(improved_w_access, na.rm = TRUE) * NA ^ (rowSums(!is.na(improved_w_access)) == 0) > 0)
@@ -104,27 +99,15 @@ mean(is.na(lapop$pais))
       lapop$water_dist_daily <- ifelse(lapop$psc9n == 2,1,
                                        ifelse(is.na(lapop$psc9n), 0,
                                               ifelse(lapop$psc9n ==1,0,0))) ## family has sufficient water
-      #water_dist_daily <- psc9n_insufficient
+      
       lapop$access_water_piped_house_daily <- ifelse(lapop$access_water_piped_house ==1 & lapop$water_dist_daily ==1, 1,
                                                             ifelse(lapop$access_water_piped_house == 0 | lapop$water_dist_daily == 0, 0, NA))
       
-     # access_water_piped_house_daily <- select(lapop,water_dist_daily,access_water_piped_house)
-    #  access_water_piped_house_daily$dailyhouse<- +(rowSums(access_water_piped_house_daily, na.rm = TRUE) * NA ^ (rowSums(!is.na(access_water_piped_house_daily)) == 0) > 0)
-    #  lapop$access_water_piped_house_daily <-access_water_piped_house_daily$dailyhouse
-      
-      test<-lapop %>%
-        group_by(iso3) %>%
-        summarise(water_dist_daily= weighted.mean(water_dist_daily, w=weight1500, na.rm =T),
-                  access_water_piped_house= weighted.mean(access_water_piped_house, w=weight1500, na.rm =T),
-                  access_water_piped_house_daily= weighted.mean(access_water_piped_house_daily, w=weight1500, na.rm =T))
+
       
       lapop$access_water_piped_plot_daily <- ifelse(lapop$access_water_piped_plot ==1 & lapop$water_dist_daily ==1, 1,
                                                     ifelse(lapop$access_water_piped_plot == 0 | lapop$water_dist_daily == 0, 0, NA ))
-      
-      
-     # access_water_piped_plot_daily <- select(lapop,water_dist_daily,access_water_piped_plot)
-    #  access_water_piped_plot_daily$dailyplot<- +(rowSums(access_water_piped_plot_daily, na.rm = TRUE) * NA ^ (rowSums(!is.na(access_water_piped_plot_daily)) == 0) > 0)
-     # lapop$access_water_piped_plot_daily <-access_water_piped_plot_daily$dailyplot
+
       
       lapop$reason_w_treatment_taste <- ifelse(lapop$treated_why_simplified %in% c(1),1,0)
       lapop$reason_w_treatment_color <- ifelse(lapop$treated_why_simplified %in% c(2),1,0)
@@ -171,32 +154,13 @@ mean(is.na(lapop$pais))
       data_improved_san$improved<- +(rowSums(data_improved_san, na.rm = TRUE) * NA ^ (rowSums(!is.na(data_improved_san)) == 0) > 0)
       lapop$improved_san <-data_improved_san$improved
       
-      test<-lapop %>%
-        group_by(iso3) %>%
-        summarise(access_sewer= weighted.mean(access_sewer, w=weight1500, na.rm =T),
-                  access_septic= weighted.mean(access_septic, w=weight1500, na.rm =T),
-                  access_latrine= weighted.mean(access_latrine, w=weight1500, na.rm =T),
-                  improved_san= weighted.mean(improved_san, w=weight1500, na.rm =T))
-      test$test <- test$access_latrine+test$access_septic+test$access_sewer
-      
       
       lapop$access_sewer_exclusive <- ifelse(is.na(lapop$access_san_exclusive) & is.na(lapop$access_sewer),NA,
                                        ifelse(lapop$access_sewer == 1 & lapop$access_san_exclusive == 1, 1,0))
       
-      
-      test<-lapop %>%
-        group_by(iso3) %>%
-        summarise(access_sewer= weighted.mean(access_sewer, w=weight1500, na.rm =T),
-                  access_san_exclusive= weighted.mean(access_san_exclusive, w=weight1500, na.rm =T),
-                  access_sewer_exclusive= weighted.mean(access_sewer_exclusive, w=weight1500, na.rm =T))
-      
         
      lapop$access_septic_exclusive <- ifelse(is.na(lapop$access_san_exclusive) & is.na(lapop$access_septic),NA,
                                             ifelse(lapop$access_septic == 1 & lapop$access_san_exclusive == 1, 1,0))
-     
-   # test <-lapop[lapop$iso3 == "GUY" & lapop$quintile == "1" & lapop$gender == "female" & lapop$scope == "no scope data",]
-  #  t<- select(test, psc12n_exclusive, psc12n,psc11n, access_san_exclusive, access_septic, access_septic_exclusive)  
-    
     
     
      lapop$access_latrine_exclusive <- ifelse(is.na(lapop$access_san_exclusive) & is.na(lapop$access_latrine),NA,
@@ -209,32 +173,10 @@ mean(is.na(lapop$pais))
       
       lapop$no_san_access <- lapop$psc12n_none
       
-     # lapop$access_latrines_unimproved <- ifelse(lapop$psc11n %in% c(3,4,6),1,0) ## wc not connected to any system, wc that drains to other location, latrine with pozo abierto
       lapop$access_latrines_unimproved <- ifelse(is.na(lapop$psc11n),NA,
                                                  ifelse(!lapop$psc11n %in% c(1,2,5,7),1, 0))
       
-      #lapop$access_latrines_unimproved2 <- ifelse(lapop$improved_san ==1,0, 
-       #                                           ifelse(lapop$improved_san ==0,1, NA))  lapop$improved_san_exclusive
-      
-     # test <- select(lapop,improved_san, access_latrines_unimproved, access_latrines_unimproved2)
-    #  test$test <- lapop$access_latrines_unimproved - lapop$access_latrines_unimproved2
-      
-    #  test<-lapop %>%
-     #   group_by(iso3) %>%
-      #  summarise(improved_san= weighted.mean(improved_san, w=weight1500, na.rm =T),
-       #           access_latrines_unimproved= weighted.mean(access_latrines_unimproved, w=weight1500, na.rm =T),
-        #          access_latrines_unimproved2= weighted.mean(access_latrines_unimproved2, w=weight1500, na.rm =T))
-      
-      
-     # table(lapop$iso3, lapop$psc11n)
-    #  count_na(lapop$psc11n)
-      
-     # test <- select(lapop, psc11n, access_latrines_unimproved, improved_san)
-      
-      
-     # lapop$access_latrines_unimproved_exclusive <- ifelse(is.na(lapop$access_san_exclusive) & is.na(lapop$access_latrines_unimproved),NA,
-      #                                         ifelse(lapop$access_latrines_unimproved == 1 & lapop$access_san_exclusive == 1, 1,0))
-      
+
       lapop$access_latrines_unimproved_exclusive <- ifelse(lapop$improved_san_exclusive ==1,0,
                                                            ifelse(lapop$improved_san_exclusive ==0,1, NA))
       
@@ -243,9 +185,7 @@ mean(is.na(lapop$pais))
       lapop$sewage_dont_know <- ifelse(is.na(lapop$psc15),0,lapop$psc15) ## only asked to those with sewer connections
       lapop$sewage_contaminates <- ifelse(is.na(lapop$psc15_contaminates),0, lapop$psc15_contaminates)  ## only asked to those with sewer connections
 
-      
-test <- select(lapop,q10newt, quintile)      
-test[lapop$quintile ==0,]      
+
       
 # We correct the dummy variables for the svyby function, replacing NAs with 0 for the calculations. The original NA
 # values are important to keep in the lapop data set. For cleanliness we work with a data set dedicated to processing.
@@ -296,11 +236,8 @@ lapop_processing <- select(lapop,pais,iso3, strata, upm, weight1500,income, scop
                            access_latrines_unimproved_exclusive, 
                            sewage_treated,
                            sewage_dont_know,
-                           sewage_contaminates)
-
-
-
-#lapop_processing <- lapop_processing %>% mutate_at(9:length(lapop_processing), ~replace_na(.,0))
+                           sewage_contaminates,
+                           uniq_id)
 
 
 
@@ -315,7 +252,6 @@ lapop2021_sd <- as_survey_design(lapop_processing,
                                  strata = strata,
                                  weight = weight1500)
 
-### testing
 
 dimensions <- list("iso3", c("iso3", "scope"), c("iso3","gender"), c("iso3","quintile"), 
                                   c("iso3","scope", "gender"), c("iso3","scope", "quintile"), c("iso3","gender","quintile"), 
@@ -375,7 +311,8 @@ for (i in 1:length(dimensions)){
                      access_latrines_unimproved_exclusive= survey_mean(access_latrines_unimproved_exclusive, na.rm = T,  vartype = c("ci")),
                      sewage_treated= survey_mean(sewage_treated, na.rm = T,  vartype = c("ci")),
                      sewage_dont_know= survey_mean(sewage_dont_know, na.rm = T,  vartype = c("ci")),
-                     sewage_contaminates= survey_mean(sewage_contaminates, na.rm = T,  vartype = c("ci")))
+                     sewage_contaminates= survey_mean(sewage_contaminates, na.rm = T,  vartype = c("ci")),
+                     count_respondents = length(unique(uniq_id)))
   
   
   if(i == 1){
@@ -388,7 +325,6 @@ for (i in 1:length(dimensions)){
 
 lapop_summary<-summary
 
-test<- select(summary, 1,137:139, 2:136)
 
 lapop_summary$quintile <- ifelse(is.na(lapop_summary$quintile), "total",lapop_summary$quintile)
 lapop_summary$gender <- ifelse(is.na(lapop_summary$gender), "all", lapop_summary$gender)
@@ -397,7 +333,11 @@ lapop_summary$scope <- ifelse(is.na(lapop_summary$scope), "country", lapop_summa
 
 ## reorder columns
 
-lapop_2021<- select(lapop_summary, 1,143:145, 2:142)
+lapop_summary_filtered<-lapop_summary[lapop_summary$scope != "no scope data",]
+lapop_summary_filtered<-lapop_summary_filtered[lapop_summary_filtered$quintile != "no income data",]
+
+
+lapop_2021<- select(lapop_summary_filtered, 1,143:146, 2:142)
 
 
 write.csv(lapop_2021, "lapop_2021.csv")
@@ -405,5 +345,9 @@ write.csv(lapop_2021, "lapop_2021.csv")
 save(lapop_2021, file ="lapop_2021.rda")
 
 
+
+hti<-lapop[lapop$iso3=="HTI" & lapop$scope == "rural" & lapop$gender== "female" & lapop$quintile == 2,]
+
+hti<-lapop[lapop$iso3=="HTI" & lapop$scope == "country" & lapop$gender== "all" & lapop$quintile == "total",]
 
 
