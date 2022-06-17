@@ -396,7 +396,7 @@ lapop_2021<- select(lapop_summary_filtered, 1,155:158, 2:154)
 
 write.csv(lapop_2021, "lapop_2021.csv")
 
-save(lapop_2021, file ="lapop_2021.rda")
+save(lapop_2021, file ="lapop_2021.Rda")
 
 
 
