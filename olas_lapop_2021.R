@@ -84,7 +84,7 @@ mean(is.na(lapop$pais))
       lapop$water_distr <- ifelse(lapop$piped_dw ==1 | lapop$piped_ou ==1,1,0)
       lapop$consume_distr <- ifelse(lapop$psc1n %in% c(1,2),1,
                                    ifelse(is.na(lapop$psc1n), NA,0))
-      lapop$consume_other <- ifelse(lapop$psc1n %in% c(3,4,5,6,8,10,11,13),1,
+      lapop$consume_other <- ifelse(lapop$psc1n %in% c(3,4,5,6,8,10,11,13,15),1,
                                    ifelse(is.na(lapop$psc1n),NA,0))
       
  
@@ -145,7 +145,7 @@ mean(is.na(lapop$pais))
       #lapop$bottled_taste
       
       #lapop$piped_ou
-      lapop$other_ou <- ifelse(lapop$psc2n %in% c(4,5,6,8,10,11,13),1,0)
+      lapop$other_ou <- ifelse(lapop$psc2n %in% c(4,5,6,8,10,11,13,15),1,0)
       lapop$unimproved_ou <- ifelse(lapop$psc2n %in% c(7,14),1,0)
       
       lapop$we_piped_water <- lapop$psc2r1_usd
