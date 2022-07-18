@@ -89,7 +89,8 @@ mean(is.na(lapop$pais))
       
  
       
-      lapop$consume_bottled <- lapop$bottled
+      lapop$consume_bottled <- ifelse(lapop$psc1n %in% c(11,15),1,
+                                    ifelse(is.na(lapop$psc1n),NA,0))
       lapop$consume_unimproved <- ifelse(lapop$psc1n %in% c(7,14,15),1,0)
       
 
@@ -130,13 +131,20 @@ mean(is.na(lapop$pais))
                                   ifelse(lapop$psc1n %in% c(1,2) & lapop$psc1t1 == 1, 0,
                                          ifelse(lapop$psc1n %in% c(1,2) & lapop$psc1t1 %in% c(2,3,4,5,6,7,77), 1, NA)))
       
+      lapop$treated_why_simplified <- ifelse(lapop$psc1t3 %in% c(1),1,
+                                             ifelse(lapop$psc1t3 %in% c(2),2,
+                                                    ifelse(lapop$psc1t3 %in% c(3),3,
+                                                           ifelse(lapop$psc1t3 %in% c(4,5,6),4,
+                                                                  ifelse(lapop$psc1t3 %in% c(7),5,
+                                                                         ifelse(lapop$psc1t3 %in% c(8),6,
+                                                                                ifelse(lapop$psc1t3 %in% c(77),77, NA)))))))
       
                                   
       lapop$reason_w_treatment_taste <- ifelse(lapop$treated_why_simplified %in% c(1),1,0)
       lapop$reason_w_treatment_color <- ifelse(lapop$treated_why_simplified %in% c(2),1,0)
       lapop$reason_w_treatment_quality <- ifelse(lapop$treated_why_simplified %in% c(3,4),1,0)
       lapop$reason_w_treatment_continuity <- ifelse(lapop$treated_why_simplified %in% c(5),1,0)
-      lapop$reason_w_treatment_custom <- ifelse(lapop$treated_why_simplified %in% c(6),1,0)
+
       
       #lapop$bottled_color
       #lapop$bottled_continuity
@@ -153,8 +161,10 @@ mean(is.na(lapop$pais))
       lapop$we_trucked <- lapop$psc2c1_usd
       #lapop$twe_usd 
       #lapop$twe_usd_pc
-      lapop$satisfied_service <- ifelse(lapop$sd5new2 %in% c(1,2),1,0)
-      lapop$unsatisfied_service <- ifelse(lapop$sd5new2 %in% c(3,4),1,0)
+      lapop$satisfied_service <- ifelse(lapop$sd5new2 %in% c(1,2),1,
+                                        ifelse(is.na(lapop$sd5new2), NA, 0))
+      lapop$unsatisfied_service <- ifelse(lapop$sd5new2 %in% c(3,4),1,
+                                          ifelse(is.na(lapop$sd5new2), NA,0))
 
 
 # The sanitation access related variables included in the household survey data set will also
@@ -336,7 +346,6 @@ for (i in 1:length(dimensions)){
                      reason_w_treatment_color = survey_mean(reason_w_treatment_color, na.rm = T,  vartype = c("ci")),
                      reason_w_treatment_quality = survey_mean(reason_w_treatment_quality, na.rm = T,  vartype = c("ci")),
                      reason_w_treatment_continuity = survey_mean(reason_w_treatment_continuity, na.rm = T,  vartype = c("ci")),
-                     reason_w_treatment_custom = survey_mean(reason_w_treatment_custom, na.rm = T,  vartype = c("ci")),
                      bottled_color = survey_mean(bottled_color, na.rm = T,  vartype = c("ci")),
                      bottled_continuity = survey_mean(bottled_continuity, na.rm = T,  vartype = c("ci")),
                      bottled_quality = survey_mean(bottled_quality, na.rm = T,  vartype = c("ci")),
@@ -398,10 +407,13 @@ write.csv(lapop_2021, "lapop_2021.csv")
 
 save(lapop_2021, file ="lapop_2021.Rda")
 
+lapop_2019<-read.csv("lapop_2018_19.csv")
 
 
-test <- lapop_2021[lapop_2021$quintile == "total"& lapop_2021$scope == "country" & lapop_2021$gender == "all",]
+lapop_2021$year <- 2021
+lapop_2019$year <- 2019
+library(plyr)
 
-mean(test$improved_w_access)
-mean(test$water_dist_daily)
+lapop_19_21<- rbind.fill(lapop_2021, lapop_2019)
 
+View
