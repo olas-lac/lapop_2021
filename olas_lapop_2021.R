@@ -11,8 +11,8 @@ library(ggplot2)
 library(foreign)
 library(stringr)
 library(plyr)
-statadata <- read.dta("Merged-LAPOP-AmericasBarometer-2021-v1.1-IDB_water.dta")
-load("lapop_water.rda")
+#statadata <- read.dta("Merged-LAPOP-AmericasBarometer-2021-v1.1-IDB_water.dta")
+load("input_data/lapop_water.rda")
 mean(is.na(lapop$idnum))
 mean(is.na(lapop$uniq_id))
 mean(is.na(lapop$q10newt))
@@ -248,7 +248,6 @@ lapop_processing <- select(lapop,pais,iso3, strata, upm, weight1500,income, scop
                            reason_w_treatment_color,
                            reason_w_treatment_quality,
                            reason_w_treatment_continuity,
-                           reason_w_treatment_custom,
                            bottled_color,
                            bottled_continuity,
                            bottled_quality,
@@ -400,14 +399,11 @@ lapop_summary_filtered<-lapop_summary[lapop_summary$scope != "no scope data",]
 lapop_summary_filtered<-lapop_summary_filtered[lapop_summary_filtered$quintile != "no income data",]
 
 
-lapop_2021<- select(lapop_summary_filtered, 1,155:158, 2:154)
+lapop_2021<- select(lapop_summary_filtered, 1,152:155, 2:151)
 
 
-write.csv(lapop_2021, "lapop_2021.csv")
-
-save(lapop_2021, file ="lapop_2021.Rda")
-
-lapop_2019<-read.csv("lapop_2018_19.csv")
+write.csv(lapop_2021, "output_data/lapop_2021.csv")
+lapop_2019<-read.csv("output_data/lapop_2018_19.csv")
 
 
 lapop_2021$year <- 2021
@@ -416,4 +412,4 @@ library(plyr)
 
 lapop_19_21<- rbind.fill(lapop_2021, lapop_2019)
 
-View
+write.csv(lapop_19_21, "output_data/lapop_2019_2021.csv")

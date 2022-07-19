@@ -1,6 +1,6 @@
 
 rm(list=ls())
-load("LAPOP IDB 2018-9 (from merge).rda")
+load("input_data/LAPOP IDB 2018-9 (from merge).rda")
 library(hutils)
 library(haven)
 library(survey)
@@ -388,7 +388,5 @@ lapop_summary_filtered<-lapop_summary[lapop_summary$scope != "no scope data",]
 lapop_2018_19<- select(lapop_summary_filtered, 1,90:92, 2:89)
 
 
-write.csv(lapop_2018_19, "lapop_2018_19.csv", row.names = F)
-
-save(lapop_2018_19, file ="lapop_2018_19.Rda")
+write.csv(lapop_2018_19, "output_data/lapop_2018_19.csv", row.names = F)
 
