@@ -357,7 +357,7 @@ mean(is.na(lapop$pais))
       
       
       lapop$sewage_treated <- ifelse(is.na(lapop$psc15_treatment), 0, lapop$psc15_treatment) ## only asked to those with sewer connections
-      lapop$sewage_dont_know <- ifelse(is.na(lapop$psc15),0,lapop$psc15) ## only asked to those with sewer connections
+     
       lapop$sewage_contaminates <- ifelse(is.na(lapop$psc15_contaminates),0, lapop$psc15_contaminates)  ## only asked to those with sewer connections
 
 
@@ -427,7 +427,6 @@ lapop_processing <- select(lapop,pais,iso3, strata, upm, wt,income, scope, gende
                            #access_latrines_unimproved, 
                            #access_latrines_unimproved_exclusive, 
                            sewage_treated,
-                           sewage_dont_know,
                            sewage_contaminates,
                            uniq_id)
 
@@ -542,7 +541,6 @@ for (i in 1:length(dimensions)){
                     # access_latrines_unimproved= survey_mean(access_latrines_unimproved, na.rm = T,  vartype = NULL),
                     #access_latrines_unimproved_exclusive= survey_mean(access_latrines_unimproved_exclusive, na.rm = T,  vartype = NULL),
                      sewage_treated= survey_mean(sewage_treated, na.rm = T,  vartype = NULL),
-                     sewage_dont_know= survey_mean(sewage_dont_know, na.rm = T,  vartype = NULL),
                      sewage_contaminates= survey_mean(sewage_contaminates, na.rm = T,  vartype = NULL),
                      count_respondents = length(unique(uniq_id)))
   
@@ -573,11 +571,11 @@ lapop_summary_filtered<-lapop_summary_filtered[lapop_summary_filtered$quintile !
 
 
 
-lapop_2021<- select(lapop_summary_filtered, 1,52:55, 2:51)
+lapop_2021<- select(lapop_summary_filtered, 1,51:54, 2:50)
 
-lapop_2021_long<- pivot_longer(lapop_2021, 6:55, names_to = "indicator", values_to = "value")
-
-lapop_2021_long$value <- lapop_2021_long$value*100
+lapop_2021_long<- pivot_longer(lapop_2021, 6:54, names_to = "indicator", values_to = "value")
+`%!in%` <- Negate(`%in%`)
+lapop_2021_long$value <- ifelse(lapop_2021_long$indicator %!in% c("twe_usd","twe_usd_pc"),lapop_2021_long$value*100,lapop_2021_long$value)
 
 write.csv(lapop_2021_long, "output_data/lapop_2021_long.csv", row.names = F)
 write.csv(lapop_2021, "output_data/lapop_2021.csv")
