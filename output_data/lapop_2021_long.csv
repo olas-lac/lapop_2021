@@ -31,7 +31,7 @@
 "ARG",1530,"country","all","total","san_sewer",52.4395497056156
 "ARG",1530,"country","all","total","san_unimp",0.193670985325004
 "ARG",1530,"country","all","total","improved_w_access",97.4294991525721
-"ARG",1530,"country","all","total","water_daily",97.6972967495611
+"ARG",1530,"country","all","total","water_daily",79.3687764884313
 "ARG",1530,"country","all","total","w_dist_treatment",20.0315340275301
 "ARG",1530,"country","all","total","w_treatment",30.8910102817954
 "ARG",1530,"country","all","total","reason_w_treatment_taste",3.40060101569618
@@ -80,7 +80,7 @@
 "BOL",1478,"country","all","total","san_sewer",57.1328274028548
 "BOL",1478,"country","all","total","san_unimp",2.65489860918604
 "BOL",1478,"country","all","total","improved_w_access",90.690925772496
-"BOL",1478,"country","all","total","water_daily",93.6915017457912
+"BOL",1478,"country","all","total","water_daily",68.1961559720116
 "BOL",1478,"country","all","total","w_dist_treatment",44.7341562623596
 "BOL",1478,"country","all","total","w_treatment",66.8765784723809
 "BOL",1478,"country","all","total","reason_w_treatment_taste",0.912569251469175
@@ -129,7 +129,7 @@
 "BRA",1439,"country","all","total","san_sewer",61.7035583000315
 "BRA",1439,"country","all","total","san_unimp",0.381745217199505
 "BRA",1439,"country","all","total","improved_w_access",89.2398696562222
-"BRA",1439,"country","all","total","water_daily",92.1421133163363
+"BRA",1439,"country","all","total","water_daily",68.4085770442365
 "BRA",1439,"country","all","total","w_dist_treatment",33.6721305219151
 "BRA",1439,"country","all","total","w_treatment",58.0614531848025
 "BRA",1439,"country","all","total","reason_w_treatment_taste",2.66212817982428
@@ -178,7 +178,7 @@
 "CHL",1456,"country","all","total","san_sewer",87.857151997136
 "CHL",1456,"country","all","total","san_unimp",0.236666503748994
 "CHL",1456,"country","all","total","improved_w_access",99.1949547995736
-"CHL",1456,"country","all","total","water_daily",99.7280050986011
+"CHL",1456,"country","all","total","water_daily",92.7736851040881
 "CHL",1456,"country","all","total","w_dist_treatment",20.7061747530849
 "CHL",1456,"country","all","total","w_treatment",29.5412361595043
 "CHL",1456,"country","all","total","reason_w_treatment_taste",2.9024291657978
@@ -227,7 +227,7 @@
 "COL",1507,"country","all","total","san_sewer",74.5990935680506
 "COL",1507,"country","all","total","san_unimp",1.02373123361476
 "COL",1507,"country","all","total","improved_w_access",90.1409309811223
-"COL",1507,"country","all","total","water_daily",90.7784812644011
+"COL",1507,"country","all","total","water_daily",71.6643113396899
 "COL",1507,"country","all","total","w_dist_treatment",39.6661333321067
 "COL",1507,"country","all","total","w_treatment",52.4786784726211
 "COL",1507,"country","all","total","reason_w_treatment_taste",0.594102918846854
@@ -276,7 +276,7 @@
 "CRI",1465,"country","all","total","san_sewer",21.8774568333934
 "CRI",1465,"country","all","total","san_unimp",0.802681966200654
 "CRI",1465,"country","all","total","improved_w_access",97.7691457220836
-"CRI",1465,"country","all","total","water_daily",98.8840599788144
+"CRI",1465,"country","all","total","water_daily",89.346441953981
 "CRI",1465,"country","all","total","w_dist_treatment",16.4699858281626
 "CRI",1465,"country","all","total","w_treatment",19.4975164000348
 "CRI",1465,"country","all","total","reason_w_treatment_taste",0.742861610142068
@@ -325,7 +325,7 @@
 "DOM",1507,"country","all","total","san_sewer",25.2066245610788
 "DOM",1507,"country","all","total","san_unimp",4.17701764286255
 "DOM",1507,"country","all","total","improved_w_access",96.3746243091962
-"DOM",1507,"country","all","total","water_daily",48.1852116988489
+"DOM",1507,"country","all","total","water_daily",30.3169593546276
 "DOM",1507,"country","all","total","w_dist_treatment",1.75248914606954
 "DOM",1507,"country","all","total","w_treatment",38.0437766298325
 "DOM",1507,"country","all","total","reason_w_treatment_taste",0.0364850475107492
@@ -374,7 +374,7 @@
 "ECU",1426,"country","all","total","san_sewer",63.8264647724807
 "ECU",1426,"country","all","total","san_unimp",1.30023757963007
 "ECU",1426,"country","all","total","improved_w_access",92.8775375723415
-"ECU",1426,"country","all","total","water_daily",90.6458364744748
+"ECU",1426,"country","all","total","water_daily",65.888475647061
 "ECU",1426,"country","all","total","w_dist_treatment",41.0659243119453
 "ECU",1426,"country","all","total","w_treatment",67.9888613498061
 "ECU",1426,"country","all","total","reason_w_treatment_taste",0.378009709334512
@@ -423,7 +423,7 @@
 "GTM",1491,"country","all","total","san_sewer",56.8669961496676
 "GTM",1491,"country","all","total","san_unimp",3.51937507302646
 "GTM",1491,"country","all","total","improved_w_access",91.4070037504254
-"GTM",1491,"country","all","total","water_daily",73.794225549357
+"GTM",1491,"country","all","total","water_daily",48.9482581362794
 "GTM",1491,"country","all","total","w_dist_treatment",33.5042833023619
 "GTM",1491,"country","all","total","w_treatment",79.1193445800792
 "GTM",1491,"country","all","total","reason_w_treatment_taste",0.549980563318149
@@ -472,7 +472,7 @@
 "GUY",1400,"country","all","total","san_sewer",6.93864707029592
 "GUY",1400,"country","all","total","san_unimp",5.42190304887962
 "GUY",1400,"country","all","total","improved_w_access",92.2933101722922
-"GUY",1400,"country","all","total","water_daily",95.5495913603593
+"GUY",1400,"country","all","total","water_daily",61.7423780797143
 "GUY",1400,"country","all","total","w_dist_treatment",10.2655733512619
 "GUY",1400,"country","all","total","w_treatment",55.1750335603912
 "GUY",1400,"country","all","total","reason_w_treatment_taste",0.327459334364595
@@ -521,7 +521,7 @@
 "HND",1470,"country","all","total","san_sewer",31.8123944169895
 "HND",1470,"country","all","total","san_unimp",5.52975787608346
 "HND",1470,"country","all","total","improved_w_access",88.9820233352311
-"HND",1470,"country","all","total","water_daily",60.972757372372
+"HND",1470,"country","all","total","water_daily",41.8798492963797
 "HND",1470,"country","all","total","w_dist_treatment",19.6774437585946
 "HND",1470,"country","all","total","w_treatment",69.839175133365
 "HND",1470,"country","all","total","reason_w_treatment_taste",0
@@ -570,7 +570,7 @@
 "MEX",1459,"country","all","total","san_sewer",78.8131465662598
 "MEX",1459,"country","all","total","san_unimp",1.16923293790529
 "MEX",1459,"country","all","total","improved_w_access",94.18616879615
-"MEX",1459,"country","all","total","water_daily",73.4141224097272
+"MEX",1459,"country","all","total","water_daily",57.0981569513469
 "MEX",1459,"country","all","total","w_dist_treatment",10.8249242332066
 "MEX",1459,"country","all","total","w_treatment",55.5304300149106
 "MEX",1459,"country","all","total","reason_w_treatment_taste",0.278357590268118
@@ -619,7 +619,7 @@
 "NIC",1475,"country","all","total","san_sewer",48.6009055127674
 "NIC",1475,"country","all","total","san_unimp",7.12147869351146
 "NIC",1475,"country","all","total","improved_w_access",96.5297303146018
-"NIC",1475,"country","all","total","water_daily",78.0277392752739
+"NIC",1475,"country","all","total","water_daily",60.0939148660011
 "NIC",1475,"country","all","total","w_dist_treatment",47.8803781418739
 "NIC",1475,"country","all","total","w_treatment",68.3815786459303
 "NIC",1475,"country","all","total","reason_w_treatment_taste",0.0872745091257011
@@ -668,7 +668,7 @@
 "PAN",1456,"country","all","total","san_sewer",34.7373704887296
 "PAN",1456,"country","all","total","san_unimp",6.2607116758084
 "PAN",1456,"country","all","total","improved_w_access",91.3980143731493
-"PAN",1456,"country","all","total","water_daily",89.4134670785449
+"PAN",1456,"country","all","total","water_daily",70.2679633408328
 "PAN",1456,"country","all","total","w_dist_treatment",22.4507423923381
 "PAN",1456,"country","all","total","w_treatment",32.7403732246185
 "PAN",1456,"country","all","total","reason_w_treatment_taste",1.42213865996482
@@ -717,7 +717,7 @@
 "PER",1466,"country","all","total","san_sewer",74.8920007433009
 "PER",1466,"country","all","total","san_unimp",2.73907690876788
 "PER",1466,"country","all","total","improved_w_access",88.2264108718207
-"PER",1466,"country","all","total","water_daily",92.7631857178182
+"PER",1466,"country","all","total","water_daily",67.4860693595984
 "PER",1466,"country","all","total","w_dist_treatment",67.7762880943
 "PER",1466,"country","all","total","w_treatment",92.0431535044956
 "PER",1466,"country","all","total","reason_w_treatment_taste",0.71725363653729
@@ -766,7 +766,7 @@
 "PRY",1450,"country","all","total","san_sewer",12.6728152762221
 "PRY",1450,"country","all","total","san_unimp",4.64049139215509
 "PRY",1450,"country","all","total","improved_w_access",94.1882459160432
-"PRY",1450,"country","all","total","water_daily",95.7976389613219
+"PRY",1450,"country","all","total","water_daily",63.2370406179188
 "PRY",1450,"country","all","total","w_dist_treatment",16.8361644552563
 "PRY",1450,"country","all","total","w_treatment",30.5192665800165
 "PRY",1450,"country","all","total","reason_w_treatment_taste",0.938736699211187
@@ -815,7 +815,7 @@
 "SLV",1641,"country","all","total","san_sewer",35.9159443441959
 "SLV",1641,"country","all","total","san_unimp",4.13929131061989
 "SLV",1641,"country","all","total","improved_w_access",82.87915708916
-"SLV",1641,"country","all","total","water_daily",68.6283650200403
+"SLV",1641,"country","all","total","water_daily",45.3480384451396
 "SLV",1641,"country","all","total","w_dist_treatment",18.0073976323966
 "SLV",1641,"country","all","total","w_treatment",43.3066112229799
 "SLV",1641,"country","all","total","reason_w_treatment_taste",0.0235968110171712
@@ -864,7 +864,7 @@
 "URY",1524,"country","all","total","san_sewer",55.5978423527018
 "URY",1524,"country","all","total","san_unimp",0
 "URY",1524,"country","all","total","improved_w_access",99.7095065275862
-"URY",1524,"country","all","total","water_daily",99.546431709456
+"URY",1524,"country","all","total","water_daily",91.7105974507289
 "URY",1524,"country","all","total","w_dist_treatment",23.0702137238652
 "URY",1524,"country","all","total","w_treatment",37.9929233363619
 "URY",1524,"country","all","total","reason_w_treatment_taste",5.64559327227654
@@ -913,7 +913,7 @@
 "ARG",307,"rural","all","total","san_sewer",25.6409182447849
 "ARG",307,"rural","all","total","san_unimp",0.260586416396064
 "ARG",307,"rural","all","total","improved_w_access",94.9537545587581
-"ARG",307,"rural","all","total","water_daily",97.2346740994898
+"ARG",307,"rural","all","total","water_daily",65.7832253904914
 "ARG",307,"rural","all","total","w_dist_treatment",20.8090431687648
 "ARG",307,"rural","all","total","w_treatment",35.1099577517553
 "ARG",307,"rural","all","total","reason_w_treatment_taste",3.13008104025614
@@ -962,7 +962,7 @@
 "ARG",1202,"urban","all","total","san_sewer",62.3974322174449
 "ARG",1202,"urban","all","total","san_unimp",0.174053122410376
 "ARG",1202,"urban","all","total","improved_w_access",98.4824592468104
-"ARG",1202,"urban","all","total","water_daily",97.801241494899
+"ARG",1202,"urban","all","total","water_daily",84.8990707321367
 "ARG",1202,"urban","all","total","w_dist_treatment",19.3699499932141
 "ARG",1202,"urban","all","total","w_treatment",28.9795488060502
 "ARG",1202,"urban","all","total","reason_w_treatment_taste",3.56075847604712
@@ -1011,7 +1011,7 @@
 "BOL",512,"rural","all","total","san_sewer",33.6524046633003
 "BOL",512,"rural","all","total","san_unimp",5.35850644369927
 "BOL",512,"rural","all","total","improved_w_access",85.8924449289939
-"BOL",512,"rural","all","total","water_daily",91.774914943648
+"BOL",512,"rural","all","total","water_daily",58.4673827516853
 "BOL",512,"rural","all","total","w_dist_treatment",37.4706517752834
 "BOL",512,"rural","all","total","w_treatment",62.9891486145303
 "BOL",512,"rural","all","total","reason_w_treatment_taste",0.60867055135156
@@ -1060,7 +1060,7 @@
 "BOL",950,"urban","all","total","san_sewer",71.0208213259717
 "BOL",950,"urban","all","total","san_unimp",1.08830640741859
 "BOL",950,"urban","all","total","improved_w_access",93.4869185227467
-"BOL",950,"urban","all","total","water_daily",94.4967621717475
+"BOL",950,"urban","all","total","water_daily",73.9119554638384
 "BOL",950,"urban","all","total","w_dist_treatment",49.3518982082816
 "BOL",950,"urban","all","total","w_treatment",69.7594032775122
 "BOL",950,"urban","all","total","reason_w_treatment_taste",0.811917462774321
@@ -1109,7 +1109,7 @@
 "BRA",175,"rural","all","total","san_sewer",37.2647608619304
 "BRA",175,"rural","all","total","san_unimp",1.23871700021426
 "BRA",175,"rural","all","total","improved_w_access",89.2110762806626
-"BRA",175,"rural","all","total","water_daily",91.6457484634493
+"BRA",175,"rural","all","total","water_daily",47.1253317837456
 "BRA",175,"rural","all","total","w_dist_treatment",20.3733571767455
 "BRA",175,"rural","all","total","w_treatment",45.9392014320076
 "BRA",175,"rural","all","total","reason_w_treatment_taste",0
@@ -1158,7 +1158,7 @@
 "BRA",1253,"urban","all","total","san_sewer",66.5929188856146
 "BRA",1253,"urban","all","total","san_unimp",0.211005866287208
 "BRA",1253,"urban","all","total","improved_w_access",89.2389165370604
-"BRA",1253,"urban","all","total","water_daily",92.4020993263543
+"BRA",1253,"urban","all","total","water_daily",72.8792956629116
 "BRA",1253,"urban","all","total","w_dist_treatment",36.418394649926
 "BRA",1253,"urban","all","total","w_treatment",60.8758286070677
 "BRA",1253,"urban","all","total","reason_w_treatment_taste",3.26940292886624
@@ -1207,7 +1207,7 @@
 "CHL",302,"rural","all","total","san_sewer",61.4187326441959
 "CHL",302,"rural","all","total","san_unimp",1.08527228714342
 "CHL",302,"rural","all","total","improved_w_access",98.3276439305027
-"CHL",302,"rural","all","total","water_daily",99.3750231959639
+"CHL",302,"rural","all","total","water_daily",75.453540331168
 "CHL",302,"rural","all","total","w_dist_treatment",17.8576329533121
 "CHL",302,"rural","all","total","w_treatment",32.8478950728761
 "CHL",302,"rural","all","total","reason_w_treatment_taste",2.19398802225882
@@ -1256,7 +1256,7 @@
 "CHL",1144,"urban","all","total","san_sewer",95.4174599155405
 "CHL",1144,"urban","all","total","san_unimp",0
 "CHL",1144,"urban","all","total","improved_w_access",99.5453541520233
-"CHL",1144,"urban","all","total","water_daily",99.8014590258549
+"CHL",1144,"urban","all","total","water_daily",97.632869888498
 "CHL",1144,"urban","all","total","w_dist_treatment",21.1609504546843
 "CHL",1144,"urban","all","total","w_treatment",28.10872052846
 "CHL",1144,"urban","all","total","reason_w_treatment_taste",2.96369850423644
@@ -1305,7 +1305,7 @@
 "COL",604,"rural","all","total","san_sewer",57.7716312914242
 "COL",604,"rural","all","total","san_unimp",2.23738447049813
 "COL",604,"rural","all","total","improved_w_access",83.2322527953984
-"COL",604,"rural","all","total","water_daily",86.6830713383137
+"COL",604,"rural","all","total","water_daily",57.2073938892301
 "COL",604,"rural","all","total","w_dist_treatment",36.3332996975549
 "COL",604,"rural","all","total","w_treatment",55.8718886521423
 "COL",604,"rural","all","total","reason_w_treatment_taste",0.733708477503833
@@ -1354,7 +1354,7 @@
 "COL",878,"urban","all","total","san_sewer",89.1582142917195
 "COL",878,"urban","all","total","san_unimp",0.0363043905501413
 "COL",878,"urban","all","total","improved_w_access",96.3388724329124
-"COL",878,"urban","all","total","water_daily",93.0299048807032
+"COL",878,"urban","all","total","water_daily",83.3776422457781
 "COL",878,"urban","all","total","w_dist_treatment",42.8867119929326
 "COL",878,"urban","all","total","w_treatment",49.5629213547241
 "COL",878,"urban","all","total","reason_w_treatment_taste",0.497105070581192
@@ -1403,7 +1403,7 @@
 "CRI",767,"rural","all","total","san_sewer",11.8466667162845
 "CRI",767,"rural","all","total","san_unimp",1.50724975017073
 "CRI",767,"rural","all","total","improved_w_access",96.3137162925314
-"CRI",767,"rural","all","total","water_daily",98.5242826853483
+"CRI",767,"rural","all","total","water_daily",85.0919647439453
 "CRI",767,"rural","all","total","w_dist_treatment",15.1434582008804
 "CRI",767,"rural","all","total","w_treatment",20.0903047303335
 "CRI",767,"rural","all","total","reason_w_treatment_taste",1.00070307741355
@@ -1452,7 +1452,7 @@
 "CRI",668,"urban","all","total","san_sewer",33.7024815951987
 "CRI",668,"urban","all","total","san_unimp",0
 "CRI",668,"urban","all","total","improved_w_access",99.3991194501315
-"CRI",668,"urban","all","total","water_daily",99.218674690328
+"CRI",668,"urban","all","total","water_daily",94.040435919997
 "CRI",668,"urban","all","total","w_dist_treatment",17.4973022923984
 "CRI",668,"urban","all","total","w_treatment",18.3513776304347
 "CRI",668,"urban","all","total","reason_w_treatment_taste",0.471264348537655
@@ -1501,7 +1501,7 @@
 "DOM",731,"rural","all","total","san_sewer",19.7275966023532
 "DOM",731,"rural","all","total","san_unimp",5.46398007553244
 "DOM",731,"rural","all","total","improved_w_access",96.5374692160968
-"DOM",731,"rural","all","total","water_daily",48.7715678371871
+"DOM",731,"rural","all","total","water_daily",29.4652071946464
 "DOM",731,"rural","all","total","w_dist_treatment",1.96038922475981
 "DOM",731,"rural","all","total","w_treatment",34.5890705364518
 "DOM",731,"rural","all","total","reason_w_treatment_taste",0.0683027504572424
@@ -1550,7 +1550,7 @@
 "DOM",687,"urban","all","total","san_sewer",33.7057569410186
 "DOM",687,"urban","all","total","san_unimp",1.68718911743029
 "DOM",687,"urban","all","total","improved_w_access",97.0167703688813
-"DOM",687,"urban","all","total","water_daily",45.3100995354054
+"DOM",687,"urban","all","total","water_daily",29.9172820666685
 "DOM",687,"urban","all","total","w_dist_treatment",0.82174921323555
 "DOM",687,"urban","all","total","w_treatment",42.232805821907
 "DOM",687,"urban","all","total","reason_w_treatment_taste",0
@@ -1599,7 +1599,7 @@
 "ECU",550,"rural","all","total","san_sewer",46.8789267825702
 "ECU",550,"rural","all","total","san_unimp",2.22471184900976
 "ECU",550,"rural","all","total","improved_w_access",90.3195551122654
-"ECU",550,"rural","all","total","water_daily",89.7108547135053
+"ECU",550,"rural","all","total","water_daily",54.8028191596044
 "ECU",550,"rural","all","total","w_dist_treatment",36.7517869145227
 "ECU",550,"rural","all","total","w_treatment",67.4994888760605
 "ECU",550,"rural","all","total","reason_w_treatment_taste",0.187908687483822
@@ -1648,7 +1648,7 @@
 "ECU",829,"urban","all","total","san_sewer",77.019573261542
 "ECU",829,"urban","all","total","san_unimp",0.513077019876893
 "ECU",829,"urban","all","total","improved_w_access",95.5181404242225
-"ECU",829,"urban","all","total","water_daily",91.27456875875
+"ECU",829,"urban","all","total","water_daily",74.441547391225
 "ECU",829,"urban","all","total","w_dist_treatment",45.037586859251
 "ECU",829,"urban","all","total","w_treatment",68.37807364806
 "ECU",829,"urban","all","total","reason_w_treatment_taste",0.544569896933679
@@ -1697,7 +1697,7 @@
 "GTM",944,"rural","all","total","san_sewer",45.0224455102561
 "GTM",944,"rural","all","total","san_unimp",4.94185172066592
 "GTM",944,"rural","all","total","improved_w_access",90.9539948503259
-"GTM",944,"rural","all","total","water_daily",70.7402050649487
+"GTM",944,"rural","all","total","water_daily",42.2816119347968
 "GTM",944,"rural","all","total","w_dist_treatment",36.7496130969522
 "GTM",944,"rural","all","total","w_treatment",79.955359991157
 "GTM",944,"rural","all","total","reason_w_treatment_taste",0.802118344974809
@@ -1746,7 +1746,7 @@
 "GTM",519,"urban","all","total","san_sewer",79.1853958977707
 "GTM",519,"urban","all","total","san_unimp",1.03095214580228
 "GTM",519,"urban","all","total","improved_w_access",92.1593804970138
-"GTM",519,"urban","all","total","water_daily",77.6199950438715
+"GTM",519,"urban","all","total","water_daily",61.060865952094
 "GTM",519,"urban","all","total","w_dist_treatment",26.7054630470813
 "GTM",519,"urban","all","total","w_treatment",77.0414707557532
 "GTM",519,"urban","all","total","reason_w_treatment_taste",0.107052539613349
@@ -1795,7 +1795,7 @@
 "GUY",866,"rural","all","total","san_sewer",5.08788187654042
 "GUY",866,"rural","all","total","san_unimp",6.28272276988464
 "GUY",866,"rural","all","total","improved_w_access",92.7347727172853
-"GUY",866,"rural","all","total","water_daily",96.4482915978144
+"GUY",866,"rural","all","total","water_daily",62.4288427094598
 "GUY",866,"rural","all","total","w_dist_treatment",9.5764104509845
 "GUY",866,"rural","all","total","w_treatment",53.1086184481446
 "GUY",866,"rural","all","total","reason_w_treatment_taste",0.458197961171209
@@ -1844,7 +1844,7 @@
 "GUY",413,"urban","all","total","san_sewer",8.95518404235618
 "GUY",413,"urban","all","total","san_unimp",3.87508151120567
 "GUY",413,"urban","all","total","improved_w_access",93.3552100942253
-"GUY",413,"urban","all","total","water_daily",93.2946780518601
+"GUY",413,"urban","all","total","water_daily",64.015253380058
 "GUY",413,"urban","all","total","w_dist_treatment",12.945624634353
 "GUY",413,"urban","all","total","w_treatment",61.4912740897533
 "GUY",413,"urban","all","total","reason_w_treatment_taste",0.128602456738283
@@ -1893,7 +1893,7 @@
 "HND",744,"rural","all","total","san_sewer",19.7631443467999
 "HND",744,"rural","all","total","san_unimp",6.86610014923323
 "HND",744,"rural","all","total","improved_w_access",85.374968624398
-"HND",744,"rural","all","total","water_daily",68.3913855898924
+"HND",744,"rural","all","total","water_daily",44.0610456793033
 "HND",744,"rural","all","total","w_dist_treatment",23.2486555032759
 "HND",744,"rural","all","total","w_treatment",70.1462112920222
 "HND",744,"rural","all","total","reason_w_treatment_taste",0
@@ -1942,7 +1942,7 @@
 "HND",677,"urban","all","total","san_sewer",49.9277910148195
 "HND",677,"urban","all","total","san_unimp",3.13286921393208
 "HND",677,"urban","all","total","improved_w_access",95.1621980737315
-"HND",677,"urban","all","total","water_daily",51.1911299657508
+"HND",677,"urban","all","total","water_daily",38.8950665688373
 "HND",677,"urban","all","total","w_dist_treatment",15.3752531171642
 "HND",677,"urban","all","total","w_treatment",70.9332106217148
 "HND",677,"urban","all","total","reason_w_treatment_taste",0
@@ -1991,7 +1991,7 @@
 "MEX",490,"rural","all","total","san_sewer",65.0267316467186
 "MEX",490,"rural","all","total","san_unimp",2.58428035420048
 "MEX",490,"rural","all","total","improved_w_access",94.0468996176566
-"MEX",490,"rural","all","total","water_daily",64.8019136449705
+"MEX",490,"rural","all","total","water_daily",45.5603343922708
 "MEX",490,"rural","all","total","w_dist_treatment",13.7914308159536
 "MEX",490,"rural","all","total","w_treatment",56.8378819889768
 "MEX",490,"rural","all","total","reason_w_treatment_taste",0.500376017413063
@@ -2040,7 +2040,7 @@
 "MEX",952,"urban","all","total","san_sewer",88.8014346135075
 "MEX",952,"urban","all","total","san_unimp",0.190757293469574
 "MEX",952,"urban","all","total","improved_w_access",94.3489833124958
-"MEX",952,"urban","all","total","water_daily",78.9917201534828
+"MEX",952,"urban","all","total","water_daily",65.6302550244638
 "MEX",952,"urban","all","total","w_dist_treatment",8.28425138806366
 "MEX",952,"urban","all","total","w_treatment",52.9474658611619
 "MEX",952,"urban","all","total","reason_w_treatment_taste",0.127737060201621
@@ -2089,7 +2089,7 @@
 "NIC",685,"rural","all","total","san_sewer",36.146922639379
 "NIC",685,"rural","all","total","san_unimp",9.20930344742884
 "NIC",685,"rural","all","total","improved_w_access",94.2008318388458
-"NIC",685,"rural","all","total","water_daily",73.4392313370058
+"NIC",685,"rural","all","total","water_daily",50.7818315013315
 "NIC",685,"rural","all","total","w_dist_treatment",47.5513119312649
 "NIC",685,"rural","all","total","w_treatment",76.1599519221738
 "NIC",685,"rural","all","total","reason_w_treatment_taste",0.126045877482741
@@ -2138,7 +2138,7 @@
 "NIC",768,"urban","all","total","san_sewer",61.1393383133046
 "NIC",768,"urban","all","total","san_unimp",4.18626680584006
 "NIC",768,"urban","all","total","improved_w_access",98.7594609969261
-"NIC",768,"urban","all","total","water_daily",82.3294610326429
+"NIC",768,"urban","all","total","water_daily",70.1906310801426
 "NIC",768,"urban","all","total","w_dist_treatment",48.3126548018974
 "NIC",768,"urban","all","total","w_treatment",61.2488113662981
 "NIC",768,"urban","all","total","reason_w_treatment_taste",0.0510360595697299
@@ -2187,7 +2187,7 @@
 "PAN",748,"rural","all","total","san_sewer",24.4340271600914
 "PAN",748,"rural","all","total","san_unimp",9.17722207905453
 "PAN",748,"rural","all","total","improved_w_access",88.7686648621234
-"PAN",748,"rural","all","total","water_daily",86.5925884058727
+"PAN",748,"rural","all","total","water_daily",63.9963900395914
 "PAN",748,"rural","all","total","w_dist_treatment",22.3092758258563
 "PAN",748,"rural","all","total","w_treatment",35.928051609955
 "PAN",748,"rural","all","total","reason_w_treatment_taste",1.16272825467276
@@ -2236,7 +2236,7 @@
 "PAN",671,"urban","all","total","san_sewer",48.3999456531673
 "PAN",671,"urban","all","total","san_unimp",2.53819705517853
 "PAN",671,"urban","all","total","improved_w_access",94.9801823625223
-"PAN",671,"urban","all","total","water_daily",92.4472949032454
+"PAN",671,"urban","all","total","water_daily",79.0590224862567
 "PAN",671,"urban","all","total","w_dist_treatment",22.9344500916633
 "PAN",671,"urban","all","total","w_treatment",28.5100867543573
 "PAN",671,"urban","all","total","reason_w_treatment_taste",1.60815643883357
@@ -2285,7 +2285,7 @@
 "PER",398,"rural","all","total","san_sewer",54.6621753276096
 "PER",398,"rural","all","total","san_unimp",6.36427178603847
 "PER",398,"rural","all","total","improved_w_access",81.6974041035059
-"PER",398,"rural","all","total","water_daily",87.4360057196792
+"PER",398,"rural","all","total","water_daily",50.0226847409277
 "PER",398,"rural","all","total","w_dist_treatment",57.5341856959913
 "PER",398,"rural","all","total","w_treatment",90.2242540638585
 "PER",398,"rural","all","total","reason_w_treatment_taste",0
@@ -2334,7 +2334,7 @@
 "PER",1043,"urban","all","total","san_sewer",84.3674869331713
 "PER",1043,"urban","all","total","san_unimp",1.11605611765716
 "PER",1043,"urban","all","total","improved_w_access",91.5927717726317
-"PER",1043,"urban","all","total","water_daily",94.2125137946057
+"PER",1043,"urban","all","total","water_daily",74.5850279722445
 "PER",1043,"urban","all","total","w_dist_treatment",72.7702663135291
 "PER",1043,"urban","all","total","w_treatment",92.6894646690338
 "PER",1043,"urban","all","total","reason_w_treatment_taste",1.07028937741169
@@ -2383,7 +2383,7 @@
 "PRY",440,"rural","all","total","san_sewer",4.64129783935471
 "PRY",440,"rural","all","total","san_unimp",10.0414394928411
 "PRY",440,"rural","all","total","improved_w_access",91.2512630729641
-"PRY",440,"rural","all","total","water_daily",95.0897930381018
+"PRY",440,"rural","all","total","water_daily",56.0088779180479
 "PRY",440,"rural","all","total","w_dist_treatment",15.2488148306373
 "PRY",440,"rural","all","total","w_treatment",30.1954679135622
 "PRY",440,"rural","all","total","reason_w_treatment_taste",1.42271476287598
@@ -2432,7 +2432,7 @@
 "PRY",979,"urban","all","total","san_sewer",17.9786164219538
 "PRY",979,"urban","all","total","san_unimp",1.01552730234436
 "PRY",979,"urban","all","total","improved_w_access",96.5105289158737
-"PRY",979,"urban","all","total","water_daily",96.3380048701716
+"PRY",979,"urban","all","total","water_daily",68.4019533491022
 "PRY",979,"urban","all","total","w_dist_treatment",18.2599190617194
 "PRY",979,"urban","all","total","w_treatment",30.6392031432001
 "PRY",979,"urban","all","total","reason_w_treatment_taste",0.663504488003824
@@ -2481,7 +2481,7 @@
 "SLV",876,"rural","all","total","san_sewer",13.9778211760368
 "SLV",876,"rural","all","total","san_unimp",6.28152112036462
 "SLV",876,"rural","all","total","improved_w_access",79.0036623053446
-"SLV",876,"rural","all","total","water_daily",64.1837278932698
+"SLV",876,"rural","all","total","water_daily",35.8213736723166
 "SLV",876,"rural","all","total","w_dist_treatment",19.1700673457854
 "SLV",876,"rural","all","total","w_treatment",44.7098995509631
 "SLV",876,"rural","all","total","reason_w_treatment_taste",0.0411184705369308
@@ -2530,7 +2530,7 @@
 "SLV",721,"urban","all","total","san_sewer",67.2229140423137
 "SLV",721,"urban","all","total","san_unimp",1.34073432092969
 "SLV",721,"urban","all","total","improved_w_access",89.2179193127354
-"SLV",721,"urban","all","total","water_daily",71.9239705544277
+"SLV",721,"urban","all","total","water_daily",57.6455264476656
 "SLV",721,"urban","all","total","w_dist_treatment",16.8539916040641
 "SLV",721,"urban","all","total","w_treatment",41.1537901486778
 "SLV",721,"urban","all","total","reason_w_treatment_taste",0
@@ -2579,7 +2579,7 @@
 "URY",222,"rural","all","total","san_sewer",21.8588350738423
 "URY",222,"rural","all","total","san_unimp",0
 "URY",222,"rural","all","total","improved_w_access",98.7913501943086
-"URY",222,"rural","all","total","water_daily",98.2191940784604
+"URY",222,"rural","all","total","water_daily",72.1993825675237
 "URY",222,"rural","all","total","w_dist_treatment",18.5253193998971
 "URY",222,"rural","all","total","w_treatment",30.7668863356699
 "URY",222,"rural","all","total","reason_w_treatment_taste",2.84266984342991
@@ -2628,7 +2628,7 @@
 "URY",1288,"urban","all","total","san_sewer",63.9592845537754
 "URY",1288,"urban","all","total","san_unimp",0
 "URY",1288,"urban","all","total","improved_w_access",99.919703913147
-"URY",1288,"urban","all","total","water_daily",99.7677508817409
+"URY",1288,"urban","all","total","water_daily",96.1581204790725
 "URY",1288,"urban","all","total","w_dist_treatment",24.0847137985373
 "URY",1288,"urban","all","total","w_treatment",40.3560061348152
 "URY",1288,"urban","all","total","reason_w_treatment_taste",6.28751465673057
@@ -2677,7 +2677,7 @@
 "ARG",767,"country","female","total","san_sewer",53.522596760137
 "ARG",767,"country","female","total","san_unimp",0.26914799927838
 "ARG",767,"country","female","total","improved_w_access",97.1292427099447
-"ARG",767,"country","female","total","water_daily",96.8823639089447
+"ARG",767,"country","female","total","water_daily",79.8956569002717
 "ARG",767,"country","female","total","w_dist_treatment",23.0703460018735
 "ARG",767,"country","female","total","w_treatment",33.0206156929175
 "ARG",767,"country","female","total","reason_w_treatment_taste",3.44764830249287
@@ -2726,7 +2726,7 @@
 "ARG",763,"country","male","total","san_sewer",51.3363647676654
 "ARG",763,"country","male","total","san_unimp",0.116790572228253
 "ARG",763,"country","male","total","improved_w_access",97.7351989804568
-"ARG",763,"country","male","total","water_daily",98.5571764898793
+"ARG",763,"country","male","total","water_daily",78.829575795878
 "ARG",763,"country","male","total","w_dist_treatment",16.8751688245598
 "ARG",763,"country","male","total","w_treatment",28.6090183762642
 "ARG",763,"country","male","total","reason_w_treatment_taste",3.35270080296358
@@ -2775,7 +2775,7 @@
 "BOL",691,"country","female","total","san_sewer",59.2037753906511
 "BOL",691,"country","female","total","san_unimp",2.59025866106651
 "BOL",691,"country","female","total","improved_w_access",90.9310179597551
-"BOL",691,"country","female","total","water_daily",94.8046579705836
+"BOL",691,"country","female","total","water_daily",72.7827913758356
 "BOL",691,"country","female","total","w_dist_treatment",50.5899877200734
 "BOL",691,"country","female","total","w_treatment",72.0261965136828
 "BOL",691,"country","female","total","reason_w_treatment_taste",1.47082969968138
@@ -2824,7 +2824,7 @@
 "BOL",787,"country","male","total","san_sewer",55.1757842805718
 "BOL",787,"country","male","total","san_unimp",2.71598327506732
 "BOL",787,"country","male","total","improved_w_access",90.4640117400337
-"BOL",787,"country","male","total","water_daily",92.5263173909724
+"BOL",787,"country","male","total","water_daily",63.8787317826127
 "BOL",787,"country","male","total","w_dist_treatment",39.2078203882122
 "BOL",787,"country","male","total","w_treatment",61.854568879082
 "BOL",787,"country","male","total","reason_w_treatment_taste",0.384950544196175
@@ -2873,7 +2873,7 @@
 "BRA",665,"country","female","total","san_sewer",63.8664907073955
 "BRA",665,"country","female","total","san_unimp",0.763885009617953
 "BRA",665,"country","female","total","improved_w_access",87.3845404828145
-"BRA",665,"country","female","total","water_daily",91.8275720771494
+"BRA",665,"country","female","total","water_daily",69.971461908238
 "BRA",665,"country","female","total","w_dist_treatment",32.3388600683479
 "BRA",665,"country","female","total","w_treatment",58.3233642645423
 "BRA",665,"country","female","total","reason_w_treatment_taste",2.86011972243802
@@ -2922,7 +2922,7 @@
 "BRA",774,"country","male","total","san_sewer",59.5428592102783
 "BRA",774,"country","male","total","san_unimp",0
 "BRA",774,"country","male","total","improved_w_access",91.0880284691058
-"BRA",774,"country","male","total","water_daily",92.4564356024565
+"BRA",774,"country","male","total","water_daily",66.92494034789
 "BRA",774,"country","male","total","w_dist_treatment",34.988400425352
 "BRA",774,"country","male","total","w_treatment",57.7999331134896
 "BRA",774,"country","male","total","reason_w_treatment_taste",2.46490182258121
@@ -2971,7 +2971,7 @@
 "CHL",766,"country","female","total","san_sewer",87.0123380885646
 "CHL",766,"country","female","total","san_unimp",0.304458037917853
 "CHL",766,"country","female","total","improved_w_access",99.5040624282043
-"CHL",766,"country","female","total","water_daily",99.4677905135785
+"CHL",766,"country","female","total","water_daily",90.3948412031276
 "CHL",766,"country","female","total","w_dist_treatment",22.0553818755222
 "CHL",766,"country","female","total","w_treatment",30.2167597739937
 "CHL",766,"country","female","total","reason_w_treatment_taste",3.00555515263164
@@ -3020,7 +3020,7 @@
 "CHL",690,"country","male","total","san_sewer",88.796345197502
 "CHL",690,"country","male","total","san_unimp",0.161301565639194
 "CHL",690,"country","male","total","improved_w_access",98.8522792555334
-"CHL",690,"country","male","total","water_daily",100
+"CHL",690,"country","male","total","water_daily",95.3834842229505
 "CHL",690,"country","male","total","w_dist_treatment",19.2172002630437
 "CHL",690,"country","male","total","w_treatment",28.7208100014269
 "CHL",690,"country","male","total","reason_w_treatment_taste",2.78810408815566
@@ -3069,7 +3069,7 @@
 "COL",909,"country","female","total","san_sewer",68.44567883684
 "COL",909,"country","female","total","san_unimp",1.28261304873422
 "COL",909,"country","female","total","improved_w_access",89.0015633262447
-"COL",909,"country","female","total","water_daily",89.6469192611475
+"COL",909,"country","female","total","water_daily",66.5592780277459
 "COL",909,"country","female","total","w_dist_treatment",40.4530968015025
 "COL",909,"country","female","total","w_treatment",54.324531410825
 "COL",909,"country","female","total","reason_w_treatment_taste",1.01639133955096
@@ -3118,7 +3118,7 @@
 "COL",598,"country","male","total","san_sewer",80.8098498751958
 "COL",598,"country","male","total","san_unimp",0.762436987039232
 "COL",598,"country","male","total","improved_w_access",91.2881824620775
-"COL",598,"country","male","total","water_daily",91.7480574129321
+"COL",598,"country","male","total","water_daily",76.5819723056803
 "COL",598,"country","male","total","w_dist_treatment",38.8638817959637
 "COL",598,"country","male","total","w_treatment",50.5167614838306
 "COL",598,"country","male","total","reason_w_treatment_taste",0.16889248394552
@@ -3167,7 +3167,7 @@
 "CRI",753,"country","female","total","san_sewer",22.154051234832
 "CRI",753,"country","female","total","san_unimp",0.943679538310559
 "CRI",753,"country","female","total","improved_w_access",98.0296437547205
-"CRI",753,"country","female","total","water_daily",98.9251443102886
+"CRI",753,"country","female","total","water_daily",89.5169830284147
 "CRI",753,"country","female","total","w_dist_treatment",14.6407308020128
 "CRI",753,"country","female","total","w_treatment",17.8704784873339
 "CRI",753,"country","female","total","reason_w_treatment_taste",0.770626610026922
@@ -3216,7 +3216,7 @@
 "CRI",712,"country","male","total","san_sewer",21.628295909432
 "CRI",712,"country","male","total","san_unimp",0.675668963911026
 "CRI",712,"country","male","total","improved_w_access",97.5346267886109
-"CRI",712,"country","male","total","water_daily",98.8475442389881
+"CRI",712,"country","male","total","water_daily",89.1952912501769
 "CRI",712,"country","male","total","w_dist_treatment",18.1247581807669
 "CRI",712,"country","male","total","w_treatment",20.9786179818374
 "CRI",712,"country","male","total","reason_w_treatment_taste",0.717865574298901
@@ -3265,7 +3265,7 @@
 "DOM",709,"country","female","total","san_sewer",25.5861742300024
 "DOM",709,"country","female","total","san_unimp",4.59583144111764
 "DOM",709,"country","female","total","improved_w_access",96.1642023354641
-"DOM",709,"country","female","total","water_daily",49.3394525614738
+"DOM",709,"country","female","total","water_daily",31.5443109368419
 "DOM",709,"country","female","total","w_dist_treatment",2.34734549158863
 "DOM",709,"country","female","total","w_treatment",37.0689006282387
 "DOM",709,"country","female","total","reason_w_treatment_taste",0
@@ -3314,7 +3314,7 @@
 "DOM",798,"country","male","total","san_sewer",24.8420835292581
 "DOM",798,"country","male","total","san_unimp",3.77476511399151
 "DOM",798,"country","male","total","improved_w_access",96.5774499881302
-"DOM",798,"country","male","total","water_daily",47.0336284097674
+"DOM",798,"country","male","total","water_daily",29.1306895960693
 "DOM",798,"country","male","total","w_dist_treatment",1.18141213119011
 "DOM",798,"country","male","total","w_treatment",39.7582202972747
 "DOM",798,"country","male","total","reason_w_treatment_taste",0.0716529741348324
@@ -3363,7 +3363,7 @@
 "ECU",822,"country","female","total","san_sewer",62.4008867246043
 "ECU",822,"country","female","total","san_unimp",1.41660329885536
 "ECU",822,"country","female","total","improved_w_access",94.305766286032
-"ECU",822,"country","female","total","water_daily",88.7441786041194
+"ECU",822,"country","female","total","water_daily",63.8414929962909
 "ECU",822,"country","female","total","w_dist_treatment",45.6187066027443
 "ECU",822,"country","female","total","w_treatment",71.1361502032676
 "ECU",822,"country","female","total","reason_w_treatment_taste",0.338982016597539
@@ -3412,7 +3412,7 @@
 "ECU",604,"country","male","total","san_sewer",65.2628460303755
 "ECU",604,"country","male","total","san_unimp",1.18299002632661
 "ECU",604,"country","male","total","improved_w_access",91.4259288264211
-"ECU",604,"country","male","total","water_daily",92.5213230657422
+"ECU",604,"country","male","total","water_daily",67.9494700808544
 "ECU",604,"country","male","total","w_dist_treatment",36.4486834648199
 "ECU",604,"country","male","total","w_treatment",64.6734353114726
 "ECU",604,"country","male","total","reason_w_treatment_taste",0.417676283439227
@@ -3461,7 +3461,7 @@
 "GTM",765,"country","female","total","san_sewer",57.5485353190764
 "GTM",765,"country","female","total","san_unimp",3.72059655406788
 "GTM",765,"country","female","total","improved_w_access",90.9234592820202
-"GTM",765,"country","female","total","water_daily",72.9189142916912
+"GTM",765,"country","female","total","water_daily",50.292524469447
 "GTM",765,"country","female","total","w_dist_treatment",33.9490251837245
 "GTM",765,"country","female","total","w_treatment",79.8051830628928
 "GTM",765,"country","female","total","reason_w_treatment_taste",0.793540592694113
@@ -3510,7 +3510,7 @@
 "GTM",726,"country","male","total","san_sewer",56.1149284284576
 "GTM",726,"country","male","total","san_unimp",3.29733034324723
 "GTM",726,"country","male","total","improved_w_access",91.9371881506083
-"GTM",726,"country","male","total","water_daily",74.8296732585562
+"GTM",726,"country","male","total","water_daily",47.4851654350498
 "GTM",726,"country","male","total","w_dist_treatment",33.0144113332212
 "GTM",726,"country","male","total","w_treatment",78.3858014853453
 "GTM",726,"country","male","total","reason_w_treatment_taste",0.28292812756365
@@ -3559,7 +3559,7 @@
 "GUY",797,"country","female","total","san_sewer",7.17146322474852
 "GUY",797,"country","female","total","san_unimp",6.97643364498462
 "GUY",797,"country","female","total","improved_w_access",94.8478529925724
-"GUY",797,"country","female","total","water_daily",94.0400206919914
+"GUY",797,"country","female","total","water_daily",62.8020066829555
 "GUY",797,"country","female","total","w_dist_treatment",12.1051124017142
 "GUY",797,"country","female","total","w_treatment",57.9085164669502
 "GUY",797,"country","female","total","reason_w_treatment_taste",0.277861396347442
@@ -3608,7 +3608,7 @@
 "GUY",603,"country","male","total","san_sewer",6.70658843324685
 "GUY",603,"country","male","total","san_unimp",3.8724304522234
 "GUY",603,"country","male","total","improved_w_access",89.7636349606515
-"GUY",603,"country","male","total","water_daily",97.1294493114003
+"GUY",603,"country","male","total","water_daily",60.7045444540732
 "GUY",603,"country","male","total","w_dist_treatment",8.4488148888832
 "GUY",603,"country","male","total","w_treatment",52.2038816628006
 "GUY",603,"country","male","total","reason_w_treatment_taste",0.376574453263532
@@ -3657,7 +3657,7 @@
 "HND",783,"country","female","total","san_sewer",31.5715061995381
 "HND",783,"country","female","total","san_unimp",7.64906987337484
 "HND",783,"country","female","total","improved_w_access",88.666622995989
-"HND",783,"country","female","total","water_daily",59.0202911911545
+"HND",783,"country","female","total","water_daily",40.8535153618053
 "HND",783,"country","female","total","w_dist_treatment",21.2205789984243
 "HND",783,"country","female","total","w_treatment",71.8621376226264
 "HND",783,"country","female","total","reason_w_treatment_taste",0
@@ -3706,7 +3706,7 @@
 "HND",687,"country","male","total","san_sewer",32.0672429095456
 "HND",687,"country","male","total","san_unimp",3.28762468468049
 "HND",687,"country","male","total","improved_w_access",89.3143690698781
-"HND",687,"country","male","total","water_daily",63.0246592099241
+"HND",687,"country","male","total","water_daily",42.9415469152527
 "HND",687,"country","male","total","w_dist_treatment",18.0586949298999
 "HND",687,"country","male","total","w_treatment",67.5414396600381
 "HND",687,"country","male","total","reason_w_treatment_taste",0
@@ -3755,7 +3755,7 @@
 "MEX",719,"country","female","total","san_sewer",79.6884744191833
 "MEX",719,"country","female","total","san_unimp",1.64523514109437
 "MEX",719,"country","female","total","improved_w_access",95.2663185393248
-"MEX",719,"country","female","total","water_daily",70.1358349563655
+"MEX",719,"country","female","total","water_daily",54.6224487951809
 "MEX",719,"country","female","total","w_dist_treatment",12.6527393698222
 "MEX",719,"country","female","total","w_treatment",59.9740055072936
 "MEX",719,"country","female","total","reason_w_treatment_taste",0.140896406440182
@@ -3804,7 +3804,7 @@
 "MEX",740,"country","male","total","san_sewer",77.8544164508164
 "MEX",740,"country","male","total","san_unimp",0.647876687569424
 "MEX",740,"country","male","total","improved_w_access",93.0070739026143
-"MEX",740,"country","male","total","water_daily",76.9927286969601
+"MEX",740,"country","male","total","water_daily",59.7930149297638
 "MEX",740,"country","male","total","w_dist_treatment",8.82719637508051
 "MEX",740,"country","male","total","w_treatment",50.7002082112244
 "MEX",740,"country","male","total","reason_w_treatment_taste",0.428410655535245
@@ -3853,7 +3853,7 @@
 "NIC",974,"country","female","total","san_sewer",56.1191087763723
 "NIC",974,"country","female","total","san_unimp",5.49415267079842
 "NIC",974,"country","female","total","improved_w_access",96.9326203126525
-"NIC",974,"country","female","total","water_daily",81.3769607633218
+"NIC",974,"country","female","total","water_daily",66.7633601446661
 "NIC",974,"country","female","total","w_dist_treatment",58.275833752652
 "NIC",974,"country","female","total","w_treatment",73.4019113006167
 "NIC",974,"country","female","total","reason_w_treatment_taste",0.170838624667828
@@ -3902,7 +3902,7 @@
 "NIC",501,"country","male","total","san_sewer",40.7504817353709
 "NIC",501,"country","male","total","san_unimp",8.82071432925522
 "NIC",501,"country","male","total","improved_w_access",96.1089512926087
-"NIC",501,"country","male","total","water_daily",73.9681376354956
+"NIC",501,"country","male","total","water_daily",53.0296550812482
 "NIC",501,"country","male","total","w_dist_treatment",36.8248394354278
 "NIC",501,"country","male","total","w_treatment",62.5687503633651
 "NIC",501,"country","male","total","reason_w_treatment_taste",0
@@ -3951,7 +3951,7 @@
 "PAN",772,"country","female","total","san_sewer",36.0919212189
 "PAN",772,"country","female","total","san_unimp",6.35075748929863
 "PAN",772,"country","female","total","improved_w_access",91.5942656524175
-"PAN",772,"country","female","total","water_daily",89.9046320363952
+"PAN",772,"country","female","total","water_daily",69.3489840370156
 "PAN",772,"country","female","total","w_dist_treatment",22.7569354463667
 "PAN",772,"country","female","total","w_treatment",33.8039121417204
 "PAN",772,"country","female","total","reason_w_treatment_taste",1.80581767135164
@@ -4000,7 +4000,7 @@
 "PAN",684,"country","male","total","san_sewer",33.3880527909565
 "PAN",684,"country","male","total","san_unimp",6.17101373608086
 "PAN",684,"country","male","total","improved_w_access",91.20303384653
-"PAN",684,"country","male","total","water_daily",88.9492893500131
+"PAN",684,"country","male","total","water_daily",71.1688120363333
 "PAN",684,"country","male","total","w_dist_treatment",22.146353454892
 "PAN",684,"country","male","total","w_treatment",31.6826192122274
 "PAN",684,"country","male","total","reason_w_treatment_taste",1.04094402025656
@@ -4049,7 +4049,7 @@
 "PER",678,"country","female","total","san_sewer",73.2835655749334
 "PER",678,"country","female","total","san_unimp",2.34224178232577
 "PER",678,"country","female","total","improved_w_access",87.9733457966401
-"PER",678,"country","female","total","water_daily",93.6897240221012
+"PER",678,"country","female","total","water_daily",65.0465870860057
 "PER",678,"country","female","total","w_dist_treatment",69.8868402876986
 "PER",678,"country","female","total","w_treatment",94.0746413471881
 "PER",678,"country","female","total","reason_w_treatment_taste",1.01160942996382
@@ -4098,7 +4098,7 @@
 "PER",788,"country","male","total","san_sewer",76.5016016484774
 "PER",788,"country","male","total","san_unimp",3.13619964724627
 "PER",788,"country","male","total","improved_w_access",88.4793740904557
-"PER",788,"country","male","total","water_daily",91.9659411712006
+"PER",788,"country","male","total","water_daily",69.7800925944731
 "PER",788,"country","male","total","w_dist_treatment",65.6585169243203
 "PER",788,"country","male","total","w_treatment",89.9415322547198
 "PER",788,"country","male","total","reason_w_treatment_taste",0.423016318819997
@@ -4147,7 +4147,7 @@
 "PRY",710,"country","female","total","san_sewer",12.4985731679026
 "PRY",710,"country","female","total","san_unimp",5.14899957969289
 "PRY",710,"country","female","total","improved_w_access",94.6742914588063
-"PRY",710,"country","female","total","water_daily",95.5043095770363
+"PRY",710,"country","female","total","water_daily",63.7732682204544
 "PRY",710,"country","female","total","w_dist_treatment",18.7803841160962
 "PRY",710,"country","female","total","w_treatment",32.4443505480662
 "PRY",710,"country","female","total","reason_w_treatment_taste",0.665936397181314
@@ -4196,7 +4196,7 @@
 "PRY",740,"country","male","total","san_sewer",12.84901748254
 "PRY",740,"country","male","total","san_unimp",4.12626285440941
 "PRY",740,"country","male","total","improved_w_access",93.697309922023
-"PRY",740,"country","male","total","water_daily",96.0969433052513
+"PRY",740,"country","male","total","water_daily",62.7023956656766
 "PRY",740,"country","male","total","w_dist_treatment",14.9061501757439
 "PRY",740,"country","male","total","w_treatment",28.6485157580032
 "PRY",740,"country","male","total","reason_w_treatment_taste",1.21428183986757
@@ -4245,7 +4245,7 @@
 "SLV",844,"country","female","total","san_sewer",35.5780226654273
 "SLV",844,"country","female","total","san_unimp",4.09936691253059
 "SLV",844,"country","female","total","improved_w_access",83.6530996731869
-"SLV",844,"country","female","total","water_daily",66.6700381684996
+"SLV",844,"country","female","total","water_daily",44.113310928012
 "SLV",844,"country","female","total","w_dist_treatment",19.6558177330999
 "SLV",844,"country","female","total","w_treatment",46.0451539818419
 "SLV",844,"country","female","total","reason_w_treatment_taste",0
@@ -4294,7 +4294,7 @@
 "SLV",797,"country","male","total","san_sewer",36.2290968954617
 "SLV",797,"country","male","total","san_unimp",4.17628931313034
 "SLV",797,"country","male","total","improved_w_access",82.1630519055576
-"SLV",797,"country","male","total","water_daily",70.39018951969
+"SLV",797,"country","male","total","water_daily",46.4560382344002
 "SLV",797,"country","male","total","w_dist_treatment",16.4772122370553
 "SLV",797,"country","male","total","w_treatment",40.6759681906272
 "SLV",797,"country","male","total","reason_w_treatment_taste",0.0454302118851833
@@ -4343,7 +4343,7 @@
 "URY",863,"country","female","total","san_sewer",55.2683135301819
 "URY",863,"country","female","total","san_unimp",0
 "URY",863,"country","female","total","improved_w_access",99.9504843774608
-"URY",863,"country","female","total","water_daily",99.6744998757832
+"URY",863,"country","female","total","water_daily",93.9549756410331
 "URY",863,"country","female","total","w_dist_treatment",24.0929277203783
 "URY",863,"country","female","total","w_treatment",39.2098903074278
 "URY",863,"country","female","total","reason_w_treatment_taste",6.42944186002478
@@ -4392,7 +4392,7 @@
 "URY",661,"country","male","total","san_sewer",55.9592116559557
 "URY",661,"country","male","total","san_unimp",0
 "URY",661,"country","male","total","improved_w_access",99.4452443697485
-"URY",661,"country","male","total","water_daily",99.4000204119312
+"URY",661,"country","male","total","water_daily",89.266076893195
 "URY",661,"country","male","total","w_dist_treatment",21.9418021349399
 "URY",661,"country","male","total","w_treatment",36.6490880608481
 "URY",661,"country","male","total","reason_w_treatment_taste",4.78600588976759
@@ -4441,7 +4441,7 @@
 "ARG",371,"country","all","1","san_sewer",41.7229009167161
 "ARG",371,"country","all","1","san_unimp",0.606194960138305
 "ARG",371,"country","all","1","improved_w_access",94.9764759638038
-"ARG",371,"country","all","1","water_daily",96.9582170497432
+"ARG",371,"country","all","1","water_daily",74.2619667945226
 "ARG",371,"country","all","1","w_dist_treatment",21.974494793903
 "ARG",371,"country","all","1","w_treatment",31.7884383292226
 "ARG",371,"country","all","1","reason_w_treatment_taste",2.34305677776403
@@ -4490,7 +4490,7 @@
 "ARG",214,"country","all","2","san_sewer",47.0545224999593
 "ARG",214,"country","all","2","san_unimp",0
 "ARG",214,"country","all","2","improved_w_access",98.6537515029317
-"ARG",214,"country","all","2","water_daily",96.9652550197155
+"ARG",214,"country","all","2","water_daily",75.7733318685755
 "ARG",214,"country","all","2","w_dist_treatment",19.9777796240678
 "ARG",214,"country","all","2","w_treatment",29.3485096990319
 "ARG",214,"country","all","2","reason_w_treatment_taste",6.75100101281694
@@ -4539,7 +4539,7 @@
 "ARG",227,"country","all","3","san_sewer",54.2719762083982
 "ARG",227,"country","all","3","san_unimp",0
 "ARG",227,"country","all","3","improved_w_access",98.2540855062968
-"ARG",227,"country","all","3","water_daily",99.1710541152642
+"ARG",227,"country","all","3","water_daily",75.2554030052427
 "ARG",227,"country","all","3","w_dist_treatment",14.208362893741
 "ARG",227,"country","all","3","w_treatment",28.0455073931591
 "ARG",227,"country","all","3","reason_w_treatment_taste",2.42267954181698
@@ -4588,7 +4588,7 @@
 "ARG",217,"country","all","4","san_sewer",61.4789569982892
 "ARG",217,"country","all","4","san_unimp",0
 "ARG",217,"country","all","4","improved_w_access",97.9975704898895
-"ARG",217,"country","all","4","water_daily",97.9370375330666
+"ARG",217,"country","all","4","water_daily",83.1172350106055
 "ARG",217,"country","all","4","w_dist_treatment",20.4235537898602
 "ARG",217,"country","all","4","w_treatment",32.7293805400012
 "ARG",217,"country","all","4","reason_w_treatment_taste",3.64027150509173
@@ -4637,7 +4637,7 @@
 "ARG",269,"country","all","5","san_sewer",69.8060716870479
 "ARG",269,"country","all","5","san_unimp",0
 "ARG",269,"country","all","5","improved_w_access",98.4835792649889
-"ARG",269,"country","all","5","water_daily",99.5387360429387
+"ARG",269,"country","all","5","water_daily",91.4431973012315
 "ARG",269,"country","all","5","w_dist_treatment",22.6729580702856
 "ARG",269,"country","all","5","w_treatment",37.3142684009426
 "ARG",269,"country","all","5","reason_w_treatment_taste",4.77017333053592
@@ -4686,7 +4686,7 @@
 "BOL",292,"country","all","1","san_sewer",48.5046928596768
 "BOL",292,"country","all","1","san_unimp",4.13051542990171
 "BOL",292,"country","all","1","improved_w_access",90.0771010210213
-"BOL",292,"country","all","1","water_daily",95.14456678031
+"BOL",292,"country","all","1","water_daily",67.0780520864523
 "BOL",292,"country","all","1","w_dist_treatment",45.3802439614957
 "BOL",292,"country","all","1","w_treatment",65.1193077362182
 "BOL",292,"country","all","1","reason_w_treatment_taste",1.06519520872244
@@ -4735,7 +4735,7 @@
 "BOL",246,"country","all","2","san_sewer",58.9706641493338
 "BOL",246,"country","all","2","san_unimp",4.79180898406935
 "BOL",246,"country","all","2","improved_w_access",87.5955910140086
-"BOL",246,"country","all","2","water_daily",94.2396407606725
+"BOL",246,"country","all","2","water_daily",68.3350772503551
 "BOL",246,"country","all","2","w_dist_treatment",41.9928658226483
 "BOL",246,"country","all","2","w_treatment",66.0269765090083
 "BOL",246,"country","all","2","reason_w_treatment_taste",1.36912281654964
@@ -4784,7 +4784,7 @@
 "BOL",334,"country","all","3","san_sewer",55.9391314763512
 "BOL",334,"country","all","3","san_unimp",1.41343523782499
 "BOL",334,"country","all","3","improved_w_access",91.793069265322
-"BOL",334,"country","all","3","water_daily",91.9220151967665
+"BOL",334,"country","all","3","water_daily",66.5537260149861
 "BOL",334,"country","all","3","w_dist_treatment",47.4908991827079
 "BOL",334,"country","all","3","w_treatment",70.061433174749
 "BOL",334,"country","all","3","reason_w_treatment_taste",0.806901592292073
@@ -4833,7 +4833,7 @@
 "BOL",243,"country","all","4","san_sewer",58.0735903236493
 "BOL",243,"country","all","4","san_unimp",0.654949000988597
 "BOL",243,"country","all","4","improved_w_access",92.7038781734532
-"BOL",243,"country","all","4","water_daily",91.9856553362665
+"BOL",243,"country","all","4","water_daily",67.9715129872468
 "BOL",243,"country","all","4","w_dist_treatment",42.2418541691142
 "BOL",243,"country","all","4","w_treatment",65.1635369667109
 "BOL",243,"country","all","4","reason_w_treatment_taste",0
@@ -4882,7 +4882,7 @@
 "BOL",208,"country","all","5","san_sewer",71.4648073192471
 "BOL",208,"country","all","5","san_unimp",2.58382694230974
 "BOL",208,"country","all","5","improved_w_access",90.0255903195421
-"BOL",208,"country","all","5","water_daily",95.8407714750168
+"BOL",208,"country","all","5","water_daily",77.9526912042636
 "BOL",208,"country","all","5","w_dist_treatment",47.3081378429895
 "BOL",208,"country","all","5","w_treatment",74.0838834677096
 "BOL",208,"country","all","5","reason_w_treatment_taste",2.22478615506775
@@ -4931,7 +4931,7 @@
 "BRA",181,"country","all","1","san_sewer",53.9028055681259
 "BRA",181,"country","all","1","san_unimp",1.0422297401751
 "BRA",181,"country","all","1","improved_w_access",90.1502657132995
-"BRA",181,"country","all","1","water_daily",85.1250315937541
+"BRA",181,"country","all","1","water_daily",53.6286291392211
 "BRA",181,"country","all","1","w_dist_treatment",32.5649580219365
 "BRA",181,"country","all","1","w_treatment",51.8924553976021
 "BRA",181,"country","all","1","reason_w_treatment_taste",1.30813714025401
@@ -4980,7 +4980,7 @@
 "BRA",199,"country","all","2","san_sewer",58.2652582842405
 "BRA",199,"country","all","2","san_unimp",0
 "BRA",199,"country","all","2","improved_w_access",89.4174682281076
-"BRA",199,"country","all","2","water_daily",89.8497667597244
+"BRA",199,"country","all","2","water_daily",66.2608173805409
 "BRA",199,"country","all","2","w_dist_treatment",27.9307135847677
 "BRA",199,"country","all","2","w_treatment",51.0943764579677
 "BRA",199,"country","all","2","reason_w_treatment_taste",5.5822176213653
@@ -5029,7 +5029,7 @@
 "BRA",210,"country","all","3","san_sewer",65.4096912698732
 "BRA",210,"country","all","3","san_unimp",0
 "BRA",210,"country","all","3","improved_w_access",88.4878306373476
-"BRA",210,"country","all","3","water_daily",94.4279716091854
+"BRA",210,"country","all","3","water_daily",76.4671919116196
 "BRA",210,"country","all","3","w_dist_treatment",29.7318454312293
 "BRA",210,"country","all","3","w_treatment",51.4243868299216
 "BRA",210,"country","all","3","reason_w_treatment_taste",0.243787073015246
@@ -5078,7 +5078,7 @@
 "BRA",264,"country","all","4","san_sewer",62.0460882284337
 "BRA",264,"country","all","4","san_unimp",0
 "BRA",264,"country","all","4","improved_w_access",88.6028030882246
-"BRA",264,"country","all","4","water_daily",97.851127227023
+"BRA",264,"country","all","4","water_daily",74.889497638563
 "BRA",264,"country","all","4","w_dist_treatment",35.9572848466939
 "BRA",264,"country","all","4","w_treatment",61.4822491539462
 "BRA",264,"country","all","4","reason_w_treatment_taste",3.3091499392908
@@ -5127,7 +5127,7 @@
 "BRA",518,"country","all","5","san_sewer",71.6175202909368
 "BRA",518,"country","all","5","san_unimp",0.942888251838606
 "BRA",518,"country","all","5","improved_w_access",87.8921249001489
-"BRA",518,"country","all","5","water_daily",94.6194534435221
+"BRA",518,"country","all","5","water_daily",74.7133058688801
 "BRA",518,"country","all","5","w_dist_treatment",40.7037134309766
 "BRA",518,"country","all","5","w_treatment",77.1956717685974
 "BRA",518,"country","all","5","reason_w_treatment_taste",3.07112905723031
@@ -5176,7 +5176,7 @@
 "CHL",200,"country","all","1","san_sewer",84.3673601674412
 "CHL",200,"country","all","1","san_unimp",0.90423887703792
 "CHL",200,"country","all","1","improved_w_access",99.0593447385577
-"CHL",200,"country","all","1","water_daily",99.7272662446806
+"CHL",200,"country","all","1","water_daily",90.7834183161755
 "CHL",200,"country","all","1","w_dist_treatment",27.3815831281302
 "CHL",200,"country","all","1","w_treatment",33.4600894494553
 "CHL",200,"country","all","1","reason_w_treatment_taste",4.62878321593055
@@ -5225,7 +5225,7 @@
 "CHL",205,"country","all","2","san_sewer",86.7149089963102
 "CHL",205,"country","all","2","san_unimp",0
 "CHL",205,"country","all","2","improved_w_access",99.5606990882959
-"CHL",205,"country","all","2","water_daily",100
+"CHL",205,"country","all","2","water_daily",92.5147365655298
 "CHL",205,"country","all","2","w_dist_treatment",27.7725802552563
 "CHL",205,"country","all","2","w_treatment",34.5953514111572
 "CHL",205,"country","all","2","reason_w_treatment_taste",3.23526537683315
@@ -5274,7 +5274,7 @@
 "CHL",278,"country","all","3","san_sewer",90.178070963624
 "CHL",278,"country","all","3","san_unimp",0
 "CHL",278,"country","all","3","improved_w_access",99.8098715349082
-"CHL",278,"country","all","3","water_daily",98.9334197185569
+"CHL",278,"country","all","3","water_daily",93.7382131971064
 "CHL",278,"country","all","3","w_dist_treatment",18.729068925254
 "CHL",278,"country","all","3","w_treatment",28.2174689657499
 "CHL",278,"country","all","3","reason_w_treatment_taste",2.03039122722839
@@ -5323,7 +5323,7 @@
 "CHL",192,"country","all","4","san_sewer",93.257216663764
 "CHL",192,"country","all","4","san_unimp",0
 "CHL",192,"country","all","4","improved_w_access",99.0261358628713
-"CHL",192,"country","all","4","water_daily",100
+"CHL",192,"country","all","4","water_daily",94.9451056832553
 "CHL",192,"country","all","4","w_dist_treatment",14.778323551637
 "CHL",192,"country","all","4","w_treatment",21.8762307353966
 "CHL",192,"country","all","4","reason_w_treatment_taste",1.07319681208658
@@ -5372,7 +5372,7 @@
 "CHL",421,"country","all","5","san_sewer",89.4668250813718
 "CHL",421,"country","all","5","san_unimp",0
 "CHL",421,"country","all","5","improved_w_access",98.9523119566042
-"CHL",421,"country","all","5","water_daily",100
+"CHL",421,"country","all","5","water_daily",94.3076268637882
 "CHL",421,"country","all","5","w_dist_treatment",15.9776416039691
 "CHL",421,"country","all","5","w_treatment",26.9030794248744
 "CHL",421,"country","all","5","reason_w_treatment_taste",2.87761786563719
@@ -5421,7 +5421,7 @@
 "COL",398,"country","all","1","san_sewer",56.8785693616345
 "COL",398,"country","all","1","san_unimp",1.85816343557949
 "COL",398,"country","all","1","improved_w_access",81.4518350544687
-"COL",398,"country","all","1","water_daily",84.8593863165893
+"COL",398,"country","all","1","water_daily",55.3484361261672
 "COL",398,"country","all","1","w_dist_treatment",29.5146962786362
 "COL",398,"country","all","1","w_treatment",48.6387695462143
 "COL",398,"country","all","1","reason_w_treatment_taste",0.477479839646964
@@ -5470,7 +5470,7 @@
 "COL",292,"country","all","2","san_sewer",80.4864412909434
 "COL",292,"country","all","2","san_unimp",0.67389507317939
 "COL",292,"country","all","2","improved_w_access",95.4524835760464
-"COL",292,"country","all","2","water_daily",89.3354114200552
+"COL",292,"country","all","2","water_daily",76.3525299987977
 "COL",292,"country","all","2","w_dist_treatment",44.0763551120517
 "COL",292,"country","all","2","w_treatment",52.6516545904098
 "COL",292,"country","all","2","reason_w_treatment_taste",0.7196780161271
@@ -5519,7 +5519,7 @@
 "COL",378,"country","all","3","san_sewer",83.8785479901255
 "COL",378,"country","all","3","san_unimp",0.0984009422719028
 "COL",378,"country","all","3","improved_w_access",93.6088400374413
-"COL",378,"country","all","3","water_daily",95.1451485050313
+"COL",378,"country","all","3","water_daily",78.8273882987565
 "COL",378,"country","all","3","w_dist_treatment",44.2442115117859
 "COL",378,"country","all","3","w_treatment",54.9227921747831
 "COL",378,"country","all","3","reason_w_treatment_taste",0.868808162260348
@@ -5568,7 +5568,7 @@
 "COL",147,"country","all","4","san_sewer",89.663705974168
 "COL",147,"country","all","4","san_unimp",0
 "COL",147,"country","all","4","improved_w_access",96.401530993732
-"COL",147,"country","all","4","water_daily",94.3277056273156
+"COL",147,"country","all","4","water_daily",85.7355259511054
 "COL",147,"country","all","4","w_dist_treatment",47.2184229261858
 "COL",147,"country","all","4","w_treatment",56.5240780040435
 "COL",147,"country","all","4","reason_w_treatment_taste",0.86011574182511
@@ -5617,7 +5617,7 @@
 "COL",162,"country","all","5","san_sewer",92.0386312772038
 "COL",162,"country","all","5","san_unimp",0
 "COL",162,"country","all","5","improved_w_access",93.4290822715793
-"COL",162,"country","all","5","water_daily",95.5882226894548
+"COL",162,"country","all","5","water_daily",89.0973348732059
 "COL",162,"country","all","5","w_dist_treatment",39.5710190002976
 "COL",162,"country","all","5","w_treatment",52.7590040790621
 "COL",162,"country","all","5","reason_w_treatment_taste",0.140098451288503
@@ -5666,7 +5666,7 @@
 "CRI",443,"country","all","1","san_sewer",14.8048329469751
 "CRI",443,"country","all","1","san_unimp",1.46375607489915
 "CRI",443,"country","all","1","improved_w_access",96.5213241921055
-"CRI",443,"country","all","1","water_daily",98.6138342771777
+"CRI",443,"country","all","1","water_daily",84.8697632032655
 "CRI",443,"country","all","1","w_dist_treatment",11.9187648144726
 "CRI",443,"country","all","1","w_treatment",17.0753984548258
 "CRI",443,"country","all","1","reason_w_treatment_taste",0.466827870131312
@@ -5715,7 +5715,7 @@
 "CRI",309,"country","all","2","san_sewer",22.8760337072293
 "CRI",309,"country","all","2","san_unimp",0.964425195443143
 "CRI",309,"country","all","2","improved_w_access",99.2348664015077
-"CRI",309,"country","all","2","water_daily",99.7329617121034
+"CRI",309,"country","all","2","water_daily",92.7180880784535
 "CRI",309,"country","all","2","w_dist_treatment",17.6380070518931
 "CRI",309,"country","all","2","w_treatment",19.9445359262366
 "CRI",309,"country","all","2","reason_w_treatment_taste",0.937017885807179
@@ -5764,7 +5764,7 @@
 "CRI",213,"country","all","3","san_sewer",21.1184551704843
 "CRI",213,"country","all","3","san_unimp",0
 "CRI",213,"country","all","3","improved_w_access",97.6559811980434
-"CRI",213,"country","all","3","water_daily",99.1069206045299
+"CRI",213,"country","all","3","water_daily",91.2529616284008
 "CRI",213,"country","all","3","w_dist_treatment",17.015430276211
 "CRI",213,"country","all","3","w_treatment",18.6221716586688
 "CRI",213,"country","all","3","reason_w_treatment_taste",0.755205424961495
@@ -5813,7 +5813,7 @@
 "CRI",114,"country","all","4","san_sewer",30.4920683602782
 "CRI",114,"country","all","4","san_unimp",0
 "CRI",114,"country","all","4","improved_w_access",98.4235935647017
-"CRI",114,"country","all","4","water_daily",99.2526614320403
+"CRI",114,"country","all","4","water_daily",94.2819554538737
 "CRI",114,"country","all","4","w_dist_treatment",20.7529160325856
 "CRI",114,"country","all","4","w_treatment",23.3711430235455
 "CRI",114,"country","all","4","reason_w_treatment_taste",0.672187016704165
@@ -5862,7 +5862,7 @@
 "CRI",192,"country","all","5","san_sewer",37.3967624525463
 "CRI",192,"country","all","5","san_unimp",0
 "CRI",192,"country","all","5","improved_w_access",97.6418837595188
-"CRI",192,"country","all","5","water_daily",97.165378788992
+"CRI",192,"country","all","5","water_daily",92.582177300256
 "CRI",192,"country","all","5","w_dist_treatment",22.6842882813651
 "CRI",192,"country","all","5","w_treatment",23.5758364828601
 "CRI",192,"country","all","5","reason_w_treatment_taste",1.83719048462937
@@ -5911,7 +5911,7 @@
 "DOM",128,"country","all","1","san_sewer",24.1003643645218
 "DOM",128,"country","all","1","san_unimp",9.60373203702999
 "DOM",128,"country","all","1","improved_w_access",96.6279086687498
-"DOM",128,"country","all","1","water_daily",52.8710539173695
+"DOM",128,"country","all","1","water_daily",32.466299771123
 "DOM",128,"country","all","1","w_dist_treatment",3.14519856581609
 "DOM",128,"country","all","1","w_treatment",52.5784209263673
 "DOM",128,"country","all","1","reason_w_treatment_taste",0.303346905990248
@@ -5960,7 +5960,7 @@
 "DOM",196,"country","all","2","san_sewer",19.3316547081187
 "DOM",196,"country","all","2","san_unimp",5.93066059500319
 "DOM",196,"country","all","2","improved_w_access",92.4942798959602
-"DOM",196,"country","all","2","water_daily",49.5123730008089
+"DOM",196,"country","all","2","water_daily",29.4638090299143
 "DOM",196,"country","all","2","w_dist_treatment",3.30939015988609
 "DOM",196,"country","all","2","w_treatment",37.6149297780081
 "DOM",196,"country","all","2","reason_w_treatment_taste",0
@@ -6009,7 +6009,7 @@
 "DOM",291,"country","all","3","san_sewer",22.1647589015317
 "DOM",291,"country","all","3","san_unimp",4.7979918457968
 "DOM",291,"country","all","3","improved_w_access",98.262871091351
-"DOM",291,"country","all","3","water_daily",51.5231839331378
+"DOM",291,"country","all","3","water_daily",33.3247105507807
 "DOM",291,"country","all","3","w_dist_treatment",0.79358524124443
 "DOM",291,"country","all","3","w_treatment",22.4241406765012
 "DOM",291,"country","all","3","reason_w_treatment_taste",0
@@ -6058,7 +6058,7 @@
 "DOM",280,"country","all","4","san_sewer",25.3801508062523
 "DOM",280,"country","all","4","san_unimp",1.39026049172393
 "DOM",280,"country","all","4","improved_w_access",96.7879128208519
-"DOM",280,"country","all","4","water_daily",38.9842141912915
+"DOM",280,"country","all","4","water_daily",23.7432869811577
 "DOM",280,"country","all","4","w_dist_treatment",2.09672315234894
 "DOM",280,"country","all","4","w_treatment",46.1773668330371
 "DOM",280,"country","all","4","reason_w_treatment_taste",0
@@ -6107,7 +6107,7 @@
 "DOM",414,"country","all","5","san_sewer",34.7947798403504
 "DOM",414,"country","all","5","san_unimp",0.404793990565432
 "DOM",414,"country","all","5","improved_w_access",96.0174746148886
-"DOM",414,"country","all","5","water_daily",52.7626495252101
+"DOM",414,"country","all","5","water_daily",34.7312269964697
 "DOM",414,"country","all","5","w_dist_treatment",0.78443182963658
 "DOM",414,"country","all","5","w_treatment",35.5739223449605
 "DOM",414,"country","all","5","reason_w_treatment_taste",0
@@ -6156,7 +6156,7 @@
 "ECU",303,"country","all","1","san_sewer",51.4379942061148
 "ECU",303,"country","all","1","san_unimp",1.85476349874469
 "ECU",303,"country","all","1","improved_w_access",91.7053843887588
-"ECU",303,"country","all","1","water_daily",82.0477780943685
+"ECU",303,"country","all","1","water_daily",52.4683992961318
 "ECU",303,"country","all","1","w_dist_treatment",39.9675177859232
 "ECU",303,"country","all","1","w_treatment",66.8889440522763
 "ECU",303,"country","all","1","reason_w_treatment_taste",0.12206287295071
@@ -6205,7 +6205,7 @@
 "ECU",211,"country","all","2","san_sewer",57.6468463701883
 "ECU",211,"country","all","2","san_unimp",1.73582993800318
 "ECU",211,"country","all","2","improved_w_access",87.7400344909722
-"ECU",211,"country","all","2","water_daily",91.5556458390332
+"ECU",211,"country","all","2","water_daily",60.0681405919556
 "ECU",211,"country","all","2","w_dist_treatment",42.5442840700369
 "ECU",211,"country","all","2","w_treatment",66.7666944032013
 "ECU",211,"country","all","2","reason_w_treatment_taste",0.736775194880587
@@ -6254,7 +6254,7 @@
 "ECU",282,"country","all","3","san_sewer",65.3398951242379
 "ECU",282,"country","all","3","san_unimp",0.435191606613975
 "ECU",282,"country","all","3","improved_w_access",95.7385573603835
-"ECU",282,"country","all","3","water_daily",91.7609713040199
+"ECU",282,"country","all","3","water_daily",68.8764250664652
 "ECU",282,"country","all","3","w_dist_treatment",42.4835114475181
 "ECU",282,"country","all","3","w_treatment",68.5693136359286
 "ECU",282,"country","all","3","reason_w_treatment_taste",0.34808940260561
@@ -6303,7 +6303,7 @@
 "ECU",265,"country","all","4","san_sewer",69.131052139677
 "ECU",265,"country","all","4","san_unimp",1.12354317881369
 "ECU",265,"country","all","4","improved_w_access",96.7745463514667
-"ECU",265,"country","all","4","water_daily",93.0212805565257
+"ECU",265,"country","all","4","water_daily",71.0685782182243
 "ECU",265,"country","all","4","w_dist_treatment",38.6169865865965
 "ECU",265,"country","all","4","w_treatment",67.9216980644771
 "ECU",265,"country","all","4","reason_w_treatment_taste",0.664060359929081
@@ -6352,7 +6352,7 @@
 "ECU",250,"country","all","5","san_sewer",82.1851527154604
 "ECU",250,"country","all","5","san_unimp",0.756070066140805
 "ECU",250,"country","all","5","improved_w_access",94.4748332794429
-"ECU",250,"country","all","5","water_daily",94.4114076580315
+"ECU",250,"country","all","5","water_daily",80.4425661666146
 "ECU",250,"country","all","5","w_dist_treatment",39.0913133872169
 "ECU",250,"country","all","5","w_treatment",67.7648140513176
 "ECU",250,"country","all","5","reason_w_treatment_taste",0.322840322860329
@@ -6401,7 +6401,7 @@
 "GTM",274,"country","all","1","san_sewer",38.1177178299458
 "GTM",274,"country","all","1","san_unimp",5.68967622445934
 "GTM",274,"country","all","1","improved_w_access",86.1872624922137
-"GTM",274,"country","all","1","water_daily",70.8999351074443
+"GTM",274,"country","all","1","water_daily",41.53389099802
 "GTM",274,"country","all","1","w_dist_treatment",39.0117839271453
 "GTM",274,"country","all","1","w_treatment",77.8971853106667
 "GTM",274,"country","all","1","reason_w_treatment_taste",1.57936999951049
@@ -6450,7 +6450,7 @@
 "GTM",201,"country","all","2","san_sewer",51.9135650330488
 "GTM",201,"country","all","2","san_unimp",1.70418893050901
 "GTM",201,"country","all","2","improved_w_access",93.262621904502
-"GTM",201,"country","all","2","water_daily",68.3257429642454
+"GTM",201,"country","all","2","water_daily",41.867832981862
 "GTM",201,"country","all","2","w_dist_treatment",43.7406846008995
 "GTM",201,"country","all","2","w_treatment",82.9134174841185
 "GTM",201,"country","all","2","reason_w_treatment_taste",0
@@ -6499,7 +6499,7 @@
 "GTM",215,"country","all","3","san_sewer",56.9565394537102
 "GTM",215,"country","all","3","san_unimp",3.1990391965527
 "GTM",215,"country","all","3","improved_w_access",95.3679874384067
-"GTM",215,"country","all","3","water_daily",68.2257545491506
+"GTM",215,"country","all","3","water_daily",50.1802244110058
 "GTM",215,"country","all","3","w_dist_treatment",34.4208330623436
 "GTM",215,"country","all","3","w_treatment",76.5944300953467
 "GTM",215,"country","all","3","reason_w_treatment_taste",0.17980752757486
@@ -6548,7 +6548,7 @@
 "GTM",214,"country","all","4","san_sewer",68.4187937027881
 "GTM",214,"country","all","4","san_unimp",0.510331238904826
 "GTM",214,"country","all","4","improved_w_access",88.858433676638
-"GTM",214,"country","all","4","water_daily",75.8790357606633
+"GTM",214,"country","all","4","water_daily",53.7065375135077
 "GTM",214,"country","all","4","w_dist_treatment",26.67915633631
 "GTM",214,"country","all","4","w_treatment",79.7501040040339
 "GTM",214,"country","all","4","reason_w_treatment_taste",0.13423558617303
@@ -6597,7 +6597,7 @@
 "GTM",277,"country","all","5","san_sewer",82.5300706613568
 "GTM",277,"country","all","5","san_unimp",2.12523091309108
 "GTM",277,"country","all","5","improved_w_access",94.221036216707
-"GTM",277,"country","all","5","water_daily",84.2824741280198
+"GTM",277,"country","all","5","water_daily",64.7502618831689
 "GTM",277,"country","all","5","w_dist_treatment",30.3315247109678
 "GTM",277,"country","all","5","w_treatment",85.5001695044462
 "GTM",277,"country","all","5","reason_w_treatment_taste",1.14326042809476
@@ -6646,7 +6646,7 @@
 "GUY",99,"country","all","1","san_sewer",5.70863862288419
 "GUY",99,"country","all","1","san_unimp",9.55117215600955
 "GUY",99,"country","all","1","improved_w_access",93.7349092479975
-"GUY",99,"country","all","1","water_daily",91.4356579550324
+"GUY",99,"country","all","1","water_daily",50.7634405530313
 "GUY",99,"country","all","1","w_dist_treatment",16.2848597596429
 "GUY",99,"country","all","1","w_treatment",63.8554199344094
 "GUY",99,"country","all","1","reason_w_treatment_taste",0
@@ -6695,7 +6695,7 @@
 "GUY",150,"country","all","2","san_sewer",10.2555397936725
 "GUY",150,"country","all","2","san_unimp",12.1981320471354
 "GUY",150,"country","all","2","improved_w_access",92.2673522353147
-"GUY",150,"country","all","2","water_daily",95.1156118758971
+"GUY",150,"country","all","2","water_daily",60.044717936351
 "GUY",150,"country","all","2","w_dist_treatment",17.4222408132063
 "GUY",150,"country","all","2","w_treatment",60.8265918595221
 "GUY",150,"country","all","2","reason_w_treatment_taste",0.605442432307102
@@ -6744,7 +6744,7 @@
 "GUY",238,"country","all","3","san_sewer",4.36324051783083
 "GUY",238,"country","all","3","san_unimp",6.3656136506791
 "GUY",238,"country","all","3","improved_w_access",91.7542004266696
-"GUY",238,"country","all","3","water_daily",95.7083235547145
+"GUY",238,"country","all","3","water_daily",59.3782046568972
 "GUY",238,"country","all","3","w_dist_treatment",10.8167292024146
 "GUY",238,"country","all","3","w_treatment",62.0972358889037
 "GUY",238,"country","all","3","reason_w_treatment_taste",0
@@ -6793,7 +6793,7 @@
 "GUY",361,"country","all","4","san_sewer",6.85929982779783
 "GUY",361,"country","all","4","san_unimp",3.96920107734398
 "GUY",361,"country","all","4","improved_w_access",90.4620071081101
-"GUY",361,"country","all","4","water_daily",98.1436593504676
+"GUY",361,"country","all","4","water_daily",68.4817256217707
 "GUY",361,"country","all","4","w_dist_treatment",9.61080396951204
 "GUY",361,"country","all","4","w_treatment",53.9708457555087
 "GUY",361,"country","all","4","reason_w_treatment_taste",0
@@ -6842,7 +6842,7 @@
 "GUY",373,"country","all","5","san_sewer",9.54784444719508
 "GUY",373,"country","all","5","san_unimp",1.54718912839885
 "GUY",373,"country","all","5","improved_w_access",94.8736613014055
-"GUY",373,"country","all","5","water_daily",94.3343559938208
+"GUY",373,"country","all","5","water_daily",64.5807655501667
 "GUY",373,"country","all","5","w_dist_treatment",5.30761431354867
 "GUY",373,"country","all","5","w_treatment",39.7724749235741
 "GUY",373,"country","all","5","reason_w_treatment_taste",1.21968758728514
@@ -6891,7 +6891,7 @@
 "HND",150,"country","all","1","san_sewer",23.8485326188253
 "HND",150,"country","all","1","san_unimp",9.50405515402889
 "HND",150,"country","all","1","improved_w_access",84.0856506533556
-"HND",150,"country","all","1","water_daily",60.3341697638583
+"HND",150,"country","all","1","water_daily",38.7939818459615
 "HND",150,"country","all","1","w_dist_treatment",29.8475559447415
 "HND",150,"country","all","1","w_treatment",69.7021720348556
 "HND",150,"country","all","1","reason_w_treatment_taste",0
@@ -6940,7 +6940,7 @@
 "HND",191,"country","all","2","san_sewer",22.3596677070986
 "HND",191,"country","all","2","san_unimp",4.14813343502998
 "HND",191,"country","all","2","improved_w_access",88.921687389967
-"HND",191,"country","all","2","water_daily",68.0520488680588
+"HND",191,"country","all","2","water_daily",46.7682866408246
 "HND",191,"country","all","2","w_dist_treatment",31.8576529843972
 "HND",191,"country","all","2","w_treatment",72.1314893048409
 "HND",191,"country","all","2","reason_w_treatment_taste",0
@@ -6989,7 +6989,7 @@
 "HND",270,"country","all","3","san_sewer",29.0857949135249
 "HND",270,"country","all","3","san_unimp",9.25250340985735
 "HND",270,"country","all","3","improved_w_access",90.0955393199857
-"HND",270,"country","all","3","water_daily",51.8476005041695
+"HND",270,"country","all","3","water_daily",35.5666739536035
 "HND",270,"country","all","3","w_dist_treatment",20.2152315808531
 "HND",270,"country","all","3","w_treatment",74.1259167099199
 "HND",270,"country","all","3","reason_w_treatment_taste",0
@@ -7038,7 +7038,7 @@
 "HND",331,"country","all","4","san_sewer",32.7796513010289
 "HND",331,"country","all","4","san_unimp",3.0874203175739
 "HND",331,"country","all","4","improved_w_access",88.3317719123191
-"HND",331,"country","all","4","water_daily",62.4302313542771
+"HND",331,"country","all","4","water_daily",44.2893969293674
 "HND",331,"country","all","4","w_dist_treatment",14.3079337490541
 "HND",331,"country","all","4","w_treatment",65.723818179295
 "HND",331,"country","all","4","reason_w_treatment_taste",0
@@ -7087,7 +7087,7 @@
 "HND",376,"country","all","5","san_sewer",49.300047237748
 "HND",376,"country","all","5","san_unimp",1.8308428295262
 "HND",376,"country","all","5","improved_w_access",95.2973794189857
-"HND",376,"country","all","5","water_daily",58.7431423951779
+"HND",376,"country","all","5","water_daily",44.8081599796085
 "HND",376,"country","all","5","w_dist_treatment",10.625722985759
 "HND",376,"country","all","5","w_treatment",77.4115754997638
 "HND",376,"country","all","5","reason_w_treatment_taste",0
@@ -7136,7 +7136,7 @@
 "MEX",256,"country","all","1","san_sewer",68.7519701752106
 "MEX",256,"country","all","1","san_unimp",1.36576844989483
 "MEX",256,"country","all","1","improved_w_access",92.4293234138545
-"MEX",256,"country","all","1","water_daily",68.8814066955098
+"MEX",256,"country","all","1","water_daily",49.4654464622815
 "MEX",256,"country","all","1","w_dist_treatment",15.0100182198576
 "MEX",256,"country","all","1","w_treatment",53.3248232041394
 "MEX",256,"country","all","1","reason_w_treatment_taste",0.87672168604554
@@ -7185,7 +7185,7 @@
 "MEX",156,"country","all","2","san_sewer",74.5199641971507
 "MEX",156,"country","all","2","san_unimp",3.34379236709724
 "MEX",156,"country","all","2","improved_w_access",96.638202311618
-"MEX",156,"country","all","2","water_daily",74.9883018245242
+"MEX",156,"country","all","2","water_daily",60.8174666945167
 "MEX",156,"country","all","2","w_dist_treatment",10.2920726589902
 "MEX",156,"country","all","2","w_treatment",51.4459086606932
 "MEX",156,"country","all","2","reason_w_treatment_taste",0
@@ -7234,7 +7234,7 @@
 "MEX",219,"country","all","3","san_sewer",78.4223171827984
 "MEX",219,"country","all","3","san_unimp",0
 "MEX",219,"country","all","3","improved_w_access",93.6015398455202
-"MEX",219,"country","all","3","water_daily",65.0281536962523
+"MEX",219,"country","all","3","water_daily",49.8569751777968
 "MEX",219,"country","all","3","w_dist_treatment",7.57490628321366
 "MEX",219,"country","all","3","w_treatment",57.7003800583827
 "MEX",219,"country","all","3","reason_w_treatment_taste",0
@@ -7283,7 +7283,7 @@
 "MEX",200,"country","all","4","san_sewer",85.9360662103283
 "MEX",200,"country","all","4","san_unimp",0.830939035619103
 "MEX",200,"country","all","4","improved_w_access",95.0183927491044
-"MEX",200,"country","all","4","water_daily",79.8948216214503
+"MEX",200,"country","all","4","water_daily",62.9373822046746
 "MEX",200,"country","all","4","w_dist_treatment",7.20757429357417
 "MEX",200,"country","all","4","w_treatment",40.0806130104713
 "MEX",200,"country","all","4","reason_w_treatment_taste",0
@@ -7332,7 +7332,7 @@
 "MEX",330,"country","all","5","san_sewer",90.2368763912272
 "MEX",330,"country","all","5","san_unimp",0.811083695380463
 "MEX",330,"country","all","5","improved_w_access",93.9979343137266
-"MEX",330,"country","all","5","water_daily",84.6964241418666
+"MEX",330,"country","all","5","water_daily",70.9869667704878
 "MEX",330,"country","all","5","w_dist_treatment",9.18793455886177
 "MEX",330,"country","all","5","w_treatment",67.7284043284966
 "MEX",330,"country","all","5","reason_w_treatment_taste",0
@@ -7381,7 +7381,7 @@
 "NIC",131,"country","all","1","san_sewer",45.062096159072
 "NIC",131,"country","all","1","san_unimp",7.09718909548049
 "NIC",131,"country","all","1","improved_w_access",96.8067677622014
-"NIC",131,"country","all","1","water_daily",68.3787308446813
+"NIC",131,"country","all","1","water_daily",48.9606190313377
 "NIC",131,"country","all","1","w_dist_treatment",55.8093141534339
 "NIC",131,"country","all","1","w_treatment",81.5832185714913
 "NIC",131,"country","all","1","reason_w_treatment_taste",0
@@ -7430,7 +7430,7 @@
 "NIC",294,"country","all","2","san_sewer",48.7372064215374
 "NIC",294,"country","all","2","san_unimp",8.42889098469594
 "NIC",294,"country","all","2","improved_w_access",96.0697563540648
-"NIC",294,"country","all","2","water_daily",75.1613515901286
+"NIC",294,"country","all","2","water_daily",55.363823470376
 "NIC",294,"country","all","2","w_dist_treatment",52.447032392879
 "NIC",294,"country","all","2","w_treatment",70.6016765564715
 "NIC",294,"country","all","2","reason_w_treatment_taste",0.271679197757894
@@ -7479,7 +7479,7 @@
 "NIC",275,"country","all","3","san_sewer",46.9352388240829
 "NIC",275,"country","all","3","san_unimp",8.80813754376054
 "NIC",275,"country","all","3","improved_w_access",98.1428251530833
-"NIC",275,"country","all","3","water_daily",82.422727189898
+"NIC",275,"country","all","3","water_daily",63.687631177819
 "NIC",275,"country","all","3","w_dist_treatment",51.1894627954779
 "NIC",275,"country","all","3","w_treatment",65.3163083292288
 "NIC",275,"country","all","3","reason_w_treatment_taste",0
@@ -7528,7 +7528,7 @@
 "NIC",330,"country","all","4","san_sewer",54.0972911943344
 "NIC",330,"country","all","4","san_unimp",3.78793804243951
 "NIC",330,"country","all","4","improved_w_access",97.9842516846449
-"NIC",330,"country","all","4","water_daily",79.0741150334386
+"NIC",330,"country","all","4","water_daily",68.1837113793235
 "NIC",330,"country","all","4","w_dist_treatment",50.8218767869885
 "NIC",330,"country","all","4","w_treatment",75.5475966108478
 "NIC",330,"country","all","4","reason_w_treatment_taste",0.12219854528731
@@ -7577,7 +7577,7 @@
 "NIC",334,"country","all","5","san_sewer",50.4898207736036
 "NIC",334,"country","all","5","san_unimp",6.87990446700071
 "NIC",334,"country","all","5","improved_w_access",96.7846226570667
-"NIC",334,"country","all","5","water_daily",79.2760273232899
+"NIC",334,"country","all","5","water_daily",64.5680726453653
 "NIC",334,"country","all","5","w_dist_treatment",39.0785671841952
 "NIC",334,"country","all","5","w_treatment",59.3744145404078
 "NIC",334,"country","all","5","reason_w_treatment_taste",0
@@ -7626,7 +7626,7 @@
 "PAN",291,"country","all","1","san_sewer",20.6864703491324
 "PAN",291,"country","all","1","san_unimp",10.3482912073745
 "PAN",291,"country","all","1","improved_w_access",87.2800515034541
-"PAN",291,"country","all","1","water_daily",82.7646930849297
+"PAN",291,"country","all","1","water_daily",59.9875448344332
 "PAN",291,"country","all","1","w_dist_treatment",23.5405643183799
 "PAN",291,"country","all","1","w_treatment",38.3283147819352
 "PAN",291,"country","all","1","reason_w_treatment_taste",0.966087690729577
@@ -7675,7 +7675,7 @@
 "PAN",229,"country","all","2","san_sewer",32.3030981705121
 "PAN",229,"country","all","2","san_unimp",4.61378510391052
 "PAN",229,"country","all","2","improved_w_access",91.9303868469169
-"PAN",229,"country","all","2","water_daily",88.5929483949732
+"PAN",229,"country","all","2","water_daily",64.1479149107324
 "PAN",229,"country","all","2","w_dist_treatment",22.1067067429903
 "PAN",229,"country","all","2","w_treatment",33.9454484970372
 "PAN",229,"country","all","2","reason_w_treatment_taste",1.1590847060353
@@ -7724,7 +7724,7 @@
 "PAN",280,"country","all","3","san_sewer",41.38088104945
 "PAN",280,"country","all","3","san_unimp",5.86470176083442
 "PAN",280,"country","all","3","improved_w_access",90.6865503394558
-"PAN",280,"country","all","3","water_daily",91.0119293396127
+"PAN",280,"country","all","3","water_daily",74.6838657252566
 "PAN",280,"country","all","3","w_dist_treatment",21.3177997701101
 "PAN",280,"country","all","3","w_treatment",27.2724328195754
 "PAN",280,"country","all","3","reason_w_treatment_taste",0.89327873970525
@@ -7773,7 +7773,7 @@
 "PAN",225,"country","all","4","san_sewer",37.7110460774844
 "PAN",225,"country","all","4","san_unimp",3.38920259058218
 "PAN",225,"country","all","4","improved_w_access",95.0480508810127
-"PAN",225,"country","all","4","water_daily",91.9252572235039
+"PAN",225,"country","all","4","water_daily",77.0442593540504
 "PAN",225,"country","all","4","w_dist_treatment",20.7284652747189
 "PAN",225,"country","all","4","w_treatment",30.1667887989007
 "PAN",225,"country","all","4","reason_w_treatment_taste",2.40884689761351
@@ -7822,7 +7822,7 @@
 "PAN",289,"country","all","5","san_sewer",53.7273809531278
 "PAN",289,"country","all","5","san_unimp",1.66536515768288
 "PAN",289,"country","all","5","improved_w_access",95.3427301721205
-"PAN",289,"country","all","5","water_daily",94.2287721628975
+"PAN",289,"country","all","5","water_daily",81.0491070285296
 "PAN",289,"country","all","5","w_dist_treatment",30.0425309199475
 "PAN",289,"country","all","5","w_treatment",37.9356989058001
 "PAN",289,"country","all","5","reason_w_treatment_taste",1.72238195048415
@@ -7871,7 +7871,7 @@
 "PER",239,"country","all","1","san_sewer",50.7328018111104
 "PER",239,"country","all","1","san_unimp",4.94497481288497
 "PER",239,"country","all","1","improved_w_access",82.2640702705601
-"PER",239,"country","all","1","water_daily",88.7195276301798
+"PER",239,"country","all","1","water_daily",46.8498902013038
 "PER",239,"country","all","1","w_dist_treatment",58.5547890289161
 "PER",239,"country","all","1","w_treatment",88.5273575618776
 "PER",239,"country","all","1","reason_w_treatment_taste",0.154414043732209
@@ -7920,7 +7920,7 @@
 "PER",324,"country","all","2","san_sewer",68.8515893524824
 "PER",324,"country","all","2","san_unimp",4.17320803750046
 "PER",324,"country","all","2","improved_w_access",88.6605346329336
-"PER",324,"country","all","2","water_daily",91.3410210569501
+"PER",324,"country","all","2","water_daily",63.9954354181795
 "PER",324,"country","all","2","w_dist_treatment",64.4772132060192
 "PER",324,"country","all","2","w_treatment",90.1238966057042
 "PER",324,"country","all","2","reason_w_treatment_taste",0.416265032210817
@@ -7969,7 +7969,7 @@
 "PER",323,"country","all","3","san_sewer",83.6801548351999
 "PER",323,"country","all","3","san_unimp",2.88026866299318
 "PER",323,"country","all","3","improved_w_access",91.0999217777068
-"PER",323,"country","all","3","water_daily",91.3838148980907
+"PER",323,"country","all","3","water_daily",71.7541245673007
 "PER",323,"country","all","3","w_dist_treatment",73.1662775643848
 "PER",323,"country","all","3","w_treatment",93.9240827453351
 "PER",323,"country","all","3","reason_w_treatment_taste",1.53137328947894
@@ -8018,7 +8018,7 @@
 "PER",190,"country","all","4","san_sewer",93.7402764723426
 "PER",190,"country","all","4","san_unimp",0.217222739904004
 "PER",190,"country","all","4","improved_w_access",91.4668721743343
-"PER",190,"country","all","4","water_daily",93.6054599620173
+"PER",190,"country","all","4","water_daily",78.6414922012087
 "PER",190,"country","all","4","w_dist_treatment",79.0090814464136
 "PER",190,"country","all","4","w_treatment",96.9891367972939
 "PER",190,"country","all","4","reason_w_treatment_taste",0
@@ -8067,7 +8067,7 @@
 "PER",298,"country","all","5","san_sewer",93.6543778230883
 "PER",298,"country","all","5","san_unimp",0
 "PER",298,"country","all","5","improved_w_access",90.1472629494897
-"PER",298,"country","all","5","water_daily",96.2776133523728
+"PER",298,"country","all","5","water_daily",82.0180124258913
 "PER",298,"country","all","5","w_dist_treatment",69.805827502762
 "PER",298,"country","all","5","w_treatment",95.1542168401517
 "PER",298,"country","all","5","reason_w_treatment_taste",1.64850747896482
@@ -8116,7 +8116,7 @@
 "PRY",323,"country","all","1","san_sewer",6.99591504229737
 "PRY",323,"country","all","1","san_unimp",7.77734299388566
 "PRY",323,"country","all","1","improved_w_access",93.3936590974521
-"PRY",323,"country","all","1","water_daily",95.4563264111413
+"PRY",323,"country","all","1","water_daily",58.3046431403526
 "PRY",323,"country","all","1","w_dist_treatment",17.5164673393108
 "PRY",323,"country","all","1","w_treatment",29.7701647715724
 "PRY",323,"country","all","1","reason_w_treatment_taste",1.07485972023475
@@ -8165,7 +8165,7 @@
 "PRY",278,"country","all","2","san_sewer",9.99743609228131
 "PRY",278,"country","all","2","san_unimp",3.11923196027501
 "PRY",278,"country","all","2","improved_w_access",96.9785255662466
-"PRY",278,"country","all","2","water_daily",96.3323840837511
+"PRY",278,"country","all","2","water_daily",65.1076663767522
 "PRY",278,"country","all","2","w_dist_treatment",16.1931953470073
 "PRY",278,"country","all","2","w_treatment",27.7721104967271
 "PRY",278,"country","all","2","reason_w_treatment_taste",2.03909962226889
@@ -8214,7 +8214,7 @@
 "PRY",366,"country","all","3","san_sewer",16.2297167859718
 "PRY",366,"country","all","3","san_unimp",0.514139679941032
 "PRY",366,"country","all","3","improved_w_access",96.3131135384228
-"PRY",366,"country","all","3","water_daily",93.89739902061
+"PRY",366,"country","all","3","water_daily",71.2524660530634
 "PRY",366,"country","all","3","w_dist_treatment",20.9702106865768
 "PRY",366,"country","all","3","w_treatment",35.3634061163322
 "PRY",366,"country","all","3","reason_w_treatment_taste",0
@@ -8263,7 +8263,7 @@
 "PRY",143,"country","all","4","san_sewer",20.279722933502
 "PRY",143,"country","all","4","san_unimp",0
 "PRY",143,"country","all","4","improved_w_access",98.4015687382475
-"PRY",143,"country","all","4","water_daily",98.6513292936589
+"PRY",143,"country","all","4","water_daily",71.0351184708449
 "PRY",143,"country","all","4","w_dist_treatment",11.9322322081312
 "PRY",143,"country","all","4","w_treatment",30.7518080593355
 "PRY",143,"country","all","4","reason_w_treatment_taste",0
@@ -8312,7 +8312,7 @@
 "PRY",147,"country","all","5","san_sewer",31.4224272873196
 "PRY",147,"country","all","5","san_unimp",0.989742378019842
 "PRY",147,"country","all","5","improved_w_access",95.9458685004426
-"PRY",147,"country","all","5","water_daily",97.840772962309
+"PRY",147,"country","all","5","water_daily",60.1072074590314
 "PRY",147,"country","all","5","w_dist_treatment",16.2895141393049
 "PRY",147,"country","all","5","w_treatment",43.0824685777791
 "PRY",147,"country","all","5","reason_w_treatment_taste",3.40582986114054
@@ -8361,7 +8361,7 @@
 "SLV",532,"country","all","1","san_sewer",20.3210709599134
 "SLV",532,"country","all","1","san_unimp",5.03227854175487
 "SLV",532,"country","all","1","improved_w_access",75.3505080878552
-"SLV",532,"country","all","1","water_daily",61.9547673993397
+"SLV",532,"country","all","1","water_daily",35.2158136291782
 "SLV",532,"country","all","1","w_dist_treatment",16.8664705881539
 "SLV",532,"country","all","1","w_treatment",42.6415687423835
 "SLV",532,"country","all","1","reason_w_treatment_taste",0
@@ -8410,7 +8410,7 @@
 "SLV",394,"country","all","2","san_sewer",31.8709305792873
 "SLV",394,"country","all","2","san_unimp",5.5833535693507
 "SLV",394,"country","all","2","improved_w_access",84.0232427090693
-"SLV",394,"country","all","2","water_daily",67.3937076121883
+"SLV",394,"country","all","2","water_daily",44.1415336660365
 "SLV",394,"country","all","2","w_dist_treatment",20.9910199146206
 "SLV",394,"country","all","2","w_treatment",44.5999032964023
 "SLV",394,"country","all","2","reason_w_treatment_taste",0
@@ -8459,7 +8459,7 @@
 "SLV",208,"country","all","3","san_sewer",51.1289384409532
 "SLV",208,"country","all","3","san_unimp",2.4657727039022
 "SLV",208,"country","all","3","improved_w_access",91.4111198739005
-"SLV",208,"country","all","3","water_daily",79.0983312941711
+"SLV",208,"country","all","3","water_daily",63.6098843624503
 "SLV",208,"country","all","3","w_dist_treatment",19.5047588161644
 "SLV",208,"country","all","3","w_treatment",40.7925221513167
 "SLV",208,"country","all","3","reason_w_treatment_taste",0
@@ -8508,7 +8508,7 @@
 "SLV",128,"country","all","4","san_sewer",58.403412236236
 "SLV",128,"country","all","4","san_unimp",2.3820106655812
 "SLV",128,"country","all","4","improved_w_access",93.222888218529
-"SLV",128,"country","all","4","water_daily",67.2422061525397
+"SLV",128,"country","all","4","water_daily",51.7783219631306
 "SLV",128,"country","all","4","w_dist_treatment",13.381614494713
 "SLV",128,"country","all","4","w_treatment",40.2055436849025
 "SLV",128,"country","all","4","reason_w_treatment_taste",0.327630563095806
@@ -8557,7 +8557,7 @@
 "SLV",221,"country","all","5","san_sewer",73.1781021571202
 "SLV",221,"country","all","5","san_unimp",0.597149810250471
 "SLV",221,"country","all","5","improved_w_access",88.3205188398033
-"SLV",221,"country","all","5","water_daily",67.2243672629543
+"SLV",221,"country","all","5","water_daily",52.1577055646887
 "SLV",221,"country","all","5","w_dist_treatment",16.3196900761615
 "SLV",221,"country","all","5","w_treatment",58.4213689633461
 "SLV",221,"country","all","5","reason_w_treatment_taste",0
@@ -8606,7 +8606,7 @@
 "URY",605,"country","all","1","san_sewer",44.1896971703888
 "URY",605,"country","all","1","san_unimp",0
 "URY",605,"country","all","1","improved_w_access",99.6370341433828
-"URY",605,"country","all","1","water_daily",99.6721931674599
+"URY",605,"country","all","1","water_daily",89.0618568258609
 "URY",605,"country","all","1","w_dist_treatment",23.4350438993609
 "URY",605,"country","all","1","w_treatment",32.8938380151421
 "URY",605,"country","all","1","reason_w_treatment_taste",6.34105368486566
@@ -8655,7 +8655,7 @@
 "URY",290,"country","all","2","san_sewer",60.4531623941581
 "URY",290,"country","all","2","san_unimp",0
 "URY",290,"country","all","2","improved_w_access",100
-"URY",290,"country","all","2","water_daily",99.4666095390758
+"URY",290,"country","all","2","water_daily",95.2989611771426
 "URY",290,"country","all","2","w_dist_treatment",20.7597696721649
 "URY",290,"country","all","2","w_treatment",39.6454758082211
 "URY",290,"country","all","2","reason_w_treatment_taste",4.13457194918093
@@ -8704,7 +8704,7 @@
 "URY",200,"country","all","3","san_sewer",69.4631484454256
 "URY",200,"country","all","3","san_unimp",0
 "URY",200,"country","all","3","improved_w_access",99.6271700008645
-"URY",200,"country","all","3","water_daily",99.6394643804236
+"URY",200,"country","all","3","water_daily",94.236933309641
 "URY",200,"country","all","3","w_dist_treatment",19.4441069134076
 "URY",200,"country","all","3","w_treatment",43.8792081058061
 "URY",200,"country","all","3","reason_w_treatment_taste",4.32212863108819
@@ -8753,7 +8753,7 @@
 "URY",130,"country","all","4","san_sewer",75.5235232921031
 "URY",130,"country","all","4","san_unimp",0
 "URY",130,"country","all","4","improved_w_access",100
-"URY",130,"country","all","4","water_daily",100
+"URY",130,"country","all","4","water_daily",95.999581350277
 "URY",130,"country","all","4","w_dist_treatment",30.3223761349762
 "URY",130,"country","all","4","w_treatment",69.724169751629
 "URY",130,"country","all","4","reason_w_treatment_taste",4.37372810327251
@@ -8802,7 +8802,7 @@
 "URY",147,"country","all","5","san_sewer",84.0013769481138
 "URY",147,"country","all","5","san_unimp",0
 "URY",147,"country","all","5","improved_w_access",100
-"URY",147,"country","all","5","water_daily",99.4469958222609
+"URY",147,"country","all","5","water_daily",97.8482927802054
 "URY",147,"country","all","5","w_dist_treatment",29.4401920974708
 "URY",147,"country","all","5","w_treatment",66.1921552967533
 "URY",147,"country","all","5","reason_w_treatment_taste",5.9892525058447
@@ -8851,7 +8851,7 @@
 "ARG",116,"rural","all","1","san_sewer",28.0388944903082
 "ARG",116,"rural","all","1","san_unimp",0.631925080056633
 "ARG",116,"rural","all","1","improved_w_access",91.8284631716872
-"ARG",116,"rural","all","1","water_daily",95.2496917717603
+"ARG",116,"rural","all","1","water_daily",63.6672267552263
 "ARG",116,"rural","all","1","w_dist_treatment",29.5178149982158
 "ARG",116,"rural","all","1","w_treatment",42.9206945943436
 "ARG",116,"rural","all","1","reason_w_treatment_taste",3.79085506186091
@@ -8900,7 +8900,7 @@
 "ARG",54,"rural","all","2","san_sewer",23.7724692136961
 "ARG",54,"rural","all","2","san_unimp",0
 "ARG",54,"rural","all","2","improved_w_access",96.0089687643834
-"ARG",54,"rural","all","2","water_daily",96.8305486446913
+"ARG",54,"rural","all","2","water_daily",64.143094918619
 "ARG",54,"rural","all","2","w_dist_treatment",15.1214985844758
 "ARG",54,"rural","all","2","w_treatment",28.3664610799846
 "ARG",54,"rural","all","2","reason_w_treatment_taste",3.50623569826778
@@ -8949,7 +8949,7 @@
 "ARG",42,"rural","all","3","san_sewer",10.4373352919896
 "ARG",42,"rural","all","3","san_unimp",0
 "ARG",42,"rural","all","3","improved_w_access",97.1633159750023
-"ARG",42,"rural","all","3","water_daily",100
+"ARG",42,"rural","all","3","water_daily",45.3145227283118
 "ARG",42,"rural","all","3","w_dist_treatment",6.52817663820358
 "ARG",42,"rural","all","3","w_treatment",28.1101415910718
 "ARG",42,"rural","all","3","reason_w_treatment_taste",0
@@ -8998,7 +8998,7 @@
 "ARG",28,"rural","all","4","san_sewer",23.5388144727615
 "ARG",28,"rural","all","4","san_unimp",0
 "ARG",28,"rural","all","4","improved_w_access",95.2049447939701
-"ARG",28,"rural","all","4","water_daily",100
+"ARG",28,"rural","all","4","water_daily",74.8056365352736
 "ARG",28,"rural","all","4","w_dist_treatment",25.0226938717825
 "ARG",28,"rural","all","4","w_treatment",42.4056690118903
 "ARG",28,"rural","all","4","reason_w_treatment_taste",0
@@ -9047,7 +9047,7 @@
 "ARG",25,"rural","all","5","san_sewer",25.3559339255855
 "ARG",25,"rural","all","5","san_unimp",0
 "ARG",25,"rural","all","5","improved_w_access",96.3522655465476
-"ARG",25,"rural","all","5","water_daily",100
+"ARG",25,"rural","all","5","water_daily",86.3885949497245
 "ARG",25,"rural","all","5","w_dist_treatment",13.7390299236445
 "ARG",25,"rural","all","5","w_treatment",21.5118645316227
 "ARG",25,"rural","all","5","reason_w_treatment_taste",10.6214206153703
@@ -9096,7 +9096,7 @@
 "ARG",244,"urban","all","1","san_sewer",49.2185821338629
 "ARG",244,"urban","all","1","san_unimp",0.623590763296809
 "ARG",244,"urban","all","1","improved_w_access",97.1854907064153
-"ARG",244,"urban","all","1","water_daily",97.6157420635544
+"ARG",244,"urban","all","1","water_daily",80.9935222281108
 "ARG",244,"urban","all","1","w_dist_treatment",16.8913817211471
 "ARG",244,"urban","all","1","w_treatment",24.4452904631897
 "ARG",244,"urban","all","1","reason_w_treatment_taste",1.69185257039795
@@ -9145,7 +9145,7 @@
 "ARG",157,"urban","all","2","san_sewer",59.1580101753826
 "ARG",157,"urban","all","2","san_unimp",0
 "ARG",157,"urban","all","2","improved_w_access",99.8784728125687
-"ARG",157,"urban","all","2","water_daily",96.992325251466
+"ARG",157,"urban","all","2","water_daily",82.821927528596
 "ARG",157,"urban","all","2","w_dist_treatment",22.985534312231
 "ARG",157,"urban","all","2","w_treatment",31.1275817918656
 "ARG",157,"urban","all","2","reason_w_treatment_taste",8.53762345613545
@@ -9194,7 +9194,7 @@
 "ARG",183,"urban","all","3","san_sewer",67.5138268360816
 "ARG",183,"urban","all","3","san_unimp",0
 "ARG",183,"urban","all","3","improved_w_access",98.5680221814881
-"ARG",183,"urban","all","3","water_daily",99.0236647962957
+"ARG",183,"urban","all","3","water_daily",84.4469095719381
 "ARG",183,"urban","all","3","w_dist_treatment",15.6618470247537
 "ARG",183,"urban","all","3","w_treatment",26.8211709161837
 "ARG",183,"urban","all","3","reason_w_treatment_taste",3.20890970309883
@@ -9243,7 +9243,7 @@
 "ARG",187,"urban","all","4","san_sewer",69.559660113164
 "ARG",187,"urban","all","4","san_unimp",0
 "ARG",187,"urban","all","4","improved_w_access",98.5520103001657
-"ARG",187,"urban","all","4","water_daily",97.5767785673272
+"ARG",187,"urban","all","4","water_daily",85.1662232220677
 "ARG",187,"urban","all","4","w_dist_treatment",19.4923482173442
 "ARG",187,"urban","all","4","w_treatment",30.5322365758181
 "ARG",187,"urban","all","4","reason_w_treatment_taste",4.40163645905177
@@ -9292,7 +9292,7 @@
 "ARG",244,"urban","all","5","san_sewer",75.2625024338486
 "ARG",244,"urban","all","5","san_unimp",0
 "ARG",244,"urban","all","5","improved_w_access",98.7452064789874
-"ARG",244,"urban","all","5","water_daily",99.4841856875132
+"ARG",244,"urban","all","5","water_daily",92.0836797973133
 "ARG",244,"urban","all","5","w_dist_treatment",23.8199823894439
 "ARG",244,"urban","all","5","w_treatment",39.623402383102
 "ARG",244,"urban","all","5","reason_w_treatment_taste",4.0519095140448
@@ -9341,7 +9341,7 @@
 "BOL",132,"rural","all","1","san_sewer",29.7701385512189
 "BOL",132,"rural","all","1","san_unimp",8.8885593912915
 "BOL",132,"rural","all","1","improved_w_access",85.1742115114116
-"BOL",132,"rural","all","1","water_daily",95.3193129084455
+"BOL",132,"rural","all","1","water_daily",57.264865684081
 "BOL",132,"rural","all","1","w_dist_treatment",41.2300453057002
 "BOL",132,"rural","all","1","w_treatment",64.4358537833099
 "BOL",132,"rural","all","1","reason_w_treatment_taste",1.56170202611756
@@ -9390,7 +9390,7 @@
 "BOL",99,"rural","all","2","san_sewer",37.400038815797
 "BOL",99,"rural","all","2","san_unimp",8.71175350880283
 "BOL",99,"rural","all","2","improved_w_access",81.3424876093381
-"BOL",99,"rural","all","2","water_daily",93.0330282826997
+"BOL",99,"rural","all","2","water_daily",57.983893051386
 "BOL",99,"rural","all","2","w_dist_treatment",35.8163627773204
 "BOL",99,"rural","all","2","w_treatment",62.0963081757704
 "BOL",99,"rural","all","2","reason_w_treatment_taste",0
@@ -9439,7 +9439,7 @@
 "BOL",115,"rural","all","3","san_sewer",32.151002162523
 "BOL",115,"rural","all","3","san_unimp",2.79352002097786
 "BOL",115,"rural","all","3","improved_w_access",88.1870833087286
-"BOL",115,"rural","all","3","water_daily",90.593471102435
+"BOL",115,"rural","all","3","water_daily",61.2064256353858
 "BOL",115,"rural","all","3","w_dist_treatment",45.8853233198795
 "BOL",115,"rural","all","3","w_treatment",71.342725788031
 "BOL",115,"rural","all","3","reason_w_treatment_taste",0.791485288082248
@@ -9488,7 +9488,7 @@
 "BOL",73,"rural","all","4","san_sewer",35.8527825533552
 "BOL",73,"rural","all","4","san_unimp",0
 "BOL",73,"rural","all","4","improved_w_access",88.2089449523447
-"BOL",73,"rural","all","4","water_daily",91.8003356437069
+"BOL",73,"rural","all","4","water_daily",60.1787663073504
 "BOL",73,"rural","all","4","w_dist_treatment",27.1506894982681
 "BOL",73,"rural","all","4","w_treatment",51.5352538492427
 "BOL",73,"rural","all","4","reason_w_treatment_taste",0
@@ -9537,7 +9537,7 @@
 "BOL",46,"rural","all","5","san_sewer",49.5070580373639
 "BOL",46,"rural","all","5","san_unimp",0
 "BOL",46,"rural","all","5","improved_w_access",83.4573676124881
-"BOL",46,"rural","all","5","water_daily",94.1054762197996
+"BOL",46,"rural","all","5","water_daily",63.0678232493245
 "BOL",46,"rural","all","5","w_dist_treatment",32.2198860833326
 "BOL",46,"rural","all","5","w_treatment",71.5022991290089
 "BOL",46,"rural","all","5","reason_w_treatment_taste",0
@@ -9586,7 +9586,7 @@
 "BOL",154,"urban","all","1","san_sewer",64.9200622309305
 "BOL",154,"urban","all","1","san_unimp",0
 "BOL",154,"urban","all","1","improved_w_access",94.5906353136096
-"BOL",154,"urban","all","1","water_daily",94.8200503474944
+"BOL",154,"urban","all","1","water_daily",74.2241040323727
 "BOL",154,"urban","all","1","w_dist_treatment",50.6328125929527
 "BOL",154,"urban","all","1","w_treatment",66.9138842581383
 "BOL",154,"urban","all","1","reason_w_treatment_taste",0.660219373708515
@@ -9635,7 +9635,7 @@
 "BOL",146,"urban","all","2","san_sewer",74.9940664175112
 "BOL",146,"urban","all","2","san_unimp",1.827104280277
 "BOL",146,"urban","all","2","improved_w_access",92.1964900470878
-"BOL",146,"urban","all","2","water_daily",94.7868101110307
+"BOL",146,"urban","all","2","water_daily",75.3465386300301
 "BOL",146,"urban","all","2","w_dist_treatment",45.7066692866529
 "BOL",146,"urban","all","2","w_treatment",68.6034314694041
 "BOL",146,"urban","all","2","reason_w_treatment_taste",0.488373051750614
@@ -9684,7 +9684,7 @@
 "BOL",216,"urban","all","3","san_sewer",68.3592158727418
 "BOL",216,"urban","all","3","san_unimp",0.674847208077092
 "BOL",216,"urban","all","3","improved_w_access",93.6516974712222
-"BOL",216,"urban","all","3","water_daily",92.5134798081716
+"BOL",216,"urban","all","3","water_daily",69.7253776731317
 "BOL",216,"urban","all","3","w_dist_treatment",48.6204684905572
 "BOL",216,"urban","all","3","w_treatment",70.0453221668242
 "BOL",216,"urban","all","3","reason_w_treatment_taste",0.828130529973469
@@ -9733,7 +9733,7 @@
 "BOL",167,"urban","all","4","san_sewer",69.414568066278
 "BOL",167,"urban","all","4","san_unimp",0.98504929068797
 "BOL",167,"urban","all","4","improved_w_access",94.85267680038
-"BOL",167,"urban","all","4","water_daily",92.0559097172996
+"BOL",167,"urban","all","4","water_daily",72.7733840441708
 "BOL",167,"urban","all","4","w_dist_treatment",49.7897571069505
 "BOL",167,"urban","all","4","w_treatment",73.0738999271819
 "BOL",167,"urban","all","4","reason_w_treatment_taste",0
@@ -9782,7 +9782,7 @@
 "BOL",161,"urban","all","5","san_sewer",79.1272482658627
 "BOL",161,"urban","all","5","san_unimp",3.53301832598614
 "BOL",161,"urban","all","5","improved_w_access",92.3061476657569
-"BOL",161,"urban","all","5","water_daily",96.3139588795464
+"BOL",161,"urban","all","5","water_daily",83.8887435868261
 "BOL",161,"urban","all","5","w_dist_treatment",52.8793580398704
 "BOL",161,"urban","all","5","w_treatment",74.7327340040662
 "BOL",161,"urban","all","5","reason_w_treatment_taste",3.04208077117896
@@ -9831,7 +9831,7 @@
 "BRA",45,"rural","all","1","san_sewer",30.0085241911947
 "BRA",45,"rural","all","1","san_unimp",3.96610348320245
 "BRA",45,"rural","all","1","improved_w_access",91.3635885163966
-"BRA",45,"rural","all","1","water_daily",83.1191506303988
+"BRA",45,"rural","all","1","water_daily",31.8836294761697
 "BRA",45,"rural","all","1","w_dist_treatment",17.7140244913316
 "BRA",45,"rural","all","1","w_treatment",38.9927163288832
 "BRA",45,"rural","all","1","reason_w_treatment_taste",0
@@ -9880,7 +9880,7 @@
 "BRA",37,"rural","all","2","san_sewer",28.1940260866519
 "BRA",37,"rural","all","2","san_unimp",0
 "BRA",37,"rural","all","2","improved_w_access",85.9327144813583
-"BRA",37,"rural","all","2","water_daily",84.7123948679524
+"BRA",37,"rural","all","2","water_daily",46.6229958740043
 "BRA",37,"rural","all","2","w_dist_treatment",18.5172865575577
 "BRA",37,"rural","all","2","w_treatment",57.1557339707159
 "BRA",37,"rural","all","2","reason_w_treatment_taste",0
@@ -9929,7 +9929,7 @@
 "BRA",37,"rural","all","3","san_sewer",54.1765745855539
 "BRA",37,"rural","all","3","san_unimp",0
 "BRA",37,"rural","all","3","improved_w_access",88.8692176265036
-"BRA",37,"rural","all","3","water_daily",99.0620991032196
+"BRA",37,"rural","all","3","water_daily",57.7381013767716
 "BRA",37,"rural","all","3","w_dist_treatment",12.3976020965114
 "BRA",37,"rural","all","3","w_treatment",23.9764250093473
 "BRA",37,"rural","all","3","reason_w_treatment_taste",0
@@ -9978,7 +9978,7 @@
 "BRA",14,"rural","all","4","san_sewer",27.9462641874245
 "BRA",14,"rural","all","4","san_unimp",0
 "BRA",14,"rural","all","4","improved_w_access",77.1596875428532
-"BRA",14,"rural","all","4","water_daily",95.6544302221058
+"BRA",14,"rural","all","4","water_daily",78.0283488814012
 "BRA",14,"rural","all","4","w_dist_treatment",31.3259484078273
 "BRA",14,"rural","all","4","w_treatment",78.6424699770382
 "BRA",14,"rural","all","4","reason_w_treatment_taste",0
@@ -10027,7 +10027,7 @@
 "BRA",35,"rural","all","5","san_sewer",42.480475028648
 "BRA",35,"rural","all","5","san_unimp",0
 "BRA",35,"rural","all","5","improved_w_access",95.2252719779223
-"BRA",35,"rural","all","5","water_daily",98.9427041686125
+"BRA",35,"rural","all","5","water_daily",47.7088760549014
 "BRA",35,"rural","all","5","w_dist_treatment",24.2225155300945
 "BRA",35,"rural","all","5","w_treatment",61.7049854946875
 "BRA",35,"rural","all","5","reason_w_treatment_taste",0
@@ -10076,7 +10076,7 @@
 "BRA",134,"urban","all","1","san_sewer",61.5537601215788
 "BRA",134,"urban","all","1","san_unimp",0
 "BRA",134,"urban","all","1","improved_w_access",89.4868556495962
-"BRA",134,"urban","all","1","water_daily",85.215836239847
+"BRA",134,"urban","all","1","water_daily",61.0351777695566
 "BRA",134,"urban","all","1","w_dist_treatment",36.4504710519076
 "BRA",134,"urban","all","1","w_treatment",55.1861184781996
 "BRA",134,"urban","all","1","reason_w_treatment_taste",1.81070548049408
@@ -10125,7 +10125,7 @@
 "BRA",157,"urban","all","2","san_sewer",63.8730438943891
 "BRA",157,"urban","all","2","san_unimp",0
 "BRA",157,"urban","all","2","improved_w_access",90.6066645506676
-"BRA",157,"urban","all","2","water_daily",91.8698919071798
+"BRA",157,"urban","all","2","water_daily",71.0175376345614
 "BRA",157,"urban","all","2","w_dist_treatment",30.0918146820451
 "BRA",157,"urban","all","2","w_treatment",49.8000182552402
 "BRA",157,"urban","all","2","reason_w_treatment_taste",6.99422035564777
@@ -10174,7 +10174,7 @@
 "BRA",173,"urban","all","3","san_sewer",68.9240800547014
 "BRA",173,"urban","all","3","san_unimp",0
 "BRA",173,"urban","all","3","improved_w_access",88.3685100431584
-"BRA",173,"urban","all","3","water_daily",93.5007876375372
+"BRA",173,"urban","all","3","water_daily",82.1134214974677
 "BRA",173,"urban","all","3","w_dist_treatment",35.1744690643175
 "BRA",173,"urban","all","3","w_treatment",60.0789109598876
 "BRA",173,"urban","all","3","reason_w_treatment_taste",0.320058207676106
@@ -10223,7 +10223,7 @@
 "BRA",247,"urban","all","4","san_sewer",65.3514665186663
 "BRA",247,"urban","all","4","san_unimp",0
 "BRA",247,"urban","all","4","improved_w_access",89.3487838472404
-"BRA",247,"urban","all","4","water_daily",98.0330826384201
+"BRA",247,"urban","all","4","water_daily",74.2516722821301
 "BRA",247,"urban","all","4","w_dist_treatment",37.2175830942087
 "BRA",247,"urban","all","4","w_treatment",61.8777638853365
 "BRA",247,"urban","all","4","reason_w_treatment_taste",3.69055100553298
@@ -10272,7 +10272,7 @@
 "BRA",483,"urban","all","5","san_sewer",74.9903533034099
 "BRA",483,"urban","all","5","san_unimp",1.05203468704665
 "BRA",483,"urban","all","5","improved_w_access",87.0432577509035
-"BRA",483,"urban","all","5","water_daily",94.3471799981991
+"BRA",483,"urban","all","5","water_daily",77.6148582202853
 "BRA",483,"urban","all","5","w_dist_treatment",42.641567238149
 "BRA",483,"urban","all","5","w_treatment",78.9219380029663
 "BRA",483,"urban","all","5","reason_w_treatment_taste",3.42663543670518
@@ -10321,7 +10321,7 @@
 "CHL",70,"rural","all","1","san_sewer",64.1154002604752
 "CHL",70,"rural","all","1","san_unimp",2.88455939097078
 "CHL",70,"rural","all","1","improved_w_access",97.0198337798772
-"CHL",70,"rural","all","1","water_daily",100
+"CHL",70,"rural","all","1","water_daily",76.8536530235988
 "CHL",70,"rural","all","1","w_dist_treatment",30.9021646227351
 "CHL",70,"rural","all","1","w_treatment",41.1873618443478
 "CHL",70,"rural","all","1","reason_w_treatment_taste",2.56653631973651
@@ -10370,7 +10370,7 @@
 "CHL",56,"rural","all","2","san_sewer",64.2345382103911
 "CHL",56,"rural","all","2","san_unimp",0
 "CHL",56,"rural","all","2","improved_w_access",100
-"CHL",56,"rural","all","2","water_daily",100
+"CHL",56,"rural","all","2","water_daily",77.456649138579
 "CHL",56,"rural","all","2","w_dist_treatment",23.2685701003386
 "CHL",56,"rural","all","2","w_treatment",39.7811482566093
 "CHL",56,"rural","all","2","reason_w_treatment_taste",3.42722613837168
@@ -10419,7 +10419,7 @@
 "CHL",58,"rural","all","3","san_sewer",64.4215554360884
 "CHL",58,"rural","all","3","san_unimp",0
 "CHL",58,"rural","all","3","improved_w_access",99.0404162438824
-"CHL",58,"rural","all","3","water_daily",96.9753475531615
+"CHL",58,"rural","all","3","water_daily",79.4043266746908
 "CHL",58,"rural","all","3","w_dist_treatment",12.7405271782734
 "CHL",58,"rural","all","3","w_treatment",26.6557862525108
 "CHL",58,"rural","all","3","reason_w_treatment_taste",0
@@ -10468,7 +10468,7 @@
 "CHL",27,"rural","all","4","san_sewer",58.6859947620961
 "CHL",27,"rural","all","4","san_unimp",0
 "CHL",27,"rural","all","4","improved_w_access",93.8426078500742
-"CHL",27,"rural","all","4","water_daily",100
+"CHL",27,"rural","all","4","water_daily",70.4601849981015
 "CHL",27,"rural","all","4","w_dist_treatment",6.68548240777021
 "CHL",27,"rural","all","4","w_treatment",19.0467686400775
 "CHL",27,"rural","all","4","reason_w_treatment_taste",5.45453358555259
@@ -10517,7 +10517,7 @@
 "CHL",56,"rural","all","5","san_sewer",58.1919922242314
 "CHL",56,"rural","all","5","san_unimp",0
 "CHL",56,"rural","all","5","improved_w_access",98.5042886827663
-"CHL",56,"rural","all","5","water_daily",100
+"CHL",56,"rural","all","5","water_daily",69.9672764825401
 "CHL",56,"rural","all","5","w_dist_treatment",9.1804563551021
 "CHL",56,"rural","all","5","w_treatment",30.2735368454855
 "CHL",56,"rural","all","5","reason_w_treatment_taste",2.69489872065976
@@ -10566,7 +10566,7 @@
 "CHL",127,"urban","all","1","san_sewer",93.4039937123298
 "CHL",127,"urban","all","1","san_unimp",0
 "CHL",127,"urban","all","1","improved_w_access",100
-"CHL",127,"urban","all","1","water_daily",99.6191497689206
+"CHL",127,"urban","all","1","water_daily",96.8483130925218
 "CHL",127,"urban","all","1","w_dist_treatment",25.2359753884236
 "CHL",127,"urban","all","1","w_treatment",29.3690118911226
 "CHL",127,"urban","all","1","reason_w_treatment_taste",5.76401485721396
@@ -10615,7 +10615,7 @@
 "CHL",147,"urban","all","2","san_sewer",94.9714922895302
 "CHL",147,"urban","all","2","san_unimp",0
 "CHL",147,"urban","all","2","improved_w_access",99.3928442200113
-"CHL",147,"urban","all","2","water_daily",100
+"CHL",147,"urban","all","2","water_daily",98.1440188371572
 "CHL",147,"urban","all","2","w_dist_treatment",29.1839400674044
 "CHL",147,"urban","all","2","w_treatment",32.6446613717652
 "CHL",147,"urban","all","2","reason_w_treatment_taste",3.18685689773302
@@ -10664,7 +10664,7 @@
 "CHL",218,"urban","all","3","san_sewer",97.3207129415935
 "CHL",218,"urban","all","3","san_unimp",0
 "CHL",218,"urban","all","3","improved_w_access",100
-"CHL",218,"urban","all","3","water_daily",99.3314775434673
+"CHL",218,"urban","all","3","water_daily",97.2720241130918
 "CHL",218,"urban","all","3","w_dist_treatment",19.0321219624681
 "CHL",218,"urban","all","3","w_treatment",27.1511171246961
 "CHL",218,"urban","all","3","reason_w_treatment_taste",1.74007095099265
@@ -10713,7 +10713,7 @@
 "CHL",165,"urban","all","4","san_sewer",99.2693041172613
 "CHL",165,"urban","all","4","san_unimp",0
 "CHL",165,"urban","all","4","improved_w_access",100
-"CHL",165,"urban","all","4","water_daily",100
+"CHL",165,"urban","all","4","water_daily",99.5967995905614
 "CHL",165,"urban","all","4","w_dist_treatment",16.3409858104739
 "CHL",165,"urban","all","4","w_treatment",22.4490333970979
 "CHL",165,"urban","all","4","reason_w_treatment_taste",0.25004571773007
@@ -10762,7 +10762,7 @@
 "CHL",363,"urban","all","5","san_sewer",94.3108953543487
 "CHL",363,"urban","all","5","san_unimp",0
 "CHL",363,"urban","all","5","improved_w_access",99.2036391216134
-"CHL",363,"urban","all","5","water_daily",100
+"CHL",363,"urban","all","5","water_daily",98.0969722660494
 "CHL",363,"urban","all","5","w_dist_treatment",17.1819064396945
 "CHL",363,"urban","all","5","w_treatment",26.2045590154322
 "CHL",363,"urban","all","5","reason_w_treatment_taste",2.92860488120534
@@ -10811,7 +10811,7 @@
 "COL",243,"rural","all","1","san_sewer",46.2405469400103
 "COL",243,"rural","all","1","san_unimp",2.80812771291686
 "COL",243,"rural","all","1","improved_w_access",76.2831791862489
-"COL",243,"rural","all","1","water_daily",82.9965259414099
+"COL",243,"rural","all","1","water_daily",47.4199169931144
 "COL",243,"rural","all","1","w_dist_treatment",25.4381496653617
 "COL",243,"rural","all","1","w_treatment",48.5883468853365
 "COL",243,"rural","all","1","reason_w_treatment_taste",0.746865661997422
@@ -10860,7 +10860,7 @@
 "COL",139,"rural","all","2","san_sewer",68.2403319973408
 "COL",139,"rural","all","2","san_unimp",1.45978933066126
 "COL",139,"rural","all","2","improved_w_access",91.8137906599589
-"COL",139,"rural","all","2","water_daily",86.8717290161074
+"COL",139,"rural","all","2","water_daily",66.6285306017215
 "COL",139,"rural","all","2","w_dist_treatment",50.4921514309826
 "COL",139,"rural","all","2","w_treatment",63.5213962392454
 "COL",139,"rural","all","2","reason_w_treatment_taste",0.867254673903064
@@ -10909,7 +10909,7 @@
 "COL",122,"rural","all","3","san_sewer",68.6400555087015
 "COL",122,"rural","all","3","san_unimp",0.303627683992578
 "COL",122,"rural","all","3","improved_w_access",86.0672812069072
-"COL",122,"rural","all","3","water_daily",94.7624070380817
+"COL",122,"rural","all","3","water_daily",66.0890324202908
 "COL",122,"rural","all","3","w_dist_treatment",43.6084621845552
 "COL",122,"rural","all","3","w_treatment",65.9006556232663
 "COL",122,"rural","all","3","reason_w_treatment_taste",0.477979791291048
@@ -10958,7 +10958,7 @@
 "COL",32,"rural","all","4","san_sewer",78.0957521670641
 "COL",32,"rural","all","4","san_unimp",0
 "COL",32,"rural","all","4","improved_w_access",89.9218194865865
-"COL",32,"rural","all","4","water_daily",87.8705505336868
+"COL",32,"rural","all","4","water_daily",66.0509100839207
 "COL",32,"rural","all","4","w_dist_treatment",41.4399051982219
 "COL",32,"rural","all","4","w_treatment",58.4813519227744
 "COL",32,"rural","all","4","reason_w_treatment_taste",2.39904826995465
@@ -11007,7 +11007,7 @@
 "COL",18,"rural","all","5","san_sewer",92.0010549936067
 "COL",18,"rural","all","5","san_unimp",0
 "COL",18,"rural","all","5","improved_w_access",98.1189899374334
-"COL",18,"rural","all","5","water_daily",82.0830547788717
+"COL",18,"rural","all","5","water_daily",65.436356027752
 "COL",18,"rural","all","5","w_dist_treatment",37.8638901209428
 "COL",18,"rural","all","5","w_treatment",49.5907863908882
 "COL",18,"rural","all","5","reason_w_treatment_taste",0
@@ -11056,7 +11056,7 @@
 "COL",144,"urban","all","1","san_sewer",78.7800189152761
 "COL",144,"urban","all","1","san_unimp",0.182342928921798
 "COL",144,"urban","all","1","improved_w_access",92.582317886195
-"COL",144,"urban","all","1","water_daily",86.5231321242921
+"COL",144,"urban","all","1","water_daily",70.1998020838404
 "COL",144,"urban","all","1","w_dist_treatment",36.6896764263856
 "COL",144,"urban","all","1","w_treatment",46.5531786288685
 "COL",144,"urban","all","1","reason_w_treatment_taste",0
@@ -11105,7 +11105,7 @@
 "COL",152,"urban","all","2","san_sewer",90.8736739284421
 "COL",152,"urban","all","2","san_unimp",0
 "COL",152,"urban","all","2","improved_w_access",98.5546187154884
-"COL",152,"urban","all","2","water_daily",90.8331783709225
+"COL",152,"urban","all","2","water_daily",83.8714313467387
 "COL",152,"urban","all","2","w_dist_treatment",37.7389990298988
 "COL",152,"urban","all","2","w_treatment",42.2118681827716
 "COL",152,"urban","all","2","reason_w_treatment_taste",0.600612977256477
@@ -11154,7 +11154,7 @@
 "COL",251,"urban","all","3","san_sewer",90.9605771152586
 "COL",251,"urban","all","3","san_unimp",0
 "COL",251,"urban","all","3","improved_w_access",97.1541654548328
-"COL",251,"urban","all","3","water_daily",95.1793388646378
+"COL",251,"urban","all","3","water_daily",85.0265516398102
 "COL",251,"urban","all","3","w_dist_treatment",45.6937187161198
 "COL",251,"urban","all","3","w_treatment",51.0249818931994
 "COL",251,"urban","all","3","reason_w_treatment_taste",1.08309193384727
@@ -11203,7 +11203,7 @@
 "COL",115,"urban","all","4","san_sewer",94.2643418889013
 "COL",115,"urban","all","4","san_unimp",0
 "COL",115,"urban","all","4","improved_w_access",98.9785462527813
-"COL",115,"urban","all","4","water_daily",96.3148131592226
+"COL",115,"urban","all","4","water_daily",93.564200947256
 "COL",115,"urban","all","4","w_dist_treatment",49.3968777209009
 "COL",115,"urban","all","4","w_treatment",55.7622270975987
 "COL",115,"urban","all","4","reason_w_treatment_taste",0.248074202126339
@@ -11252,7 +11252,7 @@
 "COL",142,"urban","all","5","san_sewer",93.223739199719
 "COL",142,"urban","all","5","san_unimp",0
 "COL",142,"urban","all","5","improved_w_access",92.4815205929906
-"COL",142,"urban","all","5","water_daily",97.5282245109345
+"COL",142,"urban","all","5","water_daily",93.1485908615212
 "COL",142,"urban","all","5","w_dist_treatment",40.1446578884254
 "COL",142,"urban","all","5","w_treatment",53.1286683766765
 "COL",142,"urban","all","5","reason_w_treatment_taste",0.167441434793801
@@ -11301,7 +11301,7 @@
 "CRI",306,"rural","all","1","san_sewer",8.53619452039319
 "CRI",306,"rural","all","1","san_unimp",2.22461258073223
 "CRI",306,"rural","all","1","improved_w_access",94.7180316760444
-"CRI",306,"rural","all","1","water_daily",98.066160521752
+"CRI",306,"rural","all","1","water_daily",81.5716979710439
 "CRI",306,"rural","all","1","w_dist_treatment",10.1482521054463
 "CRI",306,"rural","all","1","w_treatment",17.7266539744146
 "CRI",306,"rural","all","1","reason_w_treatment_taste",0.708824322513032
@@ -11350,7 +11350,7 @@
 "CRI",184,"rural","all","2","san_sewer",17.3911546220721
 "CRI",184,"rural","all","2","san_unimp",1.67881723406748
 "CRI",184,"rural","all","2","improved_w_access",99.4301104555882
-"CRI",184,"rural","all","2","water_daily",99.5342170417225
+"CRI",184,"rural","all","2","water_daily",92.3318154547504
 "CRI",184,"rural","all","2","w_dist_treatment",20.0803198561907
 "CRI",184,"rural","all","2","w_treatment",23.0157899252674
 "CRI",184,"rural","all","2","reason_w_treatment_taste",0.985212515854575
@@ -11399,7 +11399,7 @@
 "CRI",99,"rural","all","3","san_sewer",9.0472103274455
 "CRI",99,"rural","all","3","san_unimp",0
 "CRI",99,"rural","all","3","improved_w_access",95.8108012996894
-"CRI",99,"rural","all","3","water_daily",97.8875477355064
+"CRI",99,"rural","all","3","water_daily",85.5061238447764
 "CRI",99,"rural","all","3","w_dist_treatment",17.9352925125102
 "CRI",99,"rural","all","3","w_treatment",19.9186342661327
 "CRI",99,"rural","all","3","reason_w_treatment_taste",1.69114224750741
@@ -11448,7 +11448,7 @@
 "CRI",38,"rural","all","4","san_sewer",5.86454525420112
 "CRI",38,"rural","all","4","san_unimp",0
 "CRI",38,"rural","all","4","improved_w_access",94.9828620609095
-"CRI",38,"rural","all","4","water_daily",97.4169777674281
+"CRI",38,"rural","all","4","water_daily",87.1326074998709
 "CRI",38,"rural","all","4","w_dist_treatment",12.9215693883556
 "CRI",38,"rural","all","4","w_treatment",20.1891010992815
 "CRI",38,"rural","all","4","reason_w_treatment_taste",0
@@ -11497,7 +11497,7 @@
 "CRI",48,"rural","all","5","san_sewer",10.0780739654856
 "CRI",48,"rural","all","5","san_unimp",0
 "CRI",48,"rural","all","5","improved_w_access",95.0420929640653
-"CRI",48,"rural","all","5","water_daily",98.7587009109661
+"CRI",48,"rural","all","5","water_daily",87.1964605695592
 "CRI",48,"rural","all","5","w_dist_treatment",27.6419994593635
 "CRI",48,"rural","all","5","w_treatment",29.6314284651826
 "CRI",48,"rural","all","5","reason_w_treatment_taste",3.61743261507874
@@ -11546,7 +11546,7 @@
 "CRI",123,"urban","all","1","san_sewer",27.2315673022439
 "CRI",123,"urban","all","1","san_unimp",0
 "CRI",123,"urban","all","1","improved_w_access",100
-"CRI",123,"urban","all","1","water_daily",99.5244093719456
+"CRI",123,"urban","all","1","water_daily",90.3377603745742
 "CRI",123,"urban","all","1","w_dist_treatment",13.8339816729348
 "CRI",123,"urban","all","1","w_treatment",14.3364645367411
 "CRI",123,"urban","all","1","reason_w_treatment_taste",0
@@ -11595,7 +11595,7 @@
 "CRI",122,"urban","all","2","san_sewer",31.0358634077883
 "CRI",122,"urban","all","2","san_unimp",0
 "CRI",122,"urban","all","2","improved_w_access",98.9478444534077
-"CRI",122,"urban","all","2","water_daily",100
+"CRI",122,"urban","all","2","water_daily",93.0641049187007
 "CRI",122,"urban","all","2","w_dist_treatment",14.7211077842467
 "CRI",122,"urban","all","2","w_treatment",16.2523456558048
 "CRI",122,"urban","all","2","reason_w_treatment_taste",0.894035882535974
@@ -11644,7 +11644,7 @@
 "CRI",112,"urban","all","3","san_sewer",30.3182080041814
 "CRI",112,"urban","all","3","san_unimp",0
 "CRI",112,"urban","all","3","improved_w_access",99.1338575092956
-"CRI",112,"urban","all","3","water_daily",100
+"CRI",112,"urban","all","3","water_daily",95.8725914503226
 "CRI",112,"urban","all","3","w_dist_treatment",16.4929614559086
 "CRI",112,"urban","all","3","w_treatment",17.8016296690794
 "CRI",112,"urban","all","3","reason_w_treatment_taste",0
@@ -11693,7 +11693,7 @@
 "CRI",75,"urban","all","4","san_sewer",42.1215919577315
 "CRI",75,"urban","all","4","san_unimp",0
 "CRI",75,"urban","all","4","improved_w_access",100
-"CRI",75,"urban","all","4","water_daily",100
+"CRI",75,"urban","all","4","water_daily",97.4313181209879
 "CRI",75,"urban","all","4","w_dist_treatment",24.5426284800786
 "CRI",75,"urban","all","4","w_treatment",24.8234030266844
 "CRI",75,"urban","all","4","reason_w_treatment_taste",0.988278441727332
@@ -11742,7 +11742,7 @@
 "CRI",144,"urban","all","5","san_sewer",45.8272320868722
 "CRI",144,"urban","all","5","san_unimp",0
 "CRI",144,"urban","all","5","improved_w_access",98.44417181105
-"CRI",144,"urban","all","5","water_daily",96.7031366060202
+"CRI",144,"urban","all","5","water_daily",94.307991117753
 "CRI",144,"urban","all","5","w_dist_treatment",21.140781166121
 "CRI",144,"urban","all","5","w_treatment",21.7558985531422
 "CRI",144,"urban","all","5","reason_w_treatment_taste",1.28781282216913
@@ -11791,7 +11791,7 @@
 "DOM",79,"rural","all","1","san_sewer",26.0469048102822
 "DOM",79,"rural","all","1","san_unimp",10.1647372253793
 "DOM",79,"rural","all","1","improved_w_access",96.9228589296013
-"DOM",79,"rural","all","1","water_daily",54.2946634700609
+"DOM",79,"rural","all","1","water_daily",31.2539229425329
 "DOM",79,"rural","all","1","w_dist_treatment",2.65373210574086
 "DOM",79,"rural","all","1","w_treatment",47.7141862146795
 "DOM",79,"rural","all","1","reason_w_treatment_taste",0.466518421611691
@@ -11840,7 +11840,7 @@
 "DOM",116,"rural","all","2","san_sewer",17.1178977312802
 "DOM",116,"rural","all","2","san_unimp",7.76223466079333
 "DOM",116,"rural","all","2","improved_w_access",91.0666383687954
-"DOM",116,"rural","all","2","water_daily",46.6232233699129
+"DOM",116,"rural","all","2","water_daily",26.3330968803005
 "DOM",116,"rural","all","2","w_dist_treatment",3.85014929113936
 "DOM",116,"rural","all","2","w_treatment",47.7941994169023
 "DOM",116,"rural","all","2","reason_w_treatment_taste",0
@@ -11889,7 +11889,7 @@
 "DOM",153,"rural","all","3","san_sewer",18.2978240128249
 "DOM",153,"rural","all","3","san_unimp",5.41080481821571
 "DOM",153,"rural","all","3","improved_w_access",99.3923944071307
-"DOM",153,"rural","all","3","water_daily",52.2923626922603
+"DOM",153,"rural","all","3","water_daily",30.0573269613876
 "DOM",153,"rural","all","3","w_dist_treatment",0
 "DOM",153,"rural","all","3","w_treatment",10.0195101046969
 "DOM",153,"rural","all","3","reason_w_treatment_taste",0
@@ -11938,7 +11938,7 @@
 "DOM",136,"rural","all","4","san_sewer",14.8278071270687
 "DOM",136,"rural","all","4","san_unimp",2.65566288924757
 "DOM",136,"rural","all","4","improved_w_access",97.3350356529812
-"DOM",136,"rural","all","4","water_daily",38.1429515153661
+"DOM",136,"rural","all","4","water_daily",24.8400209504492
 "DOM",136,"rural","all","4","w_dist_treatment",2.50425485649397
 "DOM",136,"rural","all","4","w_treatment",42.015943932093
 "DOM",136,"rural","all","4","reason_w_treatment_taste",0
@@ -11987,7 +11987,7 @@
 "DOM",155,"rural","all","5","san_sewer",24.91152514889
 "DOM",155,"rural","all","5","san_unimp",0.920412294086941
 "DOM",155,"rural","all","5","improved_w_access",96.5671909698258
-"DOM",155,"rural","all","5","water_daily",53.7517498123875
+"DOM",155,"rural","all","5","water_daily",33.8517115495013
 "DOM",155,"rural","all","5","w_dist_treatment",1.78615033901387
 "DOM",155,"rural","all","5","w_treatment",17.8272362462899
 "DOM",155,"rural","all","5","reason_w_treatment_taste",0
@@ -12036,7 +12036,7 @@
 "DOM",40,"urban","all","1","san_sewer",19.1439028362285
 "DOM",40,"urban","all","1","san_unimp",5.96288257649588
 "DOM",40,"urban","all","1","improved_w_access",94.7988717109977
-"DOM",40,"urban","all","1","water_daily",43.6665945936774
+"DOM",40,"urban","all","1","water_daily",29.4010220548108
 "DOM",40,"urban","all","1","w_dist_treatment",0
 "DOM",40,"urban","all","1","w_treatment",66.7913400451476
 "DOM",40,"urban","all","1","reason_w_treatment_taste",0
@@ -12085,7 +12085,7 @@
 "DOM",62,"urban","all","2","san_sewer",25.7151622978964
 "DOM",62,"urban","all","2","san_unimp",0.622856131593599
 "DOM",62,"urban","all","2","improved_w_access",100
-"DOM",62,"urban","all","2","water_daily",37.9889183800734
+"DOM",62,"urban","all","2","water_daily",23.613153161037
 "DOM",62,"urban","all","2","w_dist_treatment",0
 "DOM",62,"urban","all","2","w_treatment",4.68302294164664
 "DOM",62,"urban","all","2","reason_w_treatment_taste",0
@@ -12134,7 +12134,7 @@
 "DOM",117,"urban","all","3","san_sewer",30.19726877675
 "DOM",117,"urban","all","3","san_unimp",1.80020112074961
 "DOM",117,"urban","all","3","improved_w_access",96.1950256419073
-"DOM",117,"urban","all","3","water_daily",47.3423174983679
+"DOM",117,"urban","all","3","water_daily",35.6838079258743
 "DOM",117,"urban","all","3","w_dist_treatment",2.14135300734174
 "DOM",117,"urban","all","3","w_treatment",39.5763598755789
 "DOM",117,"urban","all","3","reason_w_treatment_taste",0
@@ -12183,7 +12183,7 @@
 "DOM",133,"urban","all","4","san_sewer",38.5844428191159
 "DOM",133,"urban","all","4","san_unimp",0
 "DOM",133,"urban","all","4","improved_w_access",96.9604336358387
-"DOM",133,"urban","all","4","water_daily",42.3428644311894
+"DOM",133,"urban","all","4","water_daily",24.5657003544686
 "DOM",133,"urban","all","4","w_dist_treatment",1.86017278181759
 "DOM",133,"urban","all","4","w_treatment",61.334755782892
 "DOM",133,"urban","all","4","reason_w_treatment_taste",0
@@ -12232,7 +12232,7 @@
 "DOM",240,"urban","all","5","san_sewer",43.3850292314861
 "DOM",240,"urban","all","5","san_unimp",0
 "DOM",240,"urban","all","5","improved_w_access",95.3696331739492
-"DOM",240,"urban","all","5","water_daily",52.106596972984
+"DOM",240,"urban","all","5","water_daily",36.0399004550161
 "DOM",240,"urban","all","5","w_dist_treatment",0
 "DOM",240,"urban","all","5","w_treatment",63.5586686594416
 "DOM",240,"urban","all","5","reason_w_treatment_taste",0
@@ -12281,7 +12281,7 @@
 "ECU",163,"rural","all","1","san_sewer",40.1992978465157
 "ECU",163,"rural","all","1","san_unimp",2.65173446611103
 "ECU",163,"rural","all","1","improved_w_access",90.9898874284348
-"ECU",163,"rural","all","1","water_daily",84.1752986120417
+"ECU",163,"rural","all","1","water_daily",47.7707281998143
 "ECU",163,"rural","all","1","w_dist_treatment",37.8135109838274
 "ECU",163,"rural","all","1","w_treatment",70.1734135319742
 "ECU",163,"rural","all","1","reason_w_treatment_taste",0.225288019067053
@@ -12330,7 +12330,7 @@
 "ECU",84,"rural","all","2","san_sewer",42.1331742721642
 "ECU",84,"rural","all","2","san_unimp",3.42815753729003
 "ECU",84,"rural","all","2","improved_w_access",83.9223055872347
-"ECU",84,"rural","all","2","water_daily",94.0619555332919
+"ECU",84,"rural","all","2","water_daily",54.6697772411179
 "ECU",84,"rural","all","2","w_dist_treatment",41.7400376311387
 "ECU",84,"rural","all","2","w_treatment",64.503196757583
 "ECU",84,"rural","all","2","reason_w_treatment_taste",0.816321785635749
@@ -12379,7 +12379,7 @@
 "ECU",117,"rural","all","3","san_sewer",52.4014046406816
 "ECU",117,"rural","all","3","san_unimp",0.97021739237225
 "ECU",117,"rural","all","3","improved_w_access",95.4157876452735
-"ECU",117,"rural","all","3","water_daily",90.5627385982311
+"ECU",117,"rural","all","3","water_daily",61.5042319052685
 "ECU",117,"rural","all","3","w_dist_treatment",37.7045028339075
 "ECU",117,"rural","all","3","w_treatment",68.2565645850201
 "ECU",117,"rural","all","3","reason_w_treatment_taste",0
@@ -12428,7 +12428,7 @@
 "ECU",89,"rural","all","4","san_sewer",45.545697731605
 "ECU",89,"rural","all","4","san_unimp",3.13030083310625
 "ECU",89,"rural","all","4","improved_w_access",93.603881457274
-"ECU",89,"rural","all","4","water_daily",96.8269601173751
+"ECU",89,"rural","all","4","water_daily",52.5736984736035
 "ECU",89,"rural","all","4","w_dist_treatment",24.3083637757034
 "ECU",89,"rural","all","4","w_treatment",61.7045374977722
 "ECU",89,"rural","all","4","reason_w_treatment_taste",0
@@ -12477,7 +12477,7 @@
 "ECU",49,"rural","all","5","san_sewer",69.0027981001172
 "ECU",49,"rural","all","5","san_unimp",0
 "ECU",49,"rural","all","5","improved_w_access",93.81268218029
-"ECU",49,"rural","all","5","water_daily",85.0882054298149
+"ECU",49,"rural","all","5","water_daily",66.7940428672526
 "ECU",49,"rural","all","5","w_dist_treatment",35.1099217429058
 "ECU",49,"rural","all","5","w_treatment",55.9031557478716
 "ECU",49,"rural","all","5","reason_w_treatment_taste",0
@@ -12526,7 +12526,7 @@
 "ECU",127,"urban","all","1","san_sewer",65.0327825102695
 "ECU",127,"urban","all","1","san_unimp",1.00097302329604
 "ECU",127,"urban","all","1","improved_w_access",96.7414971168461
-"ECU",127,"urban","all","1","water_daily",78.8023959756671
+"ECU",127,"urban","all","1","water_daily",58.8274586981599
 "ECU",127,"urban","all","1","w_dist_treatment",45.4779056649676
 "ECU",127,"urban","all","1","w_treatment",63.9109535886189
 "ECU",127,"urban","all","1","reason_w_treatment_taste",0
@@ -12575,7 +12575,7 @@
 "ECU",118,"urban","all","2","san_sewer",70.550683129761
 "ECU",118,"urban","all","2","san_unimp",0
 "ECU",118,"urban","all","2","improved_w_access",89.7367639543763
-"ECU",118,"urban","all","2","water_daily",90.4654136511032
+"ECU",118,"urban","all","2","water_daily",65.0227762591279
 "ECU",118,"urban","all","2","w_dist_treatment",45.2345240708639
 "ECU",118,"urban","all","2","w_treatment",69.289859434515
 "ECU",118,"urban","all","2","reason_w_treatment_taste",0.730782595509466
@@ -12624,7 +12624,7 @@
 "ECU",158,"urban","all","3","san_sewer",76.7729032231886
 "ECU",158,"urban","all","3","san_unimp",0
 "ECU",158,"urban","all","3","improved_w_access",96.3968647333368
-"ECU",158,"urban","all","3","water_daily",92.2652769156103
+"ECU",158,"urban","all","3","water_daily",74.9205368050848
 "ECU",158,"urban","all","3","w_dist_treatment",47.3255259595269
 "ECU",158,"urban","all","3","w_treatment",67.929446210664
 "ECU",158,"urban","all","3","reason_w_treatment_taste",0.660656741567613
@@ -12673,7 +12673,7 @@
 "ECU",172,"urban","all","4","san_sewer",83.0872950485903
 "ECU",172,"urban","all","4","san_unimp",0
 "ECU",172,"urban","all","4","improved_w_access",98.4996524842071
-"ECU",172,"urban","all","4","water_daily",92.3622561027616
+"ECU",172,"urban","all","4","water_daily",81.7526397499281
 "ECU",172,"urban","all","4","w_dist_treatment",45.2305118119455
 "ECU",172,"urban","all","4","w_treatment",69.8470092678929
 "ECU",172,"urban","all","4","reason_w_treatment_taste",1.07162793012205
@@ -12722,7 +12722,7 @@
 "ECU",196,"urban","all","5","san_sewer",86.7224186596626
 "ECU",196,"urban","all","5","san_unimp",0.992694115320928
 "ECU",196,"urban","all","5","improved_w_access",95.2963069528164
-"ECU",196,"urban","all","5","water_daily",97.6458481614104
+"ECU",196,"urban","all","5","water_daily",84.766247698279
 "ECU",196,"urban","all","5","w_dist_treatment",40.2196808595529
 "ECU",196,"urban","all","5","w_treatment",70.6208132793021
 "ECU",196,"urban","all","5","reason_w_treatment_taste",0.423878292560352
@@ -12771,7 +12771,7 @@
 "GTM",207,"rural","all","1","san_sewer",29.18271913867
 "GTM",207,"rural","all","1","san_unimp",7.17998643177066
 "GTM",207,"rural","all","1","improved_w_access",84.9025567951984
-"GTM",207,"rural","all","1","water_daily",68.7502323187287
+"GTM",207,"rural","all","1","water_daily",37.2953794230655
 "GTM",207,"rural","all","1","w_dist_treatment",40.8497106017325
 "GTM",207,"rural","all","1","w_treatment",79.8933770216999
 "GTM",207,"rural","all","1","reason_w_treatment_taste",2.09174037257178
@@ -12820,7 +12820,7 @@
 "GTM",132,"rural","all","2","san_sewer",46.5209531634177
 "GTM",132,"rural","all","2","san_unimp",2.51677891744113
 "GTM",132,"rural","all","2","improved_w_access",94.903769537768
-"GTM",132,"rural","all","2","water_daily",57.694791300529
+"GTM",132,"rural","all","2","water_daily",32.8045376824535
 "GTM",132,"rural","all","2","w_dist_treatment",45.8092298901547
 "GTM",132,"rural","all","2","w_treatment",83.0779210277607
 "GTM",132,"rural","all","2","reason_w_treatment_taste",0
@@ -12869,7 +12869,7 @@
 "GTM",151,"rural","all","3","san_sewer",48.5380709730243
 "GTM",151,"rural","all","3","san_unimp",4.09151168824177
 "GTM",151,"rural","all","3","improved_w_access",96.1121457633897
-"GTM",151,"rural","all","3","water_daily",66.6636786328333
+"GTM",151,"rural","all","3","water_daily",46.9307217348771
 "GTM",151,"rural","all","3","w_dist_treatment",37.1262955295062
 "GTM",151,"rural","all","3","w_treatment",77.0106171591811
 "GTM",151,"rural","all","3","reason_w_treatment_taste",0.267675463908055
@@ -12918,7 +12918,7 @@
 "GTM",138,"rural","all","4","san_sewer",57.9594162316867
 "GTM",138,"rural","all","4","san_unimp",0.761109132537715
 "GTM",138,"rural","all","4","improved_w_access",90.0413595626073
-"GTM",138,"rural","all","4","water_daily",74.6199621894869
+"GTM",138,"rural","all","4","water_daily",47.12780502152
 "GTM",138,"rural","all","4","w_dist_treatment",29.5040915206022
 "GTM",138,"rural","all","4","w_treatment",80.380999607295
 "GTM",138,"rural","all","4","reason_w_treatment_taste",0.198079829534102
@@ -12967,7 +12967,7 @@
 "GTM",118,"rural","all","5","san_sewer",69.757491145726
 "GTM",118,"rural","all","5","san_unimp",3.03442779632809
 "GTM",118,"rural","all","5","improved_w_access",96.3852644092496
-"GTM",118,"rural","all","5","water_daily",82.7029317786666
+"GTM",118,"rural","all","5","water_daily",58.4975579456418
 "GTM",118,"rural","all","5","w_dist_treatment",35.1453949497453
 "GTM",118,"rural","all","5","w_treatment",87.2397428209727
 "GTM",118,"rural","all","5","reason_w_treatment_taste",2.19134472513369
@@ -13016,7 +13016,7 @@
 "GTM",61,"urban","all","1","san_sewer",70.0957793861984
 "GTM",61,"urban","all","1","san_unimp",0.896693723116554
 "GTM",61,"urban","all","1","improved_w_access",89.1091531403966
-"GTM",61,"urban","all","1","water_daily",75.6934025822521
+"GTM",61,"urban","all","1","water_daily",55.9379169447587
 "GTM",61,"urban","all","1","w_dist_treatment",31.9317151033624
 "GTM",61,"urban","all","1","w_treatment",69.4004934608484
 "GTM",61,"urban","all","1","reason_w_treatment_taste",0
@@ -13065,7 +13065,7 @@
 "GTM",66,"urban","all","2","san_sewer",66.302688940899
 "GTM",66,"urban","all","2","san_unimp",0
 "GTM",66,"urban","all","2","improved_w_access",90.504549749126
-"GTM",66,"urban","all","2","water_daily",85.2047532318514
+"GTM",66,"urban","all","2","water_daily",61.6712552635938
 "GTM",66,"urban","all","2","w_dist_treatment",40.115242480137
 "GTM",66,"urban","all","2","w_treatment",81.1514679421476
 "GTM",66,"urban","all","2","reason_w_treatment_taste",0
@@ -13114,7 +13114,7 @@
 "GTM",60,"urban","all","3","san_sewer",75.1323341057514
 "GTM",60,"urban","all","3","san_unimp",1.34733060162138
 "GTM",60,"urban","all","3","improved_w_access",93.5739198905552
-"GTM",60,"urban","all","3","water_daily",71.2437348902952
+"GTM",60,"urban","all","3","water_daily",57.2844827101854
 "GTM",60,"urban","all","3","w_dist_treatment",30.1060668428536
 "GTM",60,"urban","all","3","w_treatment",77.1698117826976
 "GTM",60,"urban","all","3","reason_w_treatment_taste",0
@@ -13163,7 +13163,7 @@
 "GTM",70,"urban","all","4","san_sewer",91.486760828622
 "GTM",70,"urban","all","4","san_unimp",0
 "GTM",70,"urban","all","4","improved_w_access",87.2451620459425
-"GTM",70,"urban","all","4","water_daily",78.3100808730264
+"GTM",70,"urban","all","4","water_daily",69.5733390568777
 "GTM",70,"urban","all","4","w_dist_treatment",19.9203918242375
 "GTM",70,"urban","all","4","w_treatment",79.2134334655053
 "GTM",70,"urban","all","4","reason_w_treatment_taste",0
@@ -13212,7 +13212,7 @@
 "GTM",158,"urban","all","5","san_sewer",91.9404268017747
 "GTM",158,"urban","all","5","san_unimp",1.4674082321833
 "GTM",158,"urban","all","5","improved_w_access",92.4875448064953
-"GTM",158,"urban","all","5","water_daily",85.0634115518389
+"GTM",158,"urban","all","5","water_daily",69.035348494619
 "GTM",158,"urban","all","5","w_dist_treatment",25.805889905982
 "GTM",158,"urban","all","5","w_treatment",83.4059483665157
 "GTM",158,"urban","all","5","reason_w_treatment_taste",0.357599424536372
@@ -13261,7 +13261,7 @@
 "GUY",72,"rural","all","1","san_sewer",5.16886652936433
 "GUY",72,"rural","all","1","san_unimp",10.2164890809783
 "GUY",72,"rural","all","1","improved_w_access",94.9548609508461
-"GUY",72,"rural","all","1","water_daily",95.0395510421981
+"GUY",72,"rural","all","1","water_daily",51.3655361588396
 "GUY",72,"rural","all","1","w_dist_treatment",16.4155089880658
 "GUY",72,"rural","all","1","w_treatment",60.6084003336061
 "GUY",72,"rural","all","1","reason_w_treatment_taste",0
@@ -13310,7 +13310,7 @@
 "GUY",101,"rural","all","2","san_sewer",8.04072036969337
 "GUY",101,"rural","all","2","san_unimp",15.6068768887487
 "GUY",101,"rural","all","2","improved_w_access",93.9632445437493
-"GUY",101,"rural","all","2","water_daily",94.898473370051
+"GUY",101,"rural","all","2","water_daily",59.4166348507116
 "GUY",101,"rural","all","2","w_dist_treatment",14.3875447985649
 "GUY",101,"rural","all","2","w_treatment",55.3192649695688
 "GUY",101,"rural","all","2","reason_w_treatment_taste",0.896642318919613
@@ -13359,7 +13359,7 @@
 "GUY",154,"rural","all","3","san_sewer",4.83010489568001
 "GUY",154,"rural","all","3","san_unimp",5.4204596613758
 "GUY",154,"rural","all","3","improved_w_access",91.1114631551278
-"GUY",154,"rural","all","3","water_daily",94.8324241014247
+"GUY",154,"rural","all","3","water_daily",58.9507279762873
 "GUY",154,"rural","all","3","w_dist_treatment",11.0549682013584
 "GUY",154,"rural","all","3","w_treatment",61.7799354816261
 "GUY",154,"rural","all","3","reason_w_treatment_taste",0
@@ -13408,7 +13408,7 @@
 "GUY",233,"rural","all","4","san_sewer",2.90973328362959
 "GUY",233,"rural","all","4","san_unimp",5.06465725245377
 "GUY",233,"rural","all","4","improved_w_access",92.1703139956914
-"GUY",233,"rural","all","4","water_daily",99.1603063261327
+"GUY",233,"rural","all","4","water_daily",68.8579369095248
 "GUY",233,"rural","all","4","w_dist_treatment",8.4671115996624
 "GUY",233,"rural","all","4","w_treatment",50.0906885399943
 "GUY",233,"rural","all","4","reason_w_treatment_taste",0
@@ -13457,7 +13457,7 @@
 "GUY",198,"rural","all","5","san_sewer",8.11713050352013
 "GUY",198,"rural","all","5","san_unimp",1.79156668012284
 "GUY",198,"rural","all","5","improved_w_access",95.3995301307449
-"GUY",198,"rural","all","5","water_daily",95.0873710806495
+"GUY",198,"rural","all","5","water_daily",67.7164106924522
 "GUY",198,"rural","all","5","w_dist_treatment",5.92105783526193
 "GUY",198,"rural","all","5","w_treatment",39.9569597228017
 "GUY",198,"rural","all","5","reason_w_treatment_taste",2.01208282564577
@@ -13506,7 +13506,7 @@
 "GUY",18,"urban","all","1","san_sewer",2.13435752325284
 "GUY",18,"urban","all","1","san_unimp",8.73645808662394
 "GUY",18,"urban","all","1","improved_w_access",89.8728711295405
-"GUY",18,"urban","all","1","water_daily",69.6032569176343
+"GUY",18,"urban","all","1","water_daily",46.1001969841325
 "GUY",18,"urban","all","1","w_dist_treatment",15.2189966313845
 "GUY",18,"urban","all","1","w_treatment",66.8697081754394
 "GUY",18,"urban","all","1","reason_w_treatment_taste",0
@@ -13555,7 +13555,7 @@
 "GUY",35,"urban","all","2","san_sewer",12.098775120186
 "GUY",35,"urban","all","2","san_unimp",2.91237934142257
 "GUY",35,"urban","all","2","improved_w_access",93.8341641978592
-"GUY",35,"urban","all","2","water_daily",94.2559538577275
+"GUY",35,"urban","all","2","water_daily",65.6074500896432
 "GUY",35,"urban","all","2","w_dist_treatment",24.1803710504459
 "GUY",35,"urban","all","2","w_treatment",77.6301736603767
 "GUY",35,"urban","all","2","reason_w_treatment_taste",0
@@ -13604,7 +13604,7 @@
 "GUY",65,"urban","all","3","san_sewer",1.91585984899551
 "GUY",65,"urban","all","3","san_unimp",10.1081871051
 "GUY",65,"urban","all","3","improved_w_access",91.7400565715865
-"GUY",65,"urban","all","3","water_daily",98.04109575129
+"GUY",65,"urban","all","3","water_daily",64.3753396515889
 "GUY",65,"urban","all","3","w_dist_treatment",12.8674042447955
 "GUY",65,"urban","all","3","w_treatment",69.2834182955083
 "GUY",65,"urban","all","3","reason_w_treatment_taste",0
@@ -13653,7 +13653,7 @@
 "GUY",99,"urban","all","4","san_sewer",13.6201493749492
 "GUY",99,"urban","all","4","san_unimp",2.2961864594082
 "GUY",99,"urban","all","4","improved_w_access",90.6544738678304
-"GUY",99,"urban","all","4","water_daily",95.3756929880876
+"GUY",99,"urban","all","4","water_daily",71.1885910820109
 "GUY",99,"urban","all","4","w_dist_treatment",13.2972019316436
 "GUY",99,"urban","all","4","w_treatment",66.684577699892
 "GUY",99,"urban","all","4","reason_w_treatment_taste",0
@@ -13702,7 +13702,7 @@
 "GUY",146,"urban","all","5","san_sewer",9.96426133687746
 "GUY",146,"urban","all","5","san_unimp",1.58192438834717
 "GUY",146,"urban","all","5","improved_w_access",95.06207044037
-"GUY",146,"urban","all","5","water_daily",92.766147164674
+"GUY",146,"urban","all","5","water_daily",66.6272518399765
 "GUY",146,"urban","all","5","w_dist_treatment",5.69018413168578
 "GUY",146,"urban","all","5","w_treatment",34.6077508056656
 "GUY",146,"urban","all","5","reason_w_treatment_taste",0.425443706564405
@@ -13751,7 +13751,7 @@
 "HND",109,"rural","all","1","san_sewer",19.7140168042374
 "HND",109,"rural","all","1","san_unimp",9.0980288761269
 "HND",109,"rural","all","1","improved_w_access",83.4136864058105
-"HND",109,"rural","all","1","water_daily",65.0028616283711
+"HND",109,"rural","all","1","water_daily",40.6020406936683
 "HND",109,"rural","all","1","w_dist_treatment",30.389660415614
 "HND",109,"rural","all","1","w_treatment",71.1367765840884
 "HND",109,"rural","all","1","reason_w_treatment_taste",0
@@ -13800,7 +13800,7 @@
 "HND",135,"rural","all","2","san_sewer",14.6359282750964
 "HND",135,"rural","all","2","san_unimp",4.32275544857149
 "HND",135,"rural","all","2","improved_w_access",87.9678077435589
-"HND",135,"rural","all","2","water_daily",75.7048104107054
+"HND",135,"rural","all","2","water_daily",50.5733545548454
 "HND",135,"rural","all","2","w_dist_treatment",36.7426055319245
 "HND",135,"rural","all","2","w_treatment",73.4938661541584
 "HND",135,"rural","all","2","reason_w_treatment_taste",0
@@ -13849,7 +13849,7 @@
 "HND",157,"rural","all","3","san_sewer",19.8791955810781
 "HND",157,"rural","all","3","san_unimp",10.2103424841569
 "HND",157,"rural","all","3","improved_w_access",89.3700654649158
-"HND",157,"rural","all","3","water_daily",60.4974085748801
+"HND",157,"rural","all","3","water_daily",43.1802843130023
 "HND",157,"rural","all","3","w_dist_treatment",22.0301156626654
 "HND",157,"rural","all","3","w_treatment",70.5368017429466
 "HND",157,"rural","all","3","reason_w_treatment_taste",0
@@ -13898,7 +13898,7 @@
 "HND",148,"rural","all","4","san_sewer",17.6839092780287
 "HND",148,"rural","all","4","san_unimp",3.27888077409208
 "HND",148,"rural","all","4","improved_w_access",81.0346718638527
-"HND",148,"rural","all","4","water_daily",66.7280462137569
+"HND",148,"rural","all","4","water_daily",42.1520714634922
 "HND",148,"rural","all","4","w_dist_treatment",13.3056538007482
 "HND",148,"rural","all","4","w_treatment",63.7048577960922
 "HND",148,"rural","all","4","reason_w_treatment_taste",0
@@ -13947,7 +13947,7 @@
 "HND",113,"rural","all","5","san_sewer",27.874874459463
 "HND",113,"rural","all","5","san_unimp",4.79714818834769
 "HND",113,"rural","all","5","improved_w_access",90.2335056444621
-"HND",113,"rural","all","5","water_daily",71.0836999791222
+"HND",113,"rural","all","5","water_daily",47.8514482670129
 "HND",113,"rural","all","5","w_dist_treatment",16.1538497050169
 "HND",113,"rural","all","5","w_treatment",84.5774482200763
 "HND",113,"rural","all","5","reason_w_treatment_taste",0
@@ -13996,7 +13996,7 @@
 "HND",35,"urban","all","1","san_sewer",35.766945241138
 "HND",35,"urban","all","1","san_unimp",3.96454907851558
 "HND",35,"urban","all","1","improved_w_access",92.857452842458
-"HND",35,"urban","all","1","water_daily",40.8429787772614
+"HND",35,"urban","all","1","water_daily",29.2275627020843
 "HND",35,"urban","all","1","w_dist_treatment",33.1876056305155
 "HND",35,"urban","all","1","w_treatment",78.4404392813661
 "HND",35,"urban","all","1","reason_w_treatment_taste",0
@@ -14045,7 +14045,7 @@
 "HND",48,"urban","all","2","san_sewer",44.7811860860011
 "HND",48,"urban","all","2","san_unimp",4.45845151868299
 "HND",48,"urban","all","2","improved_w_access",94.142477110594
-"HND",48,"urban","all","2","water_daily",41.9483785340247
+"HND",48,"urban","all","2","water_daily",32.5301178852192
 "HND",48,"urban","all","2","w_dist_treatment",18.7446004533094
 "HND",48,"urban","all","2","w_treatment",67.5212532491062
 "HND",48,"urban","all","2","reason_w_treatment_taste",0
@@ -14094,7 +14094,7 @@
 "HND",105,"urban","all","3","san_sewer",45.1513129243741
 "HND",105,"urban","all","3","san_unimp",8.11458956535347
 "HND",105,"urban","all","3","improved_w_access",91.3094440987226
-"HND",105,"urban","all","3","water_daily",33.7897177521373
+"HND",105,"urban","all","3","water_daily",21.9485657150512
 "HND",105,"urban","all","3","w_dist_treatment",16.9954232639367
 "HND",105,"urban","all","3","w_treatment",80.7113722448756
 "HND",105,"urban","all","3","reason_w_treatment_taste",0
@@ -14143,7 +14143,7 @@
 "HND",173,"urban","all","4","san_sewer",47.8093462627492
 "HND",173,"urban","all","4","san_unimp",2.23677172095247
 "HND",173,"urban","all","4","improved_w_access",95.5502500258671
-"HND",173,"urban","all","4","water_daily",60.160966367445
+"HND",173,"urban","all","4","water_daily",47.4263833327801
 "HND",173,"urban","all","4","w_dist_treatment",16.1460572996903
 "HND",173,"urban","all","4","w_treatment",66.5970921907471
 "HND",173,"urban","all","4","reason_w_treatment_taste",0
@@ -14192,7 +14192,7 @@
 "HND",256,"urban","all","5","san_sewer",64.8286988608069
 "HND",256,"urban","all","5","san_unimp",0
 "HND",256,"urban","all","5","improved_w_access",98.3337964542229
-"HND",256,"urban","all","5","water_daily",51.9611801963964
+"HND",256,"urban","all","5","water_daily",42.5788027324345
 "HND",256,"urban","all","5","w_dist_treatment",7.71884481647582
 "HND",256,"urban","all","5","w_treatment",67.4737019418107
 "HND",256,"urban","all","5","reason_w_treatment_taste",0
@@ -14241,7 +14241,7 @@
 "MEX",133,"rural","all","1","san_sewer",55.6977649315465
 "MEX",133,"rural","all","1","san_unimp",2.45580182744738
 "MEX",133,"rural","all","1","improved_w_access",89.715112169328
-"MEX",133,"rural","all","1","water_daily",60.7772283103804
+"MEX",133,"rural","all","1","water_daily",39.4969151810604
 "MEX",133,"rural","all","1","w_dist_treatment",20.9910092912829
 "MEX",133,"rural","all","1","w_treatment",57.3920794106856
 "MEX",133,"rural","all","1","reason_w_treatment_taste",1.57644197954579
@@ -14290,7 +14290,7 @@
 "MEX",74,"rural","all","2","san_sewer",68.5472197216268
 "MEX",74,"rural","all","2","san_unimp",6.40685900618092
 "MEX",74,"rural","all","2","improved_w_access",100
-"MEX",74,"rural","all","2","water_daily",72.5872939879651
+"MEX",74,"rural","all","2","water_daily",57.8445512598317
 "MEX",74,"rural","all","2","w_dist_treatment",10.7358180303803
 "MEX",74,"rural","all","2","w_treatment",45.2730698803761
 "MEX",74,"rural","all","2","reason_w_treatment_taste",0
@@ -14339,7 +14339,7 @@
 "MEX",91,"rural","all","3","san_sewer",68.2735100004958
 "MEX",91,"rural","all","3","san_unimp",0
 "MEX",91,"rural","all","3","improved_w_access",90.7654261480304
-"MEX",91,"rural","all","3","water_daily",57.3889682380409
+"MEX",91,"rural","all","3","water_daily",44.179147989006
 "MEX",91,"rural","all","3","w_dist_treatment",8.45179487009143
 "MEX",91,"rural","all","3","w_treatment",60.9592452631581
 "MEX",91,"rural","all","3","reason_w_treatment_taste",0
@@ -14388,7 +14388,7 @@
 "MEX",55,"rural","all","4","san_sewer",72.7870390642349
 "MEX",55,"rural","all","4","san_unimp",2.72909553913389
 "MEX",55,"rural","all","4","improved_w_access",94.9768306188892
-"MEX",55,"rural","all","4","water_daily",68.1029672988509
+"MEX",55,"rural","all","4","water_daily",55.7427699673677
 "MEX",55,"rural","all","4","w_dist_treatment",5.71682952688714
 "MEX",55,"rural","all","4","w_treatment",29.1186330218846
 "MEX",55,"rural","all","4","reason_w_treatment_taste",0
@@ -14437,7 +14437,7 @@
 "MEX",45,"rural","all","5","san_sewer",71.4791717291932
 "MEX",45,"rural","all","5","san_unimp",0
 "MEX",45,"rural","all","5","improved_w_access",93.5273153961048
-"MEX",45,"rural","all","5","water_daily",75.0985309654458
+"MEX",45,"rural","all","5","water_daily",53.6889739995994
 "MEX",45,"rural","all","5","w_dist_treatment",6.96263963992386
 "MEX",45,"rural","all","5","w_treatment",77.4039590110921
 "MEX",45,"rural","all","5","reason_w_treatment_taste",0
@@ -14486,7 +14486,7 @@
 "MEX",118,"urban","all","1","san_sewer",85.8969888182433
 "MEX",118,"urban","all","1","san_unimp",0
 "MEX",118,"urban","all","1","improved_w_access",95.5903855018745
-"MEX",118,"urban","all","1","water_daily",79.8544556642087
+"MEX",118,"urban","all","1","water_daily",64.6302227645596
 "MEX",118,"urban","all","1","w_dist_treatment",5.91710513639174
 "MEX",118,"urban","all","1","w_treatment",38.2095784108067
 "MEX",118,"urban","all","1","reason_w_treatment_taste",0
@@ -14535,7 +14535,7 @@
 "MEX",82,"urban","all","2","san_sewer",81.040102261745
 "MEX",82,"urban","all","2","san_unimp",0
 "MEX",82,"urban","all","2","improved_w_access",92.9683006167924
-"MEX",82,"urban","all","2","water_daily",77.5156281976016
+"MEX",82,"urban","all","2","water_daily",64.0628456267552
 "MEX",82,"urban","all","2","w_dist_treatment",9.80765865151935
 "MEX",82,"urban","all","2","w_treatment",62.1471776376971
 "MEX",82,"urban","all","2","reason_w_treatment_taste",0
@@ -14584,7 +14584,7 @@
 "MEX",123,"urban","all","3","san_sewer",86.2075685276284
 "MEX",123,"urban","all","3","san_unimp",0
 "MEX",123,"urban","all","3","improved_w_access",95.5624567498408
-"MEX",123,"urban","all","3","water_daily",70.7599214272262
+"MEX",123,"urban","all","3","water_daily",54.565368714037
 "MEX",123,"urban","all","3","w_dist_treatment",7.16847631204157
 "MEX",123,"urban","all","3","w_treatment",54.2731243527651
 "MEX",123,"urban","all","3","reason_w_treatment_taste",0
@@ -14633,7 +14633,7 @@
 "MEX",145,"urban","all","4","san_sewer",91.6921984975621
 "MEX",145,"urban","all","4","san_unimp",0
 "MEX",145,"urban","all","4","improved_w_access",95.036587031997
-"MEX",145,"urban","all","4","water_daily",85.2203504476223
+"MEX",145,"urban","all","4","water_daily",66.0124006610098
 "MEX",145,"urban","all","4","w_dist_treatment",7.86363033122498
 "MEX",145,"urban","all","4","w_treatment",44.8650144536492
 "MEX",145,"urban","all","4","reason_w_treatment_taste",0
@@ -14682,7 +14682,7 @@
 "MEX",284,"urban","all","5","san_sewer",94.2634799691125
 "MEX",284,"urban","all","5","san_unimp",0.988170829664961
 "MEX",284,"urban","all","5","improved_w_access",94.0850632793815
-"MEX",284,"urban","all","5","water_daily",86.3390621445579
+"MEX",284,"urban","all","5","water_daily",74.5874490699974
 "MEX",284,"urban","all","5","w_dist_treatment",9.68719815654829
 "MEX",284,"urban","all","5","w_treatment",65.7469845054689
 "MEX",284,"urban","all","5","reason_w_treatment_taste",0
@@ -14731,7 +14731,7 @@
 "NIC",68,"rural","all","1","san_sewer",29.6962704107818
 "NIC",68,"rural","all","1","san_unimp",11.3103896059286
 "NIC",68,"rural","all","1","improved_w_access",94.3929977105093
-"NIC",68,"rural","all","1","water_daily",61.6926645796446
+"NIC",68,"rural","all","1","water_daily",41.6257712871705
 "NIC",68,"rural","all","1","w_dist_treatment",54.7327150795192
 "NIC",68,"rural","all","1","w_treatment",87.141458096308
 "NIC",68,"rural","all","1","reason_w_treatment_taste",0
@@ -14780,7 +14780,7 @@
 "NIC",135,"rural","all","2","san_sewer",30.1167108024686
 "NIC",135,"rural","all","2","san_unimp",12.2465170335458
 "NIC",135,"rural","all","2","improved_w_access",91.8019843857697
-"NIC",135,"rural","all","2","water_daily",72.7545090484364
+"NIC",135,"rural","all","2","water_daily",45.896436515847
 "NIC",135,"rural","all","2","w_dist_treatment",54.2534454168152
 "NIC",135,"rural","all","2","w_treatment",77.8890702746657
 "NIC",135,"rural","all","2","reason_w_treatment_taste",0.566690135758951
@@ -14829,7 +14829,7 @@
 "NIC",149,"rural","all","3","san_sewer",39.4430665504359
 "NIC",149,"rural","all","3","san_unimp",9.41063909419366
 "NIC",149,"rural","all","3","improved_w_access",97.7234684069335
-"NIC",149,"rural","all","3","water_daily",77.7978305399709
+"NIC",149,"rural","all","3","water_daily",54.4153837032897
 "NIC",149,"rural","all","3","w_dist_treatment",54.8884783236109
 "NIC",149,"rural","all","3","w_treatment",71.5260542081076
 "NIC",149,"rural","all","3","reason_w_treatment_taste",0
@@ -14878,7 +14878,7 @@
 "NIC",150,"rural","all","4","san_sewer",53.1473082522477
 "NIC",150,"rural","all","4","san_unimp",4.18272342291669
 "NIC",150,"rural","all","4","improved_w_access",100
-"NIC",150,"rural","all","4","water_daily",76.8047259995712
+"NIC",150,"rural","all","4","water_daily",66.8522389470787
 "NIC",150,"rural","all","4","w_dist_treatment",47.4918310984999
 "NIC",150,"rural","all","4","w_treatment",80.8834821024119
 "NIC",150,"rural","all","4","reason_w_treatment_taste",0
@@ -14927,7 +14927,7 @@
 "NIC",147,"rural","all","5","san_sewer",33.7718197668946
 "NIC",147,"rural","all","5","san_unimp",7.21477856398746
 "NIC",147,"rural","all","5","improved_w_access",93.8272913226917
-"NIC",147,"rural","all","5","water_daily",70.0080650611925
+"NIC",147,"rural","all","5","water_daily",49.8058360386984
 "NIC",147,"rural","all","5","w_dist_treatment",40.0235597800634
 "NIC",147,"rural","all","5","w_treatment",73.212267387405
 "NIC",147,"rural","all","5","reason_w_treatment_taste",0
@@ -14976,7 +14976,7 @@
 "NIC",56,"urban","all","1","san_sewer",66.6235347115207
 "NIC",56,"urban","all","1","san_unimp",1.68977752905153
 "NIC",56,"urban","all","1","improved_w_access",100
-"NIC",56,"urban","all","1","water_daily",82.3388158453402
+"NIC",56,"urban","all","1","water_daily",65.7819007081499
 "NIC",56,"urban","all","1","w_dist_treatment",57.5560287534147
 "NIC",56,"urban","all","1","w_treatment",70.9921984909212
 "NIC",56,"urban","all","1","reason_w_treatment_taste",0
@@ -15025,7 +15025,7 @@
 "NIC",154,"urban","all","2","san_sewer",66.4754252326923
 "NIC",154,"urban","all","2","san_unimp",4.059231854436
 "NIC",154,"urban","all","2","improved_w_access",100
-"NIC",154,"urban","all","2","water_daily",77.4856135239496
+"NIC",154,"urban","all","2","water_daily",65.1253220828515
 "NIC",154,"urban","all","2","w_dist_treatment",50.9552195119078
 "NIC",154,"urban","all","2","w_treatment",64.5546994327964
 "NIC",154,"urban","all","2","reason_w_treatment_taste",0
@@ -15074,7 +15074,7 @@
 "NIC",122,"urban","all","3","san_sewer",59.4787813150647
 "NIC",122,"urban","all","3","san_unimp",3.09198693161664
 "NIC",122,"urban","all","3","improved_w_access",98.6174354263083
-"NIC",122,"urban","all","3","water_daily",86.8811612498626
+"NIC",122,"urban","all","3","water_daily",78.1808688343512
 "NIC",122,"urban","all","3","w_dist_treatment",48.1132734224803
 "NIC",122,"urban","all","3","w_treatment",59.4761085513845
 "NIC",122,"urban","all","3","reason_w_treatment_taste",0
@@ -15123,7 +15123,7 @@
 "NIC",180,"urban","all","4","san_sewer",54.9066985967438
 "NIC",180,"urban","all","4","san_unimp",3.45157178241031
 "NIC",180,"urban","all","4","improved_w_access",96.2667875749642
-"NIC",180,"urban","all","4","water_daily",80.9838810863884
+"NIC",180,"urban","all","4","water_daily",69.285038309463
 "NIC",180,"urban","all","4","w_dist_treatment",53.6481482326934
 "NIC",180,"urban","all","4","w_treatment",71.9305315234268
 "NIC",180,"urban","all","4","reason_w_treatment_taste",0.22631452751953
@@ -15172,7 +15172,7 @@
 "NIC",186,"urban","all","5","san_sewer",63.8113553766359
 "NIC",186,"urban","all","5","san_unimp",6.63405534858018
 "NIC",186,"urban","all","5","improved_w_access",99.1608956411871
-"NIC",186,"urban","all","5","water_daily",84.5875337456004
+"NIC",186,"urban","all","5","water_daily",75.1783373890957
 "NIC",186,"urban","all","5","w_dist_treatment",38.123712784159
 "NIC",186,"urban","all","5","w_treatment",49.4835658171496
 "NIC",186,"urban","all","5","reason_w_treatment_taste",0
@@ -15221,7 +15221,7 @@
 "PAN",188,"rural","all","1","san_sewer",17.6992401528137
 "PAN",188,"rural","all","1","san_unimp",12.9643643770524
 "PAN",188,"rural","all","1","improved_w_access",84.5131469973746
-"PAN",188,"rural","all","1","water_daily",80.4712150456958
+"PAN",188,"rural","all","1","water_daily",57.0611448617315
 "PAN",188,"rural","all","1","w_dist_treatment",23.6534836297857
 "PAN",188,"rural","all","1","w_treatment",41.5549537014762
 "PAN",188,"rural","all","1","reason_w_treatment_taste",1.45073278854584
@@ -15270,7 +15270,7 @@
 "PAN",131,"rural","all","2","san_sewer",19.9744607336172
 "PAN",131,"rural","all","2","san_unimp",4.96607153487941
 "PAN",131,"rural","all","2","improved_w_access",90.4702921945883
-"PAN",131,"rural","all","2","water_daily",89.7929263278429
+"PAN",131,"rural","all","2","water_daily",57.608670450733
 "PAN",131,"rural","all","2","w_dist_treatment",22.2008279007557
 "PAN",131,"rural","all","2","w_treatment",38.6878466373067
 "PAN",131,"rural","all","2","reason_w_treatment_taste",0.995575305465018
@@ -15319,7 +15319,7 @@
 "PAN",154,"rural","all","3","san_sewer",30.9573080435942
 "PAN",154,"rural","all","3","san_unimp",9.44022188138842
 "PAN",154,"rural","all","3","improved_w_access",88.4329563832955
-"PAN",154,"rural","all","3","water_daily",85.1915513471576
+"PAN",154,"rural","all","3","water_daily",68.3134802008183
 "PAN",154,"rural","all","3","w_dist_treatment",23.8497394261091
 "PAN",154,"rural","all","3","w_treatment",32.9401413357223
 "PAN",154,"rural","all","3","reason_w_treatment_taste",0.316419649959931
@@ -15368,7 +15368,7 @@
 "PAN",97,"rural","all","4","san_sewer",25.4022757101309
 "PAN",97,"rural","all","4","san_unimp",3.96270197341799
 "PAN",97,"rural","all","4","improved_w_access",94.13136068826
-"PAN",97,"rural","all","4","water_daily",88.3362481248168
+"PAN",97,"rural","all","4","water_daily",69.9900318295878
 "PAN",97,"rural","all","4","w_dist_treatment",19.2274824233438
 "PAN",97,"rural","all","4","w_treatment",29.5019208456446
 "PAN",97,"rural","all","4","reason_w_treatment_taste",2.85932105005013
@@ -15417,7 +15417,7 @@
 "PAN",98,"rural","all","5","san_sewer",42.8875662650423
 "PAN",98,"rural","all","5","san_unimp",4.16663917416181
 "PAN",98,"rural","all","5","improved_w_access",91.4438773484684
-"PAN",98,"rural","all","5","water_daily",90.6495513561044
+"PAN",98,"rural","all","5","water_daily",73.4838652843512
 "PAN",98,"rural","all","5","w_dist_treatment",32.7313431221102
 "PAN",98,"rural","all","5","w_treatment",44.020315016966
 "PAN",98,"rural","all","5","reason_w_treatment_taste",0
@@ -15466,7 +15466,7 @@
 "PAN",96,"urban","all","1","san_sewer",23.6900110225224
 "PAN",96,"urban","all","1","san_unimp",5.41967980154189
 "PAN",96,"urban","all","1","improved_w_access",93.748279194064
-"PAN",96,"urban","all","1","water_daily",86.4303171234803
+"PAN",96,"urban","all","1","water_daily",65.9239840013207
 "PAN",96,"urban","all","1","w_dist_treatment",24.441545747118
 "PAN",96,"urban","all","1","w_treatment",32.1486324558568
 "PAN",96,"urban","all","1","reason_w_treatment_taste",0
@@ -15515,7 +15515,7 @@
 "PAN",91,"urban","all","2","san_sewer",49.6341565919265
 "PAN",91,"urban","all","2","san_unimp",4.44260876927945
 "PAN",91,"urban","all","2","improved_w_access",93.4841308316705
-"PAN",91,"urban","all","2","water_daily",87.632203749322
+"PAN",91,"urban","all","2","water_daily",75.0349947342931
 "PAN",91,"urban","all","2","w_dist_treatment",20.634647936298
 "PAN",91,"urban","all","2","w_treatment",26.2464052227274
 "PAN",91,"urban","all","2","reason_w_treatment_taste",0
@@ -15564,7 +15564,7 @@
 "PAN",116,"urban","all","3","san_sewer",57.2487458496974
 "PAN",116,"urban","all","3","san_unimp",1.46900402192722
 "PAN",116,"urban","all","3","improved_w_access",93.2450339096998
-"PAN",116,"urban","all","3","water_daily",97.7923217683395
+"PAN",116,"urban","all","3","water_daily",83.3114890440885
 "PAN",116,"urban","all","3","w_dist_treatment",19.4195790241591
 "PAN",116,"urban","all","3","w_treatment",21.0749144573688
 "PAN",116,"urban","all","3","reason_w_treatment_taste",1.8040286468417
@@ -15613,7 +15613,7 @@
 "PAN",124,"urban","all","4","san_sewer",51.5671255791245
 "PAN",124,"urban","all","4","san_unimp",2.81248610106615
 "PAN",124,"urban","all","4","improved_w_access",96.4210188186929
-"PAN",124,"urban","all","4","water_daily",95.3799833245503
+"PAN",124,"urban","all","4","water_daily",85.1242209336513
 "PAN",124,"urban","all","4","w_dist_treatment",21.8157655070436
 "PAN",124,"urban","all","4","w_treatment",30.1970876566449
 "PAN",124,"urban","all","4","reason_w_treatment_taste",1.94856503178808
@@ -15662,7 +15662,7 @@
 "PAN",184,"urban","all","5","san_sewer",61.4655942433578
 "PAN",184,"urban","all","5","san_unimp",0
 "PAN",184,"urban","all","5","improved_w_access",97.8612090087864
-"PAN",184,"urban","all","5","water_daily",96.3367143755235
+"PAN",184,"urban","all","5","water_daily",86.1591075498374
 "PAN",184,"urban","all","5","w_dist_treatment",28.2660660591521
 "PAN",184,"urban","all","5","w_treatment",33.6657998648621
 "PAN",184,"urban","all","5","reason_w_treatment_taste",2.97689041583901
@@ -15711,7 +15711,7 @@
 "PER",118,"rural","all","1","san_sewer",32.9919169771741
 "PER",118,"rural","all","1","san_unimp",7.32474075809389
 "PER",118,"rural","all","1","improved_w_access",75.4514094353564
-"PER",118,"rural","all","1","water_daily",84.9983301275527
+"PER",118,"rural","all","1","water_daily",36.495508452438
 "PER",118,"rural","all","1","w_dist_treatment",51.6457924686704
 "PER",118,"rural","all","1","w_treatment",86.4713522945406
 "PER",118,"rural","all","1","reason_w_treatment_taste",0
@@ -15760,7 +15760,7 @@
 "PER",100,"rural","all","2","san_sewer",59.9259265899868
 "PER",100,"rural","all","2","san_unimp",10.1007018024269
 "PER",100,"rural","all","2","improved_w_access",84.1237079185599
-"PER",100,"rural","all","2","water_daily",88.390655459617
+"PER",100,"rural","all","2","water_daily",56.7706733500108
 "PER",100,"rural","all","2","w_dist_treatment",60.0295415526417
 "PER",100,"rural","all","2","w_treatment",88.5130716166771
 "PER",100,"rural","all","2","reason_w_treatment_taste",0
@@ -15809,7 +15809,7 @@
 "PER",92,"rural","all","3","san_sewer",71.4098255657678
 "PER",92,"rural","all","3","san_unimp",6.06158291103947
 "PER",92,"rural","all","3","improved_w_access",85.4359774929324
-"PER",92,"rural","all","3","water_daily",87.2620626026386
+"PER",92,"rural","all","3","water_daily",58.954124670378
 "PER",92,"rural","all","3","w_dist_treatment",61.6946471524517
 "PER",92,"rural","all","3","w_treatment",96.3068897403347
 "PER",92,"rural","all","3","reason_w_treatment_taste",0
@@ -15858,7 +15858,7 @@
 "PER",30,"rural","all","4","san_sewer",69.1582164603339
 "PER",30,"rural","all","4","san_unimp",1.49689974720783
 "PER",30,"rural","all","4","improved_w_access",80.4607347909771
-"PER",30,"rural","all","4","water_daily",85.630974498176
+"PER",30,"rural","all","4","water_daily",35.9710997888972
 "PER",30,"rural","all","4","w_dist_treatment",55.3293118081234
 "PER",30,"rural","all","4","w_treatment",99.0983716963878
 "PER",30,"rural","all","4","reason_w_treatment_taste",0
@@ -15907,7 +15907,7 @@
 "PER",32,"rural","all","5","san_sewer",79.1326696821572
 "PER",32,"rural","all","5","san_unimp",0
 "PER",32,"rural","all","5","improved_w_access",88.9331853356853
-"PER",32,"rural","all","5","water_daily",77.5813333074556
+"PER",32,"rural","all","5","water_daily",52.9557570338501
 "PER",32,"rural","all","5","w_dist_treatment",62.1859400956482
 "PER",32,"rural","all","5","w_treatment",89.97567447388
 "PER",32,"rural","all","5","reason_w_treatment_taste",0
@@ -15956,7 +15956,7 @@
 "PER",114,"urban","all","1","san_sewer",71.2085231532456
 "PER",114,"urban","all","1","san_unimp",2.69293162543035
 "PER",114,"urban","all","1","improved_w_access",88.5047555505812
-"PER",114,"urban","all","1","water_daily",91.0786880763349
+"PER",114,"urban","all","1","water_daily",58.2205866895291
 "PER",114,"urban","all","1","w_dist_treatment",66.5461477592377
 "PER",114,"urban","all","1","w_treatment",90.0317101483027
 "PER",114,"urban","all","1","reason_w_treatment_taste",0.327935773437718
@@ -16005,7 +16005,7 @@
 "PER",221,"urban","all","2","san_sewer",72.7116748732248
 "PER",221,"urban","all","2","san_unimp",1.44430226326761
 "PER",221,"urban","all","2","improved_w_access",90.6675940031928
-"PER",221,"urban","all","2","water_daily",92.2438385532786
+"PER",221,"urban","all","2","water_daily",66.4376559837857
 "PER",221,"urban","all","2","w_dist_treatment",66.1248430518305
 "PER",221,"urban","all","2","w_treatment",90.7315865106584
 "PER",221,"urban","all","2","reason_w_treatment_taste",0.615012498119806
@@ -16054,7 +16054,7 @@
 "PER",227,"urban","all","3","san_sewer",89.08003704859
 "PER",227,"urban","all","3","san_unimp",1.4578654064624
 "PER",227,"urban","all","3","improved_w_access",93.5698440225014
-"PER",227,"urban","all","3","water_daily",92.6649715992409
+"PER",227,"urban","all","3","water_daily",76.8348385118436
 "PER",227,"urban","all","3","w_dist_treatment",77.9720345228949
 "PER",227,"urban","all","3","w_treatment",92.7424621994363
 "PER",227,"urban","all","3","reason_w_treatment_taste",2.26440952392223
@@ -16103,7 +16103,7 @@
 "PER",155,"urban","all","4","san_sewer",97.8158353616297
 "PER",155,"urban","all","4","san_unimp",0
 "PER",155,"urban","all","4","improved_w_access",95.9468698163919
-"PER",155,"urban","all","4","water_daily",94.1124719918732
+"PER",155,"urban","all","4","water_daily",85.9199895435899
 "PER",155,"urban","all","4","w_dist_treatment",85.2267370780441
 "PER",155,"urban","all","4","w_treatment",96.4708265020863
 "PER",155,"urban","all","4","reason_w_treatment_taste",0
@@ -16152,7 +16152,7 @@
 "PER",262,"urban","all","5","san_sewer",95.2661262625271
 "PER",262,"urban","all","5","san_unimp",0
 "PER",262,"urban","all","5","improved_w_access",91.3194493397102
-"PER",262,"urban","all","5","water_daily",97.9528812148231
+"PER",262,"urban","all","5","water_daily",85.2655701786215
 "PER",262,"urban","all","5","w_dist_treatment",71.4787945471497
 "PER",262,"urban","all","5","w_treatment",95.7252432519856
 "PER",262,"urban","all","5","reason_w_treatment_taste",1.86966420328829
@@ -16201,7 +16201,7 @@
 "PRY",162,"rural","all","1","san_sewer",1.84788740571637
 "PRY",162,"rural","all","1","san_unimp",11.098732555599
 "PRY",162,"rural","all","1","improved_w_access",93.2541857127001
-"PRY",162,"rural","all","1","water_daily",95.3861363479196
+"PRY",162,"rural","all","1","water_daily",58.4460892403423
 "PRY",162,"rural","all","1","w_dist_treatment",17.321990076658
 "PRY",162,"rural","all","1","w_treatment",33.4359469757613
 "PRY",162,"rural","all","1","reason_w_treatment_taste",0.70699237432517
@@ -16250,7 +16250,7 @@
 "PRY",86,"rural","all","2","san_sewer",7.55366941290026
 "PRY",86,"rural","all","2","san_unimp",8.51756798569364
 "PRY",86,"rural","all","2","improved_w_access",94.0274636653044
-"PRY",86,"rural","all","2","water_daily",95.666654306332
+"PRY",86,"rural","all","2","water_daily",51.9731114747896
 "PRY",86,"rural","all","2","w_dist_treatment",12.9973807755315
 "PRY",86,"rural","all","2","w_treatment",25.157162022991
 "PRY",86,"rural","all","2","reason_w_treatment_taste",4.11153581254366
@@ -16299,7 +16299,7 @@
 "PRY",83,"rural","all","3","san_sewer",9.99499730423353
 "PRY",83,"rural","all","3","san_unimp",1.46753305334046
 "PRY",83,"rural","all","3","improved_w_access",92.8025590371263
-"PRY",83,"rural","all","3","water_daily",94.3791220328185
+"PRY",83,"rural","all","3","water_daily",65.6121474769804
 "PRY",83,"rural","all","3","w_dist_treatment",19.5018157258316
 "PRY",83,"rural","all","3","w_treatment",33.6285436595628
 "PRY",83,"rural","all","3","reason_w_treatment_taste",0
@@ -16348,7 +16348,7 @@
 "PRY",24,"rural","all","4","san_sewer",6.58495145575853
 "PRY",24,"rural","all","4","san_unimp",0
 "PRY",24,"rural","all","4","improved_w_access",97.6193267422479
-"PRY",24,"rural","all","4","water_daily",100
+"PRY",24,"rural","all","4","water_daily",66.3835191282215
 "PRY",24,"rural","all","4","w_dist_treatment",17.7387344550713
 "PRY",24,"rural","all","4","w_treatment",35.4403265000702
 "PRY",24,"rural","all","4","reason_w_treatment_taste",0
@@ -16397,7 +16397,7 @@
 "PRY",13,"rural","all","5","san_sewer",0
 "PRY",13,"rural","all","5","san_unimp",8.36199616549261
 "PRY",13,"rural","all","5","improved_w_access",100
-"PRY",13,"rural","all","5","water_daily",82.6079764201375
+"PRY",13,"rural","all","5","water_daily",26.7453934723733
 "PRY",13,"rural","all","5","w_dist_treatment",29.7995807176883
 "PRY",13,"rural","all","5","w_treatment",56.4760018148074
 "PRY",13,"rural","all","5","reason_w_treatment_taste",17.1917458892721
@@ -16446,7 +16446,7 @@
 "PRY",153,"urban","all","1","san_sewer",13.8422244718427
 "PRY",153,"urban","all","1","san_unimp",3.08777715477154
 "PRY",153,"urban","all","1","improved_w_access",94.7704788216666
-"PRY",153,"urban","all","1","water_daily",96.9434048018252
+"PRY",153,"urban","all","1","water_daily",60.0324349143673
 "PRY",153,"urban","all","1","w_dist_treatment",18.9073409111845
 "PRY",153,"urban","all","1","w_treatment",25.4942383770852
 "PRY",153,"urban","all","1","reason_w_treatment_taste",1.60120190225596
@@ -16495,7 +16495,7 @@
 "PRY",189,"urban","all","2","san_sewer",11.6266406441488
 "PRY",189,"urban","all","2","san_unimp",0
 "PRY",189,"urban","all","2","improved_w_access",98.6586351857547
-"PRY",189,"urban","all","2","water_daily",96.5243878108576
+"PRY",189,"urban","all","2","water_daily",72.2803522699716
 "PRY",189,"urban","all","2","w_dist_treatment",17.0316012748602
 "PRY",189,"urban","all","2","w_treatment",28.3665770315019
 "PRY",189,"urban","all","2","reason_w_treatment_taste",0.857636791120287
@@ -16544,7 +16544,7 @@
 "PRY",280,"urban","all","3","san_sewer",18.608004794108
 "PRY",280,"urban","all","3","san_unimp",0.176941954336967
 "PRY",280,"urban","all","3","improved_w_access",97.5388765047851
-"PRY",280,"urban","all","3","water_daily",93.7339174157619
+"PRY",280,"urban","all","3","water_daily",73.8080212297526
 "PRY",280,"urban","all","3","w_dist_treatment",21.6706823971989
 "PRY",280,"urban","all","3","w_treatment",36.2372503471824
 "PRY",280,"urban","all","3","reason_w_treatment_taste",0
@@ -16593,7 +16593,7 @@
 "PRY",115,"urban","all","4","san_sewer",25.9928145335894
 "PRY",115,"urban","all","4","san_unimp",0
 "PRY",115,"urban","all","4","improved_w_access",98.5357450701052
-"PRY",115,"urban","all","4","water_daily",98.143838677408
+"PRY",115,"urban","all","4","water_daily",72.4032737325663
 "PRY",115,"urban","all","4","w_dist_treatment",10.9293611403915
 "PRY",115,"urban","all","4","w_treatment",28.8037799090131
 "PRY",115,"urban","all","4","reason_w_treatment_taste",0
@@ -16642,7 +16642,7 @@
 "PRY",131,"urban","all","5","san_sewer",34.3547133902025
 "PRY",131,"urban","all","5","san_unimp",0
 "PRY",131,"urban","all","5","improved_w_access",95.2840187280307
-"PRY",131,"urban","all","5","water_daily",98.800023631079
+"PRY",131,"urban","all","5","water_daily",63.5922339885667
 "PRY",131,"urban","all","5","w_dist_treatment",14.8597318826453
 "PRY",131,"urban","all","5","w_treatment",41.5852637905279
 "PRY",131,"urban","all","5","reason_w_treatment_taste",1.62181378403447
@@ -16691,7 +16691,7 @@
 "SLV",390,"rural","all","1","san_sewer",10.9572289027482
 "SLV",390,"rural","all","1","san_unimp",6.19631021309679
 "SLV",390,"rural","all","1","improved_w_access",72.7438367340315
-"SLV",390,"rural","all","1","water_daily",59.8570815755591
+"SLV",390,"rural","all","1","water_daily",30.8624407493732
 "SLV",390,"rural","all","1","w_dist_treatment",17.5389500282596
 "SLV",390,"rural","all","1","w_treatment",44.8811558891877
 "SLV",390,"rural","all","1","reason_w_treatment_taste",0
@@ -16740,7 +16740,7 @@
 "SLV",231,"rural","all","2","san_sewer",14.0753870858056
 "SLV",231,"rural","all","2","san_unimp",8.26526300702925
 "SLV",231,"rural","all","2","improved_w_access",80.9929953157267
-"SLV",231,"rural","all","2","water_daily",62.5534825659426
+"SLV",231,"rural","all","2","water_daily",36.0370322562861
 "SLV",231,"rural","all","2","w_dist_treatment",20.6829932294593
 "SLV",231,"rural","all","2","w_treatment",45.2253405756223
 "SLV",231,"rural","all","2","reason_w_treatment_taste",0
@@ -16789,7 +16789,7 @@
 "SLV",86,"rural","all","3","san_sewer",15.0545343514283
 "SLV",86,"rural","all","3","san_unimp",3.55381770562601
 "SLV",86,"rural","all","3","improved_w_access",88.9483266996486
-"SLV",86,"rural","all","3","water_daily",80.0582406029291
+"SLV",86,"rural","all","3","water_daily",55.0664023269015
 "SLV",86,"rural","all","3","w_dist_treatment",25.516178339562
 "SLV",86,"rural","all","3","w_treatment",46.2935267415168
 "SLV",86,"rural","all","3","reason_w_treatment_taste",0
@@ -16838,7 +16838,7 @@
 "SLV",48,"rural","all","4","san_sewer",37.5930390469885
 "SLV",48,"rural","all","4","san_unimp",2.49960394877059
 "SLV",48,"rural","all","4","improved_w_access",94.4373747267044
-"SLV",48,"rural","all","4","water_daily",53.5209657565732
+"SLV",48,"rural","all","4","water_daily",32.4439522588405
 "SLV",48,"rural","all","4","w_dist_treatment",18.6643426251824
 "SLV",48,"rural","all","4","w_treatment",42.5437562676473
 "SLV",48,"rural","all","4","reason_w_treatment_taste",0.734648135588467
@@ -16887,7 +16887,7 @@
 "SLV",38,"rural","all","5","san_sewer",31.2301277150497
 "SLV",38,"rural","all","5","san_unimp",2.84740934386782
 "SLV",38,"rural","all","5","improved_w_access",87.075064786828
-"SLV",38,"rural","all","5","water_daily",40.8250407287804
+"SLV",38,"rural","all","5","water_daily",25.4732250097607
 "SLV",38,"rural","all","5","w_dist_treatment",14.1124754043097
 "SLV",38,"rural","all","5","w_treatment",55.4430026925691
 "SLV",38,"rural","all","5","reason_w_treatment_taste",0
@@ -16936,7 +16936,7 @@
 "SLV",123,"urban","all","1","san_sewer",48.6410879101141
 "SLV",123,"urban","all","1","san_unimp",2.21960642680987
 "SLV",123,"urban","all","1","improved_w_access",83.8294585856097
-"SLV",123,"urban","all","1","water_daily",65.5852699112217
+"SLV",123,"urban","all","1","water_daily",48.3810266763054
 "SLV",123,"urban","all","1","w_dist_treatment",16.5060511798934
 "SLV",123,"urban","all","1","w_treatment",35.9066509543955
 "SLV",123,"urban","all","1","reason_w_treatment_taste",0
@@ -16985,7 +16985,7 @@
 "SLV",157,"urban","all","2","san_sewer",60.9890809645943
 "SLV",157,"urban","all","2","san_unimp",1.23042182444169
 "SLV",157,"urban","all","2","improved_w_access",89.6542913634774
-"SLV",157,"urban","all","2","water_daily",72.4909478592224
+"SLV",157,"urban","all","2","water_daily",57.4684893096254
 "SLV",157,"urban","all","2","w_dist_treatment",22.3862743058887
 "SLV",157,"urban","all","2","w_treatment",44.0563473101381
 "SLV",157,"urban","all","2","reason_w_treatment_taste",0
@@ -17034,7 +17034,7 @@
 "SLV",119,"urban","all","3","san_sewer",75.0228986570914
 "SLV",119,"urban","all","3","san_unimp",1.78799252492173
 "SLV",119,"urban","all","3","improved_w_access",92.8776250002889
-"SLV",119,"urban","all","3","water_daily",78.3043127647348
+"SLV",119,"urban","all","3","water_daily",68.800609515593
 "SLV",119,"urban","all","3","w_dist_treatment",15.9829087054754
 "SLV",119,"urban","all","3","w_treatment",36.2541698306136
 "SLV",119,"urban","all","3","reason_w_treatment_taste",0
@@ -17083,7 +17083,7 @@
 "SLV",76,"urban","all","4","san_sewer",73.2158033175587
 "SLV",76,"urban","all","4","san_unimp",2.46586686249987
 "SLV",76,"urban","all","4","improved_w_access",95.7429979282982
-"SLV",76,"urban","all","4","water_daily",72.1964033859697
+"SLV",76,"urban","all","4","water_daily",64.4349399753853
 "SLV",76,"urban","all","4","w_dist_treatment",9.81522920534028
 "SLV",76,"urban","all","4","w_treatment",41.6330898785027
 "SLV",76,"urban","all","4","reason_w_treatment_taste",0
@@ -17132,7 +17132,7 @@
 "SLV",183,"urban","all","5","san_sewer",84.3098070134959
 "SLV",183,"urban","all","5","san_unimp",0
 "SLV",183,"urban","all","5","improved_w_access",88.6510241172166
-"SLV",183,"urban","all","5","water_daily",72.1658094856994
+"SLV",183,"urban","all","5","water_daily",58.6651592933888
 "SLV",183,"urban","all","5","w_dist_treatment",16.8910425136423
 "SLV",183,"urban","all","5","w_treatment",59.3147995030138
 "SLV",183,"urban","all","5","reason_w_treatment_taste",0
@@ -17181,7 +17181,7 @@
 "URY",136,"rural","all","1","san_sewer",18.4641941073613
 "URY",136,"rural","all","1","san_unimp",0
 "URY",136,"rural","all","1","improved_w_access",98.5661408904837
-"URY",136,"rural","all","1","water_daily",98.4241317112952
+"URY",136,"rural","all","1","water_daily",73.1875097310628
 "URY",136,"rural","all","1","w_dist_treatment",20.9280076465823
 "URY",136,"rural","all","1","w_treatment",32.3410246796752
 "URY",136,"rural","all","1","reason_w_treatment_taste",2.9382072336865
@@ -17230,7 +17230,7 @@
 "URY",38,"rural","all","2","san_sewer",35.3147245405514
 "URY",38,"rural","all","2","san_unimp",0
 "URY",38,"rural","all","2","improved_w_access",100
-"URY",38,"rural","all","2","water_daily",95.5674317840368
+"URY",38,"rural","all","2","water_daily",77.4069742768536
 "URY",38,"rural","all","2","w_dist_treatment",13.3523162616506
 "URY",38,"rural","all","2","w_treatment",32.6659808794915
 "URY",38,"rural","all","2","reason_w_treatment_taste",2.78158683012117
@@ -17279,7 +17279,7 @@
 "URY",18,"rural","all","3","san_sewer",16.0611896869622
 "URY",18,"rural","all","3","san_unimp",0
 "URY",18,"rural","all","3","improved_w_access",100
-"URY",18,"rural","all","3","water_daily",100
+"URY",18,"rural","all","3","water_daily",80.3847128263425
 "URY",18,"rural","all","3","w_dist_treatment",15.7015357756696
 "URY",18,"rural","all","3","w_treatment",32.4402051062999
 "URY",18,"rural","all","3","reason_w_treatment_taste",8.64309206578917
@@ -17328,7 +17328,7 @@
 "URY",5,"rural","all","4","san_sewer",14.2465486019529
 "URY",5,"rural","all","4","san_unimp",0
 "URY",5,"rural","all","4","improved_w_access",100
-"URY",5,"rural","all","4","water_daily",100
+"URY",5,"rural","all","4","water_daily",25.8447582995381
 "URY",5,"rural","all","4","w_dist_treatment",0
 "URY",5,"rural","all","4","w_treatment",0
 "URY",5,"rural","all","4","reason_w_treatment_taste",0
@@ -17377,7 +17377,7 @@
 "URY",8,"rural","all","5","san_sewer",35.6174276500993
 "URY",8,"rural","all","5","san_unimp",0
 "URY",8,"rural","all","5","improved_w_access",100
-"URY",8,"rural","all","5","water_daily",100
+"URY",8,"rural","all","5","water_daily",79.4707877299676
 "URY",8,"rural","all","5","w_dist_treatment",42.7746660817828
 "URY",8,"rural","all","5","w_treatment",90.0042988525954
 "URY",8,"rural","all","5","reason_w_treatment_taste",0
@@ -17426,7 +17426,7 @@
 "URY",462,"urban","all","1","san_sewer",53.6841237066567
 "URY",462,"urban","all","1","san_unimp",0
 "URY",462,"urban","all","1","improved_w_access",100
-"URY",462,"urban","all","1","water_daily",100
+"URY",462,"urban","all","1","water_daily",94.6333414719581
 "URY",462,"urban","all","1","w_dist_treatment",24.3315816799761
 "URY",462,"urban","all","1","w_treatment",33.3715031872737
 "URY",462,"urban","all","1","reason_w_treatment_taste",7.65697314076848
@@ -17475,7 +17475,7 @@
 "URY",251,"urban","all","2","san_sewer",65.018779746178
 "URY",251,"urban","all","2","san_unimp",0
 "URY",251,"urban","all","2","improved_w_access",100
-"URY",251,"urban","all","2","water_daily",100
+"URY",251,"urban","all","2","water_daily",98.2601167234431
 "URY",251,"urban","all","2","w_dist_treatment",22.1255217547521
 "URY",251,"urban","all","2","w_treatment",40.8870497048769
 "URY",251,"urban","all","2","reason_w_treatment_taste",4.38447091253681
@@ -17524,7 +17524,7 @@
 "URY",180,"urban","all","3","san_sewer",76.5451321605268
 "URY",180,"urban","all","3","san_unimp",0
 "URY",180,"urban","all","3","improved_w_access",99.5798279291402
-"URY",180,"urban","all","3","water_daily",99.5997548389063
+"URY",180,"urban","all","3","water_daily",95.6283029993934
 "URY",180,"urban","all","3","w_dist_treatment",20.2168326920388
 "URY",180,"urban","all","3","w_treatment",47.9670074257612
 "URY",180,"urban","all","3","reason_w_treatment_taste",3.93542250814339
@@ -17573,7 +17573,7 @@
 "URY",125,"urban","all","4","san_sewer",78.539301104841
 "URY",125,"urban","all","4","san_unimp",0
 "URY",125,"urban","all","4","improved_w_access",100
-"URY",125,"urban","all","4","water_daily",100
+"URY",125,"urban","all","4","water_daily",99.474570990336
 "URY",125,"urban","all","4","w_dist_treatment",31.8147074656228
 "URY",125,"urban","all","4","w_treatment",74.9406431823858
 "URY",125,"urban","all","4","reason_w_treatment_taste",4.58898338047074
@@ -17622,7 +17622,7 @@
 "URY",139,"urban","all","5","san_sewer",86.8892957388192
 "URY",139,"urban","all","5","san_unimp",0
 "URY",139,"urban","all","5","improved_w_access",100
-"URY",139,"urban","all","5","water_daily",99.4206384927533
+"URY",139,"urban","all","5","water_daily",98.9452008030287
 "URY",139,"urban","all","5","w_dist_treatment",28.6442901807778
 "URY",139,"urban","all","5","w_treatment",64.4816278329731
 "URY",139,"urban","all","5","reason_w_treatment_taste",6.3467362397039

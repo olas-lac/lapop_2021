@@ -220,10 +220,31 @@ mean(is.na(lapop$pais))
       # lapop$improved_w_access <-improved_w_access$improved
       
       
-      lapop$water_daily <- ifelse(lapop$psc7n >3,1,
-                                  ifelse(is.na(lapop$psc7n), NA,
-                                         ifelse(lapop$psc7n <4,0,0)))
+      lapop$water_daily <- ifelse(lapop$psc7n %in% c(4:7),1,
+                                  ifelse(is.na(lapop$psc2n), NA,
+                                         ifelse(lapop$psc7n %in% c(0:3)|lapop$psc2n >2,0,0)))
 
+      
+     # lapoptest<-select(lapop,iso3,water_daily, psc2n,psc7n)
+      #      
+      #       lapop2021_sd <- as_survey_design(lapoptest,
+      #                                      ids = upm,
+      #                                       strata = strata,
+      #                                       weight = wt,
+      #                                       nest=TRUE)
+      #       test <- lapop2021_sd%>%
+      #        dplyr::group_by(iso3) %>%
+      #        srvyr::summarise(no_san_access = survey_mean(no_san_access, na.rm = T,  vartype = NULL),
+      #                         san_sewer = survey_mean(san_sewer, na.rm = T,  vartype = NULL),
+      #                         san_septic = survey_mean(san_septic, na.rm = T,  vartype = NULL),
+      #                         san_implatrine = survey_mean(san_implatrine, na.rm = T,  vartype = NULL),
+      #                         san_other = survey_mean(san_other, na.rm = T,  vartype = NULL),
+      #                         san_unimp = survey_mean(san_unimp, na.rm = T,  vartype = NULL),
+      #                         san_ecolatrine = survey_mean(san_ecolatrine, na.rm = T,  vartype = NULL),)
+      # test$test <- test$no_san_access+test$san_sewer +test$san_septic +test$san_implatrine +test$san_other +test$san_unimp +test$san_ecolatrine
+      
+      
+      
       
       # lapop$water_dist_daily <- ifelse((lapop$psc1n %in% c(1,2) | lapop$psc2n %in% c(1,2)) & lapop$psc9n == 2,1,
       #                                  ifelse(is.na(lapop$psc9n), NA,
